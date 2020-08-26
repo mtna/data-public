@@ -1,9 +1,9 @@
 name: fiveThirtyEight
 on: 
-   schedule:
-   #run daily at 5:20 UTC
-     - cron: '20 5 * * *'
-    
+   workflow_dispatch:
+#    schedule:
+#    #run daily at 5:20 UTC
+#      - cron: '20 5 * * *'
 #   push:
 #    branches: [ master ]
 
