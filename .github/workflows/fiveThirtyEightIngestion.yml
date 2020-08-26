@@ -1,6 +1,10 @@
 name: fiveThirtyEight
 on: 
    workflow_dispatch:
+     default:
+        description: 'run manually'
+        required: false
+
 #    schedule:
 #    #run daily at 5:20 UTC
 #      - cron: '20 5 * * *'
