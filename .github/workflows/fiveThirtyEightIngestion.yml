@@ -26,7 +26,7 @@ jobs:
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
        git pull github ${GITHUB_REF} --ff-only
-       /bin/sh scripts/csvDownload.sh 538_ECON_INDEX https://projects.fivethirtyeight.com/2020-general-data/economic_index.csv data/election-forecasts-2020/economic-index/raw
+       /bin/sh scripts/csvDownload.sh 538_ECON_INDEX https://projects.fivethirtyeight.com/2020-general-data/economic_index.csv data/fivethirtyeight/election-forecasts-2020/economic-index/raw
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -38,7 +38,7 @@ jobs:
          pip install addfips
     - name: transform
       run: |
-       python data/election-forecasts-2020/economic-index/harvester.py
+       python data/fivethirtyeight/election-forecasts-2020/economic-index/harvester.py
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -70,7 +70,7 @@ jobs:
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
        git pull github ${GITHUB_REF} --ff-only
-       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_ev_probabilities_2020.csv data/election-forecasts-2020/presidential-ev-probabilities-2020/raw
+       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_ev_probabilities_2020.csv data/fivethirtyeight/election-forecasts-2020/presidential-ev-probabilities-2020/raw
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -82,7 +82,7 @@ jobs:
          pip install addfips
     - name: transform
       run: |
-       python data/election-forecasts-2020/presidential-ev-probabilities-2020/harvester.py
+       python data/fivethirtyeight/election-forecasts-2020/presidential-ev-probabilities-2020/harvester.py
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -114,7 +114,7 @@ jobs:
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
        git pull github ${GITHUB_REF} --ff-only
-       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_national_toplines_2020.csv data/election-forecasts-2020/presidential-national-toplines-2020/raw
+       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_national_toplines_2020.csv data/fivethirtyeight/election-forecasts-2020/presidential-national-toplines-2020/raw
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -126,7 +126,7 @@ jobs:
          pip install addfips
     - name: transform
       run: |
-       python data/election-forecasts-2020/presidential-national-toplines-2020/harvester.py
+       python data/fivethirtyeight/election-forecasts-2020/presidential-national-toplines-2020/harvester.py
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -157,7 +157,7 @@ jobs:
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
        git pull github ${GITHUB_REF} --ff-only
-       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv data/election-forecasts-2020/presidential-scenario-analysis-2020/raw
+       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv data/fivethirtyeight/election-forecasts-2020/presidential-scenario-analysis-2020/raw
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -169,7 +169,7 @@ jobs:
          pip install addfips
     - name: transform
       run: |
-       python data/election-forecasts-2020/presidential-scenario-analysis-2020/harvester.py
+       python data/fivethirtyeight/election-forecasts-2020/presidential-scenario-analysis-2020/harvester.py
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -200,7 +200,7 @@ jobs:
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
        git pull github ${GITHUB_REF} --ff-only
-       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_state_toplines_2020.csv data/election-forecasts-2020/presidential-state-toplines-2020/raw
+       /bin/sh scripts/csvDownload.sh 538_EV_PROBS https://projects.fivethirtyeight.com/2020-general-data/presidential_state_toplines_2020.csv data/fivethirtyeight/election-forecasts-2020/presidential-state-toplines-2020/raw
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -212,7 +212,7 @@ jobs:
          pip install addfips
     - name: transform
       run: |
-       python data/election-forecasts-2020/presidential-state-toplines-2020/harvester.py
+       python data/fivethirtyeight/election-forecasts-2020/presidential-state-toplines-2020/harvester.py
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
