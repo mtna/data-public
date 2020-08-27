@@ -5,9 +5,9 @@ on:
         description: 'run manually'
         required: false
 
-#    schedule:
-#    #run daily at 5:20 UTC
-#      - cron: '20 5 * * *'
+   schedule:
+   #run daily at 4:00 UTC
+     - cron: '00 4 * * *'
 #   push:
 #    branches: [ master ]
 
