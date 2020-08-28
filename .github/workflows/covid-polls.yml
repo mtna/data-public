@@ -1,0 +1,271 @@
+name: covid-polls
+on: 
+   workflow_dispatch:
+     default:
+        description: 'run manually'
+        required: false
+
+   schedule:
+   #run daily at 4:10 UTC
+     - cron: '10 4 * * *'
+      
+
+jobs:
+ approval-polls:   
+    name: Approval Polls data Ingestion
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_APPROVAL https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_approval_polls.csv data/fivethirtyeight/covid-19-polls/approval-polls/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/approval-polls/harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 approval polls workflow.' # Optional
+
+ approval-polls-adjusted:   
+    needs: [approval-polls]
+
+    name: 538 Approval Polls Adjusted
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_APPROVAL_ADJ https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_approval_polls_adjusted.csv data/fivethirtyeight/covid-19-polls/approval-polls-adjusted/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/approval-polls-adjusted//harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 approval-polls-adjusted workflow.' # Optional
+
+
+ approval-toplines:  
+    needs: [approval-polls-adjusted] 
+    name: 538 Approval Toplines
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_APP_TOPLINES https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_approval_toplines.csv data/fivethirtyeight/covid-19-polls/approval-toplines/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/approval-toplines/harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 approval-toplines-2020 workflow.' # Optional
+
+ concern-polls-adjusted:   
+    needs: [approval-toplines] 
+    name: 538 Concern Polls (Adjusted)
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_CONCERN_ADJ https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_concern_polls_adjusted.csv data/fivethirtyeight/covid-19-polls/concern-polls-adjusted/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/concern-polls-adjusted/harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 concern polls (adjusted) workflow.' # Optional
+
+ concern-polls:   
+    needs: [concern-polls-adjusted]
+    name: 538 Concern Polls
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_CONCERN https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_concern_polls.csv data/fivethirtyeight/covid-19-polls/concern-polls/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/concern-polls/harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 Concern Polls workflow.' # Optional
+          
+ concern-toplines:   
+    needs: [concern-polls]
+    name: 538 Concern Toplines
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+       #set up username and id 
+    - uses: fregante/setup-git-token@v1
+      with:
+         token: ${{ secrets.GITHUB_TOKEN }}
+    - name: pull data via curl
+      run: |
+       git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+       git pull github ${GITHUB_REF} --ff-only
+       /bin/sh scripts/csvDownload.sh 538_CONCERN_TOPLINES https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/master/covid_concern_toplines.csv data/fivethirtyeight/covid-19-polls/concern-toplines/raw
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+         pip install pandas
+         pip install addfips
+    - name: transform
+      run: |
+       python data/fivethirtyeight/covid-19-polls/concern-toplines/harvester.py
+       git add .
+       git commit -m "adding data via github actions"
+       git push github HEAD:${GITHUB_REF}
+    - name: Slack notification
+      #should run if any previous step fails
+      if: failure()
+      env:
+       SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+       SLACK_USERNAME: GitHub Actions # Optional. (defaults to webhook app)
+       SLACK_CHANNEL: alerts-rds # Optional. (defaults to webhook)
+       SLACK_AVATAR: repository # Optional. can be (repository, sender, an URL) (defaults to webhook app avatar)
+      uses: Ilshidur/action-slack@master
+      with:
+          args: 'Something went wrong in the 538 Concern Toplines workflow.' # Optional
