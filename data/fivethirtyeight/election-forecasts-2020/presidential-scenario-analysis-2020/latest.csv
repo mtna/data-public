@@ -1,17 +1,95 @@
 election_cycle,race_type,name_incumbent,name_challenger,name_third,scenario_id,scenario_probability,scenario_description,model,date_modeled,simulation_timestamp,simulation_count
-2020,President,Trump,Biden,,1,0.0034,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,2,0.0487,Recount (1+ decisive states within 0.5 ppt),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,3,0.163075,Trump wins popular vote,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,4,0.836925,Biden wins popular vote,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,5,0.0011375,Trump wins popular vote but loses Electoral College,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,6,0.1078875,Biden wins popular vote but loses Electoral College,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,8,0.12235,Trump majority (at least 50 percent of the vote),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,9,0.78585,Biden majority (at least 50 percent of the vote),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,10,0.0106,Trump landslide (double-digit popular vote margin),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,11,0.306575,Biden landslide (double-digit popular vote margin),1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,12,0.000625,Map exactly the same as in 2016,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,13,0.416875,Trump wins at least one state Clinton won in 2016,1,2020-08-21,09:33:03 21 Aug 2020,40000
-2020,President,Trump,Biden,,14,0.8724,Biden wins at least one state Trump won in 2016,1,2020-08-21,09:33:03 21 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.0042,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.0495,Recount (1+ decisive states within 0.5 ppt),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.182875,Trump wins popular vote,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.817125,Biden wins popular vote,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.000925,Trump wins popular vote but loses Electoral College,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.11955,Biden wins popular vote but loses Electoral College,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.137525,Trump majority (at least 50 percent of the vote),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.761,Biden majority (at least 50 percent of the vote),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.01275,Trump landslide (double-digit popular vote margin),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.282425,Biden landslide (double-digit popular vote margin),1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.00045,Map exactly the same as in 2016,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.44245,Trump wins at least one state Clinton won in 2016,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.8634,Biden wins at least one state Trump won in 2016,1,2020-08-27,19:00:04 27 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.0039,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.04965,Recount (1+ decisive states within 0.5 ppt),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.185375,Trump wins popular vote,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.814625,Biden wins popular vote,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.0011375,Trump wins popular vote but loses Electoral College,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.1182625,Biden wins popular vote but loses Electoral College,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.141,Trump majority (at least 50 percent of the vote),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.759575,Biden majority (at least 50 percent of the vote),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.0137,Trump landslide (double-digit popular vote margin),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.280575,Biden landslide (double-digit popular vote margin),1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.00055,Map exactly the same as in 2016,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.445825,Trump wins at least one state Clinton won in 2016,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.8648,Biden wins at least one state Trump won in 2016,1,2020-08-26,19:01:03 26 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.003675,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.0485,Recount (1+ decisive states within 0.5 ppt),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.16285,Trump wins popular vote,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.83715,Biden wins popular vote,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.001175,Trump wins popular vote but loses Electoral College,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.1106125,Biden wins popular vote but loses Electoral College,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.12325,Trump majority (at least 50 percent of the vote),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.784825,Biden majority (at least 50 percent of the vote),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.011975,Trump landslide (double-digit popular vote margin),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.309175,Biden landslide (double-digit popular vote margin),1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.000375,Map exactly the same as in 2016,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.417425,Trump wins at least one state Clinton won in 2016,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.8784,Biden wins at least one state Trump won in 2016,1,2020-08-25,23:50:03 25 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.00345,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.0462,Recount (1+ decisive states within 0.5 ppt),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.165475,Trump wins popular vote,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.834525,Biden wins popular vote,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.0010875,Trump wins popular vote but loses Electoral College,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.1069125,Biden wins popular vote but loses Electoral College,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.1258,Trump majority (at least 50 percent of the vote),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.78225,Biden majority (at least 50 percent of the vote),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.011225,Trump landslide (double-digit popular vote margin),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.310575,Biden landslide (double-digit popular vote margin),1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.000275,Map exactly the same as in 2016,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.418425,Trump wins at least one state Clinton won in 2016,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.87855,Biden wins at least one state Trump won in 2016,1,2020-08-24,20:38:02 24 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.003075,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.04645,Recount (1+ decisive states within 0.5 ppt),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.166625,Trump wins popular vote,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.833375,Biden wins popular vote,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.001075,Trump wins popular vote but loses Electoral College,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.1032875,Biden wins popular vote but loses Electoral College,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.125525,Trump majority (at least 50 percent of the vote),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.783075,Biden majority (at least 50 percent of the vote),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.011225,Trump landslide (double-digit popular vote margin),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.321825,Biden landslide (double-digit popular vote margin),1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.000325,Map exactly the same as in 2016,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.412875,Trump wins at least one state Clinton won in 2016,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.877675,Biden wins at least one state Trump won in 2016,1,2020-08-23,19:00:03 23 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.0035,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.04665,Recount (1+ decisive states within 0.5 ppt),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.1667,Trump wins popular vote,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.8333,Biden wins popular vote,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.0015375,Trump wins popular vote but loses Electoral College,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.1075875,Biden wins popular vote but loses Electoral College,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.1258,Trump majority (at least 50 percent of the vote),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.781775,Biden majority (at least 50 percent of the vote),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.01085,Trump landslide (double-digit popular vote margin),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.31485,Biden landslide (double-digit popular vote margin),1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.000375,Map exactly the same as in 2016,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.41575,Trump wins at least one state Clinton won in 2016,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.8798,Biden wins at least one state Trump won in 2016,1,2020-08-22,19:00:03 22 Aug 2020,40000
+2020,President,Trump,Biden,,1,0.003675,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,2,0.047775,Recount (1+ decisive states within 0.5 ppt),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,3,0.16485,Trump wins popular vote,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,4,0.83515,Biden wins popular vote,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,5,0.0012125,Trump wins popular vote but loses Electoral College,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,6,0.105775,Biden wins popular vote but loses Electoral College,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,8,0.12445,Trump majority (at least 50 percent of the vote),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,9,0.7848,Biden majority (at least 50 percent of the vote),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,10,0.01135,Trump landslide (double-digit popular vote margin),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,11,0.314925,Biden landslide (double-digit popular vote margin),1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,12,0.000475,Map exactly the same as in 2016,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,13,0.411275,Trump wins at least one state Clinton won in 2016,1,2020-08-21,19:26:02 21 Aug 2020,40000
+2020,President,Trump,Biden,,14,0.87925,Biden wins at least one state Trump won in 2016,1,2020-08-21,19:26:02 21 Aug 2020,40000
 2020,President,Trump,Biden,,1,0.003525,Electoral College deadlock (No candidate gets 270 electoral votes),1,2020-08-20,19:00:04 20 Aug 2020,40000
 2020,President,Trump,Biden,,2,0.04735,Recount (1+ decisive states within 0.5 ppt),1,2020-08-20,19:00:04 20 Aug 2020,40000
 2020,President,Trump,Biden,,3,0.1677,Trump wins popular vote,1,2020-08-20,19:00:04 20 Aug 2020,40000

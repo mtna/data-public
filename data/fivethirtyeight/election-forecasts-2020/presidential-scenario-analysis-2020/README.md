@@ -1,4 +1,4 @@
-# FiveThirtyEight - Electoral Vote Probabilities 2020
+# FiveThirtyEight - Presidential Scenario Analysis 2020
 
 This [dataset](https://projects.fivethirtyeight.com/2020-general-data/presidential_scenario_analysis_2020.csv) is pulled nightly from the [FiveThirtyEight GitHub repository on the 2020 U.S. Election Forecasts](https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020). We pull and process it nightly as a simple approach to ensure that we are up to date with the source data.
 
