@@ -1,13 +1,16 @@
 name: covid-polls
 on: 
-   workflow_dispatch:
-     default:
-        description: 'run manually'
-        required: false
+#    workflow_dispatch:
+#      default:
+#         description: 'run manually'
+#         required: false
 
-   schedule:
-   #run daily at 4:10 UTC
-     - cron: '10 4 * * *'
+#    schedule:
+#    #run daily at 4:10 UTC
+#      - cron: '10 4 * * *'
+    push:
+       branches: covid-polls
+      
 
 jobs:
  approval-polls:   
@@ -226,7 +229,7 @@ jobs:
       with:
           args: 'Something went wrong in the 538 Concern Polls workflow.' # Optional
           
-concern-toplines:   
+ concern-toplines:   
     needs: [concern-polls]
     name: 538 Concern Toplines
     runs-on: ubuntu-latest
