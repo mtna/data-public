@@ -1,15 +1,13 @@
 name: covid-polls
 on: 
-#    workflow_dispatch:
-#      default:
-#         description: 'run manually'
-#         required: false
+   workflow_dispatch:
+     default:
+        description: 'run manually'
+        required: false
 
-#    schedule:
-#    #run daily at 4:10 UTC
-#      - cron: '10 4 * * *'
-    push:
-       branches: covid-polls
+   schedule:
+   #run daily at 4:10 UTC
+     - cron: '10 4 * * *'
       
 
 jobs:
