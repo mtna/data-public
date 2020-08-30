@@ -190,7 +190,7 @@ jobs:
     needs: [economic-index, presidential-ev-prob-2020, presidential-national-toplines-2020, presidential-scenario-analysis-2020]
     name: 538 State Toplines 2020
     runs-on: ubuntu-latest
-    
+    if: always()
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
