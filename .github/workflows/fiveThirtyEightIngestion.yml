@@ -14,6 +14,7 @@ on:
 jobs:
  economic-index:   
     name: Economic Index data Ingestion
+    if: always()
     runs-on: ubuntu-latest
     
     steps:
@@ -56,7 +57,7 @@ jobs:
 
  presidential-ev-prob-2020:   
     needs: [economic-index]
-
+    if: always()
     name: 538 Electoral Vote Probabilities 2020
     runs-on: ubuntu-latest
     
@@ -103,7 +104,7 @@ jobs:
     needs: [economic-index, presidential-ev-prob-2020] 
     name: 538 National Toplines 2020
     runs-on: ubuntu-latest
-    
+    if: always()
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
@@ -146,7 +147,7 @@ jobs:
     needs: [economic-index, presidential-ev-prob-2020, presidential-national-toplines-2020] 
     name: 538 Electoral Vote Scenario Analysis 2020
     runs-on: ubuntu-latest
-    
+    if: always()
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
