@@ -49,7 +49,7 @@ The following operations have been performed on the source file:
 | name_challenger      | Name of the challenging candidate. | Text |
 | name_third           | Name of the third-party candidate. | Text |
 | scenario_id          | A unique identifier for the scenario within the date this was modeled. | Text |
-| scenario_probability | The forecasted chance that the scenario will happen. | Int |
+| scenario_probability | The forecasted chance that the scenario will happen. | Numeric |
 | scenario_description | A description of the scenario in question. | Numeric |
 | model                | The model type. Polls-plus is the only model being run for the 2020 presidential race (as opposed to polls-only). The polls-only model relies only on polls from a particular state, while the polls-plus model is based on state polls, national polls and endorsements as described <a href="https://en.wikipedia.org/wiki/FiveThirtyEight" target="_blank">here</a>. | 0: polls-only, 1: polls-plus |
 | date_modeled         | Date of the model run | Date |

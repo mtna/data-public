@@ -10,7 +10,7 @@ This [dataset](https://raw.githubusercontent.com/fivethirtyeight/covid-19-polls/
 | end_date    | End date of poll | Date |
 | pollster    | Organization that conducted the poll | Text |
 | sponsor     | Organization that sponsored the poll | Text |
-| sample_size | Size of polling sample | Int |
+| sample_size | Size of polling sample | Numeric |
 | population  | A for adults, RV for registered voters, LV for likely voters | Text |
 | party       | Party of respondents | Text |
 | subject     | For approval polls, this column marks whose handling of covid-19 the approval poll is about (e.g. Trump). | Text |
@@ -53,7 +53,7 @@ The following operations have been performed on the source file:
 | question_text  | The text of the question the pollster asked. |Text |
 | population     | The population being measured. | a: Adults, rv: Registered Voters, lv: Likely Voters |
 | party          | The party affiliation of the respondents. | all: All Parties, D: Democrat, I: Independent, R: Republican |
-| sample_size    | The size of the polling sample. | Int |
+| sample_size    | The size of the polling sample. | Numeric |
 | pct_approve    | The percent of approving respondents. | Numeric |
 | pct_disapprove | The percent of disapproving respondents. | Numeric |
 | poll_url       | The URL to the poll. | Text |

@@ -24,12 +24,12 @@ This [dataset](https://projects.fivethirtyeight.com/2020-general-data/presidenti
 | ev_inc                     | Forecasted number of Electoral College votes for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | ev_chal                    | Forecasted number of Electoral College votes for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | ev_3rd                     | Forecasted number of Electoral College votes for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
-| ev_inc_lo                  | Forecasted number of Electoral College votes for the incumbent, including the upper and lower bounds of an 80% confidence interval | Int |
-| ev_chal_lo                 | Forecasted number of Electoral College votes for the challenger, including the upper and lower bounds of an 80% confidence interval | Int |
-| ev_3rd_lo                  | Forecasted number of Electoral College votes for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Int |
-| ev_inc_hi                  | Forecasted number of Electoral College votes for the incumbent, including the upper and lower bounds of an 80% confidence interval | Int |
-| ev_chal_hi                 | Forecasted number of Electoral College votes for the challenger, including the upper and lower bounds of an 80% confidence interval | Int |
-| ev_3rd_hi                  | Forecasted number of Electoral College votes for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Int |
+| ev_inc_lo                  | Forecasted number of Electoral College votes for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| ev_chal_lo                 | Forecasted number of Electoral College votes for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| ev_3rd_lo                  | Forecasted number of Electoral College votes for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| ev_inc_hi                  | Forecasted number of Electoral College votes for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| ev_chal_hi                 | Forecasted number of Electoral College votes for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| ev_3rd_hi                  | Forecasted number of Electoral College votes for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | national_voteshare_inc     | Forecasted national vote share for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | national_voteshare_chal    | Forecasted national vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | national_voteshare_3rd     | Forecasted national vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
@@ -111,12 +111,12 @@ The following operations have been performed on the source file:
 | votes_ec_incumbent          | The forecasted number of Electoral College votes for the incumbent. | Numeric |
 | votes_ec_challenger         | The forecasted number of Electoral College votes for the challenger. | Numeric |
 | votes_ec_third              | The forecasted number of Electoral College votes for the third-party candidate. | Numeric |
-| votes_ec_lo_incumbent       | The forecasted number of Electoral College votes for the incumbent - lower bound of 80% confidence interval. | Int |
-| votes_ec_lo_challenger      | The forecasted number of Electoral College votes for the challenger - lower bound of 80% confidence interval. | Int |
-| votes_ec_lo_third           | The forecasted number of Electoral College votes for the third-party candidate - lower bound of 80% confidence interval. | Int |
-| votes_ec_hi_incumbent       | The forecasted number of Electoral College votes for the incumbent - upper bound of 80% confidence interval. | Int |
-| votes_ec_hi_challenger      | The forecasted number of Electoral College votes for the challenger - upper bound of 80% confidence interval. | Int |
-| votes_ec_hi_third           | The forecasted number of Electoral College votes for the third-party candidate - upper bound of 80% confidence interval. | Int |
+| votes_ec_lo_incumbent       | The forecasted number of Electoral College votes for the incumbent - lower bound of 80% confidence interval. | Numeric |
+| votes_ec_lo_challenger      | The forecasted number of Electoral College votes for the challenger - lower bound of 80% confidence interval. | Numeric |
+| votes_ec_lo_third           | The forecasted number of Electoral College votes for the third-party candidate - lower bound of 80% confidence interval. | Numeric |
+| votes_ec_hi_incumbent       | The forecasted number of Electoral College votes for the incumbent - upper bound of 80% confidence interval. | Numeric |
+| votes_ec_hi_challenger      | The forecasted number of Electoral College votes for the challenger - upper bound of 80% confidence interval. | Numeric |
+| votes_ec_hi_third           | The forecasted number of Electoral College votes for the third-party candidate - upper bound of 80% confidence interval. | Numeric |
 | voteshare_nat_incumbent     | The forecasted national vote share for the incumbent. | Numeric |
 | voteshare_nat_challenger    | The forecasted national vote share for the challenger. | Numeric |
 | voteshare_nat_third         | The forecasted national vote share for the third-party candidate. | Numeric |

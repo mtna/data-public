@@ -15,7 +15,7 @@ The metadata for each of these datasets is taken from the provided descriptions 
 | enddate             | End date of poll | Date |
 | pollster            | Organization that conducted the poll | Text |
 | grade               | Grade given to the pollster in our Pollster Ratings | Text |
-| samplesize          | Size of polling sample | Int |
+| samplesize          | Size of polling sample | Numeric |
 | population          | A for adults, RV for registered voters, LV for likely voters | Text |
 | weight              | Weight given to each poll in the model | Numeric |
 | influence           | Weight given to each poll, adjusted for recency | Numeric |
@@ -71,7 +71,7 @@ The following operations have been performed on the source file:
 | poll_multi_version      | A boolean flag indicating if there were multiple versions of a poll in the raw data that were combined. If the same poll asked more than one relevant question (using different wording), both questions were included, but the results of those questions were averaged together, then input into the model, so the poll was not double counted. | Boolean |
 | population              | The population being measured. | a: Adults, rv: Registered Voters, lv: Likely Voters |
 | party                   | The party affiliation of the respondents. | all: All Parties, D: Democrat, I: Independent, R: Republican |
-| sample_size             | The size of the polling sample. | Int |
+| sample_size             | The size of the polling sample. | Numeric |
 | pct_approve             | The percent of approving respondents. | Numeric |
 | pct_disapprove          | The percent of disapproving respondents. | Numeric |
 | pct_approve_adjusted    | The adjusted percent of approving respondents. | Numeric |

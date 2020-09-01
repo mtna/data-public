@@ -24,12 +24,12 @@ This [dataset](https://projects.fivethirtyeight.com/2020-general-data/presidenti
 | voteshare_inc_lo         | Forecasted vote share for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | voteshare_inc_hi         | Forecasted vote share for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | voteshare_chal           | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
-| voteshare_chal_lo        | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Int |
-| voteshare_chal_hi        | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Int |
-| voteshare_3rd            | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Int |
-| voteshare_3rd_lo         | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Int |
-| voteshare_3rd_hi         | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Int |
-| voteshare_other          | Forecasted vote share for other candidates, including the upper and lower bounds of an 80% confidence interval | Int |
+| voteshare_chal_lo        | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| voteshare_chal_hi        | Forecasted vote share for the challenger, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| voteshare_3rd            | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| voteshare_3rd_lo         | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | Numeric |
+| voteshare_3rd_hi         | Forecasted vote share for the third-party candidate, including the upper and lower bounds of an 80% confidence interval | InNumerict |
+| voteshare_other          | Forecasted vote share for other candidates, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | voteshare_other_lo       | Forecasted vote share for other candidates, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | voteshare_other_hi       | Forecasted vote share for other candidates, including the upper and lower bounds of an 80% confidence interval | Numeric |
 | margin                   | Forecasted margin for the incumbent, including the upper and lower bounds of an 80% confidence interval | Numeric |
