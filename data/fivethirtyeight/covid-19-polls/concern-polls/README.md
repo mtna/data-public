@@ -44,21 +44,24 @@ The following operations have been performed on the source file:
 - The poll_subject variable has been coded.
 - The tracking variable has been coded rather than using a boolean.
 - The party variable has been coded.
+- The population variable has been coded.
 
 ## Transformed Structure 
 
 |Variable | Description | Type/Coding |
 |---|----|--|
-| date_start     | The start date of the poll. | Date |
-| date_end       | The end date of the poll. | Date |
-| pollster       | The organization that conducted the poll. | Text |
-| poll_sponsor   | The organization that sponsored the poll. | Text |
-| poll_type      | The type of poll; tracking or non-tracking. Tracking polls are polls where the pollster is releasing data with overlapping samples. | 0: Non-Tracking Poll, 1: Tracking Poll |
-| poll_subject   | The chance that the incumbent wins the electoral votes (votes_ec_total). | Text |
-| question_text  | The text of the question the pollster asked. |Text |
-| population     | The population being measured. | a: Adults, rv: Registered Voters, lv: Likely Voters |
-| party          | The party affiliation of the respondents. | all: All Parties, D: Democrat, I: Independent, R: Republican |
-| sample_size    | The size of the polling sample. | Numeric |
-| pct_approve    | The percent of approving respondents. | Numeric |
-| pct_disapprove | The percent of disapproving respondents. | Numeric |
-| poll_url       | The URL to the poll. | Text |
+| date_start           | The start date of the poll. | Date |
+| date_end             | The end date of the poll. | Date |
+| pollster             | The organization that conducted the poll. | Text |
+| poll_sponsor         | The organization that sponsored the poll. | Text |
+| poll_type            | The type of poll; tracking or non-tracking. Tracking polls are polls where the pollster is releasing data with overlapping samples. | 0: Non-Tracking Poll, 1: Tracking Poll |
+| poll_subject         | The chance that the incumbent wins the electoral votes (votes_ec_total). | Text |
+| question_text        | The text of the question the pollster asked. |Text |
+| population           | The population being measured. | a: Adults, rv: Registered Voters, lv: Likely Voters |
+| party                | The party affiliation of the respondents. | all: All Parties, D: Democrat, I: Independent, R: Republican |
+| sample_size          | The size of the polling sample. | Numeric |
+| pct_concern_very     | The percent of approving respondents. | Numeric |
+| pct_concern_some     | The percent of disapproving respondents. | Numeric |
+| pct_concern_not_very | The percent of approving respondents. | Numeric |
+| pct_concern_none     | The percent of disapproving respondents. | Numeric |
+| poll_url             | The URL to the poll. | Text |
