@@ -1,5 +1,6 @@
 import addfips
 import pandas as pd
+import numpy as np
 
 variables = {
     'NCES School ID': 'school_id_nces',
@@ -68,17 +69,33 @@ if __name__ == "__main__":
     df['us_state_fips'] = state_fips
     df['us_county_fips'] = county_fips
 
-    # cleaning up nces columns
-    df['is_lunch_reduced'] = df['is_lunch_reduced'].map({True: 1, False: 0})
-    df['student_teacher_ratio'] = df['student_teacher_ratio'].map(
-        {True: 1, False: 0})
-    df['is_charter'] = df['is_charter'].map({True: 1, False: 0})
-    df['is_magnet'] = df['is_magnet'].map({True: 1, False: 0})
-    df['is_title_1_school'] = df['is_title_1_school'].map({True: 1, False: 0})
+    # ensure locale has no decimals
+    df['locale'] = df['locale'].astype(pd.Int32Dtype())
+    df['grade_high'] = df['grade_high'].astype(str)
+
+    # 0 pad any ids that do not match the NCES length
+    df['school_id_nces'] = df['school_id_nces'].apply(lambda x: '{0:0>12}'.format(x))
+    df['district_id_nces'] = df['district_id_nces'].apply(lambda x: '{0:0>7}'.format(x))
+    df['zip'] = df['zip'].apply(lambda x: '{0:0>5}'.format(x))
+    df['zip_4_digit'] = df['zip_4_digit'].apply(lambda x: '{0:0>4}'.format(x))
+    df['grade_low'] = df['grade_low'].apply(lambda x: '{0:0>2}'.format(x))
+    df['grade_high'] = df['grade_high'].apply(lambda x: '{0:0>2}'.format(x))
+
+    # cleaning up boolean columns
+    df['is_charter'] = df['is_charter'].map({'Yes': 1, 'No': 0}) 
+    df['is_charter'] = df['is_charter'].astype(pd.Int32Dtype())
+    df['is_magnet'] = df['is_magnet'].map({'Yes': 1, 'No': 0}) 
+    df['is_magnet'] = df['is_magnet'].astype(pd.Int32Dtype())
+    df['is_title_1_school'] = df['is_title_1_school'].map({'Yes': 1, 'No': 0}) 
+    df['is_title_1_school'] = df['is_title_1_school'].astype(pd.Int32Dtype())
     df['is_title_1_school_wide'] = df['is_title_1_school_wide'].map({
-                                                                    True: 1, False: 0})
-    df['is_lunch_free'] = df['is_lunch_free'].map({True: 1, False: 0})
-    df['is_lunch_reduced'] = df['is_lunch_reduced'].map({True: 1, False: 0})
+                                                                    'Yes': 1, 'No': 0}) 
+    df['is_title_1_school_wide'] = df['is_title_1_school_wide'].astype(pd.Int32Dtype())
+    df['is_lunch_free'] = df['is_lunch_free'].map({'Yes': 1, 'No': 0}) 
+    df['is_lunch_free'] = df['is_lunch_free'].astype(pd.Int32Dtype())
+    df['is_lunch_reduced'] = df['is_lunch_reduced'].map({'Yes': 1, 'No': 0}) 
+    df['is_lunch_reduced'] = df['is_lunch_reduced'].astype(pd.Int32Dtype())
+
 
     # order the variables
     df = df[['school_id_nces', 'school_id_state', 'district_id_nces', 'district_id_state', 'grade_low', 'grade_high', 'street_address', 'city', 'us_state_fips', 'us_county_fips',
