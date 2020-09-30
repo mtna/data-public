@@ -1,0 +1,827 @@
+NCES School ID,State School ID,NCES District ID,State District ID,Low Grade*,High Grade*,School Name,District,County Name*,Street Address,City,State,ZIP,ZIP 4-digit,Phone,Locale Code*,Locale*,Charter,Magnet*,Title I School*,Title 1 School Wide*,Students*,Teachers*,Student Teacher Ratio*,Free Lunch*,Reduced Lunch*
+300171001063,MT-0861-1775,3001710,MT-0861,6,8,Absarokee 6-8,Absarokee Elem,Stillwater County,327 S Woodard Ave,Absarokee,MT,59001,,(406)328-4583,43,Rural: Remote,†,†,Yes,No,62,4.45,13.9,9,6
+300174000002,MT-0862-1126,3001740,MT-0862,9,12,Absarokee High School,Absarokee H S,Stillwater County,327 S Woodard Ave,Absarokee,MT,59001,,(406)328-4583,43,Rural: Remote,†,†,Yes,No,86,8.23,10.4,8,5
+300171000001,MT-0861-1125,3001710,MT-0861,PK,5,Absarokee School,Absarokee Elem,Stillwater County,327 S Woodard Ave,Absarokee,MT,59001,,(406)328-4581,43,Rural: Remote,†,†,Yes,No,82,6.36,12.9,14,7
+300186001007,MT-0577-1730,3001860,MT-0577,7,8,Alberton 7-8,Alberton K-12 Schools,Mineral County,PO Box 330,Alberton,MT,59820,,(406)722-4413,42,Rural: Distant,†,†,Yes,Yes,18,2.49,7.2,–,–
+300186000004,MT-0577-0766,3001860,MT-0577,9,12,Alberton High School,Alberton K-12 Schools,Mineral County,PO Box 330,Alberton,MT,59820,,(406)722-3381,42,Rural: Distant,†,†,Yes,Yes,43,4.66,9.2,–,–
+300186000003,MT-0577-0765,3001860,MT-0577,PK,6,Alberton School,Alberton K-12 Schools,Mineral County,PO Box 330,Alberton,MT,59820,,(406)722-4413,42,Rural: Distant,†,†,Yes,Yes,77,9.07,8.5,–,–
+301746000541,MT-0536-0719,3017460,MT-0536,PK,8,Alder School,Alder Elem,Madison County,PO Box 127,Alder,MT,59710,,(406)842-5285,43,Rural: Remote,†,†,Yes,Yes,24,3,8,13,8
+300387000808,MT-0965-1597,3003870,MT-0965,PK,5,Alkali Creek School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6200,12,City: Midsize,†,†,–,–,336,21.08,15.9,89,17
+300195000006,MT-0096-0132,3001950,MT-0096,PK,8,Alzada School,Alzada Elem,Carter County,Box 8,Alzada,MT,59311,,(406)828-4445,43,Rural: Remote,†,†,–,–,5,1,5,†,†
+300198000007,MT-0376-0498,3001980,MT-0376,PK,6,Amsterdam School,Amsterdam Elem,Gallatin County,6360 Camp Creek Road,Manhattan,MT,59741,,(406)282-7216,42,Rural: Distant,†,†,Yes,No,139,10.33,13.5,14,16
+300201000014,MT-0236-1589,3002010,MT-0236,7,8,Anaconda Jr High School,Anaconda Elem,Deer Lodge County,1410 West Park Ave.,Anaconda,MT,59711,,(406)563-6361,33,Town: Remote,†,†,Yes,Yes,153,12.47,12.3,66,17
+300203000015,MT-0237-0326,3002030,MT-0237,9,12,Anaconda Sr High School,Anaconda H S,Deer Lodge County,1410 West Park Ave.,Anaconda,MT,59711,,(406)563-6361,33,Town: Remote,†,†,Yes,Yes,311,19.32,16.1,118,22
+300207000976,MT-0366-1703,3002070,MT-0366,7,8,Anderson 7-8,Anderson Elem,Gallatin County,10040 Cottonwood Road,Bozeman,MT,59718,,(406)587-1305,42,Rural: Distant,†,†,Yes,No,45,3.8,11.8,3,0
+300207000016,MT-0366-0488,3002070,MT-0366,PK,6,Anderson School,Anderson Elem,Gallatin County,10040 Cottonwood Road,Bozeman,MT,59718,,(406)587-1305,42,Rural: Distant,†,†,Yes,No,162,10.1,16,5,0
+300000300233,MT-0402-0545,3000003,MT-0402,4,5,Anna Jeffries Elementary,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)873-2411,33,Town: Remote,†,†,Yes,Yes,124,8.14,15.2,68,5
+300222000900,MT-0474-1640,3002220,MT-0474,7,8,Arlee 7-8,Arlee Elem,Lake County,72220 Fyant Street,Arlee,MT,59821,,(406)726-3216,42,Rural: Distant,†,†,Yes,Yes,72,6.44,11.2,–,–
+300222000019,MT-0474-0628,3002220,MT-0474,PK,6,Arlee Elementary,Arlee Elem,Lake County,72220 Fyant Street,Arlee,MT,59821,,(406)726-3216,42,Rural: Distant,†,†,Yes,Yes,249,21.44,11.6,–,–
+300225000020,MT-0475-0629,3002250,MT-0475,9,12,Arlee High School,Arlee H S,Lake County,72220 Fyant Street,Arlee,MT,59821,,(406)726-3216,42,Rural: Distant,†,†,Yes,Yes,124,15.01,8.3,–,–
+302172000647,MT-0021-0027,3021720,MT-0021,PK,6,Arrow Creek Elem School,Pryor Elem,Big Horn County,Box 229,Pryor,MT,59066,,(406)259-8011,42,Rural: Distant,†,†,Yes,Yes,38,5.6,6.8,–,–
+300230000199,MT-1215-1821,3002300,MT-1215,7,8,Arrowhead 7-8,Arrowhead Elem,Park County,PO Box 37,Pray,MT,59065,,(406)333-4359,43,Rural: Remote,†,†,Yes,Yes,11,1.6,6.9,8,0
+300230000022,MT-1215-1564,3002300,MT-1215,PK,6,Arrowhead School,Arrowhead Elem,Park County,PO Box 37,Pray,MT,59065,,(406)333-4359,43,Rural: Remote,†,†,Yes,Yes,56,4.9,11.4,30,4
+300387000059,MT-0965-1585,3003870,MT-0965,PK,5,Arrowhead School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6201,12,City: Midsize,†,†,–,–,449,24.3,18.5,49,12
+300000801051,MT-0800-1763,3000008,MT-0800,7,8,Ashland 7-8,Ashland Elem,Rosebud County,Box 17,Ashland,MT,59003,,(406)784-2568,43,Rural: Remote,†,†,Yes,Yes,14,2.5,5.6,–,–
+300000800023,MT-0800-1043,3000008,MT-0800,PK,6,Ashland School,Ashland Elem,Rosebud County,Box 17,Ashland,MT,59003,,(406)784-2568,43,Rural: Remote,†,†,Yes,Yes,54,7,7.7,–,–
+300249000026,MT-0498-0671,3002490,MT-0498,PK,8,Auchard Creek School,Auchard Creek Elem,Lewis and Clark County,9605 Hwy 287,Wolf Creek,MT,59648,8637,(406)562-3528,43,Rural: Remote,†,†,Yes,Yes,11,0.98,11.2,8,0
+300243000997,MT-0502-1722,3002430,MT-0502,7,8,Augusta 7-8,Augusta Elem,Lewis and Clark County,PO Box 307,Augusta,MT,59410,,(406)562-3384,43,Rural: Remote,†,†,Yes,Yes,11,1.63,6.7,4,1
+300243000024,MT-0502-0676,3002430,MT-0502,PK,8,Augusta Elementary School,Augusta Elem,Lewis and Clark County,PO Box 307,Augusta,MT,59410,,(406)562-3384,43,Rural: Remote,†,†,Yes,Yes,54,7.13,7.6,18,7
+300245000025,MT-0503-0677,3002450,MT-0503,9,12,Augusta High School,Augusta H S,Lewis and Clark County,PO Box 307,Augusta,MT,59410,,(406)562-3384,43,Rural: Remote,†,†,Yes,Yes,30,5.43,5.5,14,1
+300255000027,MT-0720-0948,3002550,MT-0720,PK,8,Avon School,Avon Elem,Powell County,PO Box 246,Avon,MT,59713,,(406)492-6191,43,Rural: Remote,†,†,Yes,No,15,3,5,–,–
+300257000028,MT-1218-1580,3002570,MT-1218,PK,8,Ayers School,Ayers Elem,Fergus County,Box 100,Grass Range,MT,59032,,(406)428-2340,43,Rural: Remote,†,†,Yes,Yes,5,1,5,†,†
+301688000523,MT-0612-0822,3016880,MT-0612,PK,2,B A Winans School,Livingston Elem,Park County,132 South B Street,Livingston,MT,59047,,(406)222-0192,33,Town: Remote,†,†,Yes,Yes,298,21.41,13.9,119,32
+300514000129,MT-0400-0537,3005140,MT-0400,PK,6,Babb School,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)732-5539,43,Rural: Remote,†,†,Yes,Yes,22,2.27,9.7,–,–
+300264001047,MT-0785-1760,3002640,MT-0785,7,8,Bainville 7-8,Bainville K-12 Schools,Roosevelt County,Box 177,Bainville,MT,59212,,(406)769-2321,43,Rural: Remote,†,†,Yes,No,31,2.16,14.4,7,1
+300264000030,MT-0785-1028,3002640,MT-0785,9,12,Bainville High School,Bainville K-12 Schools,Roosevelt County,Box 177,Bainville,MT,59212,,(406)769-2321,43,Rural: Remote,†,†,Yes,No,45,6.05,7.4,8,1
+300264000029,MT-0785-1027,3002640,MT-0785,PK,6,Bainville School,Bainville K-12 Schools,Roosevelt County,Box 177,Bainville,MT,59212,,(406)769-2321,43,Rural: Remote,†,†,Yes,No,79,10.14,7.8,15,5
+300273000031,MT-0244-0332,3002730,MT-0244,7,8,Baker 7-8,Baker K-12 Schools,Fallon County,Box 659,Baker,MT,59313,,(406)778-3329,43,Rural: Remote,†,†,Yes,No,63,6.7,9.4,12,4
+300273000035,MT-0244-0335,3002730,MT-0244,9,12,Baker High School,Baker K-12 Schools,Fallon County,Box 659,Baker,MT,59313,,(406)778-3329,43,Rural: Remote,†,†,Yes,No,127,15.46,8.2,21,5
+300501001046,MT-0782-1759,3005010,MT-0782,7,8,Barbara Gilligan 7-8,Brockton Elem,Roosevelt County,PO Box 198,Brockton,MT,59213,,(406)786-3311,43,Rural: Remote,†,†,Yes,Yes,19,2.47,7.7,–,–
+300501000124,MT-0782-1025,3005010,MT-0782,PK,6,Barbara Gilligan School,Brockton Elem,Roosevelt County,PO Box 198,Brockton,MT,59213,,(406)786-3318,43,Rural: Remote,†,†,Yes,Yes,81,9.52,8.5,–,–
+300282000036,MT-0455-0609,3002820,MT-0455,PK,6,Basin School,Basin Elem,Jefferson County,PO Box 128,Basin,MT,59631,,(406)225-3211,43,Rural: Remote,†,†,Yes,Yes,16,2.3,7,12,0
+300300000039,MT-0048-0074,3003000,MT-0048,PK,8,Bear Paw School,Bear Paw Elem,Blaine County,29815 Clear Creek Road,Chinook,MT,59523,,(406)395-4436,43,Rural: Remote,†,†,Yes,No,4,1,4,†,†
+300387001092,MT-0965-1559,3003870,MT-0965,PK,5,Beartooth School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6202,12,City: Midsize,†,†,Yes,Yes,356,23.95,14.9,124,25
+300309000041,MT-0006-0023,3003090,MT-0006,9,12,Beaverhead Co High School,Beaverhead County H S,Beaverhead County,104 North Pacific Street,Dillon,MT,59725,,(406)683-2361,33,Town: Remote,†,†,Yes,No,307,20.93,14.7,58,6
+300327000939,MT-0076-1675,3003270,MT-0076,7,8,Belfry 7-8,Belfry K-12 Schools,Carbon County,PO Box 210,Belfry,MT,59008,,(406)664-3319,43,Rural: Remote,†,†,Yes,Yes,10,2.1,4.8,–,–
+300327000043,MT-0076-0103,3003270,MT-0076,9,12,Belfry High School,Belfry K-12 Schools,Carbon County,PO Box 210,Belfry,MT,59008,,(406)664-3319,43,Rural: Remote,†,†,Yes,Yes,20,3.81,5.2,–,–
+300327000042,MT-0076-0102,3003270,MT-0076,PK,6,Belfry School,Belfry K-12 Schools,Carbon County,PO Box 210,Belfry,MT,59008,,(406)664-3319,43,Rural: Remote,†,†,Yes,Yes,36,3.09,11.7,–,–
+300333000046,MT-0369-0491,3003330,MT-0369,9,12,Belgrade High School,Belgrade H S,Gallatin County,PO Box 166,Belgrade,MT,59714,,(406)924-2545,33,Town: Remote,†,†,–,–,965,58.69,16.4,200,66
+300329000044,MT-0368-1575,3003290,MT-0368,5,8,Belgrade Middle School,Belgrade Elem,Gallatin County,PO Box 166,Belgrade,MT,59714,,(406)924-2259,33,Town: Remote,†,†,Yes,No,1080,67.34,16,293,102
+300342000943,MT-0112-1678,3003420,MT-0112,7,8,Belt 7-8,Belt Elem,Cascade County,PO Box 197,Belt,MT,59412,,(406)277-3351,42,Rural: Distant,†,†,Yes,No,51,3.26,15.6,5,4
+300345000048,MT-0113-0169,3003450,MT-0113,9,12,Belt High School,Belt H S,Cascade County,PO Box 197,Belt,MT,59412,,(406)277-3351,42,Rural: Distant,†,†,Yes,Yes,77,7.83,9.8,20,13
+300342000047,MT-0112-0168,3003420,MT-0112,PK,6,Belt School,Belt Elem,Cascade County,PO Box 197,Belt,MT,59412,,(406)277-3351,42,Rural: Distant,†,†,Yes,No,148,11.86,12.5,45,19
+300387001118,MT-0965-1853,3003870,MT-0965,6,8,Ben Steele Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)601-1600,12,City: Midsize,†,†,–,–,786,39.5,19.9,87,32
+300387000061,MT-0965-1272,3003870,MT-0965,PK,5,Bench School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6203,12,City: Midsize,†,†,Yes,Yes,362,24.98,14.5,200,28
+300348000084,MT-0171-0233,3003480,MT-0171,PK,8,Benton Lake School,Benton Lake Elem,Chouteau County,17557 Bootlegger Trail,Floweree,MT,59440,,(406)452-9023,42,Rural: Distant,†,†,–,–,7,1,7,†,†
+300360000051,MT-0692-0913,3003600,MT-0692,PK,8,Biddle School,Biddle Elem,Powder River County,Box 397,Biddle,MT,59314,397,(406)427-5290,43,Rural: Remote,†,†,–,–,7,1,7,†,†
+300375000868,MT-0138-1607,3003750,MT-0138,7,8,Big Sandy 7-8,Big Sandy K-12,Chouteau County,PO Box 570,Big Sandy,MT,59520,,(406)378-2502,43,Rural: Remote,†,†,Yes,No,35,3.1,11.3,11,4
+300375000054,MT-0138-0195,3003750,MT-0138,9,12,Big Sandy High School,Big Sandy K-12,Chouteau County,PO Box 570,Big Sandy,MT,59520,,(406)378-2502,43,Rural: Remote,†,†,Yes,Yes,58,6.5,8.9,19,10
+300387000901,MT-0965-1638,3003870,MT-0965,PK,5,Big Sky Elementary,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6204,12,City: Midsize,†,†,Yes,Yes,411,24.84,16.5,155,36
+301854000824,MT-0584-1592,3018540,MT-0584,9,12,Big Sky High School,Missoula H S,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)728-2401,13,City: Small,†,†,Yes,Yes,1116,68.43,16.3,201,63
+300514000812,MT-0400-1588,3005140,MT-0400,PK,8,Big Sky School,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)336-3790,43,Rural: Remote,†,†,Yes,Yes,23,1.37,16.8,–,–
+302513000922,MT-0104-1654,3025130,MT-0104,PK,8,Big Stone School,Centerville Elem,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5167,41,Rural: Fringe,†,†,Yes,Yes,37,4.06,9.1,–,–
+300380001064,MT-0865-1776,3003800,MT-0865,7,8,Big Timber 7-8,Big Timber Elem,Sweet Grass County,PO Box 887,Big Timber,MT,59011,,(406)932-5939,43,Rural: Remote,†,†,Yes,No,82,4.7,17.4,11,5
+300380000056,MT-0865-1129,3003800,MT-0865,PK,6,Big Timber School,Big Timber Elem,Sweet Grass County,PO Box 887,Big Timber,MT,59011,,(406)932-5939,43,Rural: Remote,†,†,Yes,No,237,17.6,13.5,52,20
+300382000966,MT-0330-1660,3003820,MT-0330,7,8,Bigfork 7-8,Bigfork Elem,Flathead County,PO Box 188,Bigfork,MT,59911,,(406)837-7412,43,Rural: Remote,†,†,Yes,No,133,7.87,16.9,33,6
+300382000057,MT-0330-0442,3003820,MT-0330,PK,6,Bigfork Elementary,Bigfork Elem,Flathead County,PO Box 188,Bigfork,MT,59911,,(406)837-7412,43,Rural: Remote,†,†,Yes,No,437,29.22,15,86,17
+300384000058,MT-0331-0443,3003840,MT-0331,9,12,Bigfork High School,Bigfork H S,Flathead County,PO Box 188,Bigfork,MT,59911,,(406)837-7420,43,Rural: Remote,†,†,Yes,No,317,19.46,16.3,69,10
+300390000090,MT-0966-1250,3003900,MT-0966,9,12,Billings Sr High School,Billings H S,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-5400,12,City: Midsize,†,†,Yes,Yes,1950,99.9,19.5,572,91
+300390000091,MT-0966-1251,3003900,MT-0966,9,12,Billings West High School,Billings H S,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-5600,12,City: Midsize,†,†,–,–,1880,128.2,14.7,294,49
+300399000093,MT-0789-1032,3003990,MT-0789,PK,8,Birney School,Birney Elem,Rosebud County,PO Box 521,Birney,MT,59012,,(406)984-6247,43,Rural: Remote,†,†,–,–,4,1,4,†,†
+301095000969,MT-0342-1698,3010950,MT-0342,7,8,Bissell 7-8,Olney-Bissell Elem,Flathead County,5955 Farm To Market Road,Whitefish,MT,59937,,(406)862-2828,42,Rural: Distant,†,†,Yes,Yes,5,2.42,2.1,†,†
+301095000296,MT-0342-0457,3010950,MT-0342,PK,6,Bissell School,Olney-Bissell Elem,Flathead County,5955 Farm To Market Road,Whitefish,MT,59937,,(406)862-2828,42,Rural: Distant,†,†,Yes,Yes,62,5.24,11.8,25,5
+300387000062,MT-0965-1471,3003870,MT-0965,PK,5,Bitterroot School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6205,12,City: Midsize,†,†,Yes,Yes,335,21,16,125,19
+300420000098,MT-0215-0294,3004200,MT-0215,PK,8,Bloomfield School,Bloomfield Elem,Dawson County,207 West Bell,Glendive,MT,59330,,(406)583-7575,43,Rural: Remote,†,†,–,–,6,1,6,†,†
+300423000099,MT-0968-1278,3004230,MT-0968,PK,6,Blue Creek School,Blue Creek Elem,Yellowstone County,3652 Blue Creek Road,Billings,MT,59101,,(406)259-0653,41,Rural: Fringe,†,†,Yes,No,192,15,12.8,27,7
+300679000185,MT-0547-1406,3006790,MT-0547,PK,3,Bo Peep School,Circle Elem,McCone County,Box 99,Circle,MT,59215,,(406)485-2140,43,Rural: Remote,†,†,Yes,No,40,4.85,8.2,9,2
+300426001012,MT-0590-1734,3004260,MT-0590,7,8,Bonner 7-8,Bonner Elem,Missoula County,PO Box 1004,Bonner,MT,59823,,(406)258-6151,23,Suburb: Small,†,†,Yes,Yes,79,6,13.2,31,11
+300426000100,MT-0590-0794,3004260,MT-0590,PK,6,Bonner School,Bonner Elem,Missoula County,PO Box 1004,Bonner,MT,59823,,(406)258-6151,23,Suburb: Small,†,†,Yes,Yes,263,18.5,14.2,104,31
+300438000989,MT-0456-1714,3004380,MT-0456,7,8,Boulder 7-8,Boulder Elem,Jefferson County,PO Box 1346,Boulder,MT,59632,,(406)225-3316,43,Rural: Remote,†,†,Yes,Yes,69,4.38,15.8,30,4
+300438000102,MT-0456-0610,3004380,MT-0456,PK,6,Boulder Elementary School,Boulder Elem,Jefferson County,PO Box 1346,Boulder,MT,59632,,(406)225-3316,43,Rural: Remote,†,†,Yes,Yes,111,8.82,12.6,54,5
+300387000063,MT-0965-1307,3003870,MT-0965,PK,5,Boulder School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6206,12,City: Midsize,†,†,–,–,471,25.17,18.7,52,9
+300444000985,MT-0425-1710,3004440,MT-0425,7,8,Box Elder 7-8,Box Elder Elem,Hill County,Box 205,Box Elder,MT,59521,,(406)352-4195,43,Rural: Remote,†,†,Yes,Yes,55,6.19,8.9,–,–
+300450000104,MT-0426-0571,3004500,MT-0426,9,12,Box Elder High School,Box Elder H S,Hill County,Box 205,Box Elder,MT,59521,,(406)352-4195,43,Rural: Remote,†,†,Yes,Yes,105,10.81,9.7,–,–
+300444000103,MT-0425-0570,3004440,MT-0425,PK,6,Box Elder School,Box Elder Elem,Hill County,Box 205,Box Elder,MT,59521,,(406)352-3222,43,Rural: Remote,†,†,Yes,Yes,241,19,12.7,–,–
+300459000113,MT-0351-0473,3004590,MT-0351,9,12,Bozeman High School,Bozeman H S,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6200,33,Town: Remote,†,†,Yes,No,2204,136.7,16.1,113,25
+300480000936,MT-0059-1672,3004800,MT-0059,7,8,Bridger 7-8,Bridger K-12 Schools,Carbon County,429 W. Park Ave,Bridger,MT,59014,,(406)662-3588,43,Rural: Remote,†,†,Yes,Yes,26,3.16,8.2,10,2
+300480000117,MT-0059-0085,3004800,MT-0059,PK,6,Bridger Elementary School,Bridger K-12 Schools,Carbon County,429 W. Park Ave,Bridger,MT,59014,,(406)662-3588,43,Rural: Remote,†,†,Yes,Yes,103,8.54,12.1,38,11
+300480000118,MT-0059-0086,3004800,MT-0059,9,12,Bridger High School,Bridger K-12 Schools,Carbon County,429 W. Park Ave,Bridger,MT,59014,,(406)662-3533,43,Rural: Remote,†,†,Yes,Yes,57,8.29,6.9,19,6
+300000601035,MT-0705-1751,3000006,MT-0705,7,8,Broadus 7-8,Broadus Elem,Powder River County,Box 500,Broadus,MT,59317,,(406)436-2658,43,Rural: Remote,†,†,Yes,Yes,37,3.39,10.9,11,10
+300000600120,MT-0705-0930,3000006,MT-0705,PK,6,Broadus School,Broadus Elem,Powder River County,Box 500,Broadus,MT,59317,,(406)436-2637,43,Rural: Remote,†,†,Yes,Yes,93,9.01,10.3,37,24
+300489001082,MT-0978-1793,3004890,MT-0978,7,8,Broadview 7-8,Broadview Elem,Yellowstone County,PO Box 147,Broadview,MT,59015,,(406)667-2337,42,Rural: Distant,†,†,Yes,Yes,22,2.31,9.5,7,1
+300492000122,MT-0979-1293,3004920,MT-0979,9,12,Broadview High School,Broadview H S,Yellowstone County,PO Box 147,Broadview,MT,59015,,(406)667-2337,42,Rural: Distant,†,†,Yes,Yes,40,6.5,6.2,15,2
+300489000121,MT-0978-1292,3004890,MT-0978,PK,8,Broadview School,Broadview Elem,Yellowstone County,PO Box 147,Broadview,MT,59015,,(406)667-2337,42,Rural: Distant,†,†,Yes,Yes,76,8.85,8.6,34,8
+300498000123,MT-0055-0081,3004980,MT-0055,9,12,Broadwater High School,Townsend K-12 Schools,Broadwater County,201 N Spruce,Townsend,MT,59644,2215,(406)441-3430,43,Rural: Remote,†,†,Yes,Yes,206,16.77,12.3,49,14
+300000500415,MT-0487-0655,3000005,MT-0487,PK,5,Broadwater School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1130,33,Town: Remote,†,†,Yes,Yes,286,17.6,16.3,126,16
+300387000064,MT-0965-1255,3003870,MT-0965,PK,5,Broadwater School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6207,12,City: Midsize,†,†,Yes,Yes,372,24.16,15.4,177,21
+300504000125,MT-0783-1026,3005040,MT-0783,9,12,Brockton High School,Brockton H S,Roosevelt County,PO Box 198,Brockton,MT,59213,,(406)786-3311,43,Rural: Remote,†,†,Yes,Yes,35,8.28,4.2,–,–
+300513000128,MT-0749-0984,3005130,MT-0749,PK,6,Brorson School,Brorson Elem,Richland County,PO Box 145,Sidney,MT,59270,,(406)798-3361,42,Rural: Distant,†,†,Yes,No,7,2.25,3.1,†,†
+300514001100,MT-0400-1840,3005140,MT-0400,2,3,Browning Elementary,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)338-3490,33,Town: Remote,†,†,Yes,Yes,313,24,13,–,–
+300519000136,MT-0401-0543,3005190,MT-0401,9,12,Browning High School,Browning H S,Glacier County,PO Box 610,Browning,MT,59417,,(406)338-2745,41,Rural: Fringe,†,†,Yes,Yes,615,39.7,15.5,–,–
+300514000872,MT-0400-1613,3005140,MT-0400,7,8,Browning Middle School,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)338-2725,33,Town: Remote,†,†,Yes,Yes,251,24.5,10.2,–,–
+300000500416,MT-0487-0657,3000005,MT-0487,PK,5,Bryant School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1200,33,Town: Remote,†,†,Yes,Yes,226,19.8,11.4,–,–
+300387000065,MT-0965-1256,3003870,MT-0965,PK,5,Burlington School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6208,12,City: Midsize,†,†,Yes,Yes,228,22.61,10.1,79,29
+300531000156,MT-1212-1103,3005310,MT-1212,9,12,Butte High School,Butte H S,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2220,33,Town: Remote,†,†,Yes,No,1208,76.01,15.9,354,77
+300533000157,MT-0889-1153,3005330,MT-0889,PK,8,Bynum School,Bynum Elem,Teton County,PO Box 766,Bynum,MT,59419,,(406)469-2373,43,Rural: Remote,†,†,Yes,No,24,3,8,–,–
+301305000379,MT-0099-1464,3013050,MT-0099,9,12,C M Russell High School,Great Falls H S,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6100,13,City: Small,†,†,–,–,1385,85.05,16.3,375,109
+300000500886,MT-0487-1615,3000005,MT-0487,6,8,C R Anderson Middle Schl,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-2800,33,Town: Remote,†,†,Yes,No,1000,55,18.2,211,57
+302390000288,MT-0910-1832,3023900,MT-0910,PK,8,Cam Rose School,Shelby Elem,Toole County,1010 Oilfield Avenue,Shelby,MT,59474,,(406)424-8910,43,Rural: Remote,†,†,Yes,Yes,12,1,12,9,0
+300546001079,MT-0969-1790,3005460,MT-0969,7,8,Canyon Creek 7-8,Canyon Creek Elem,Yellowstone County,3139 Duck Creek Road,Billings,MT,59101,,(406)656-4471,41,Rural: Fringe,†,†,Yes,No,44,3.25,13.5,13,3
+300546000160,MT-0969-1279,3005460,MT-0969,PK,6,Canyon Creek School,Canyon Creek Elem,Yellowstone County,3139 Duck Creek Road,Billings,MT,59101,,(406)656-4471,41,Rural: Fringe,†,†,Yes,No,211,15.01,14.1,33,9
+301383000429,MT-0488-1547,3013830,MT-0488,9,12,Capital High School,Helena H S,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-2500,33,Town: Remote,†,†,Yes,No,1336,87.5,15.3,181,52
+300555000161,MT-0458-0612,3005550,MT-0458,PK,8,Cardwell School,Cardwell Elem,Jefferson County,80 Highway 359,Cardwell,MT,59721,,(406)287-3321,43,Rural: Remote,†,†,Yes,No,37,5.61,6.6,5,5
+300561000162,MT-0097-0133,3005610,MT-0097,9,12,Carter County High School,Carter County H S,Carter County,Box 458,Ekalaka,MT,59324,,(406)775-8767,43,Rural: Remote,†,†,Yes,Yes,37,6.55,5.6,18,9
+300576000167,MT-0159-0221,3005760,MT-0159,PK,8,Carter School,Carter Elem,Chouteau County,Box 158,Carter,MT,59420,,(406)734-5387,42,Rural: Distant,†,†,–,–,9,1,9,–,–
+300588000941,MT-0101-1661,3005880,MT-0101,7,8,Cascade 7-8,Cascade Elem,Cascade County,PO Box 529,Cascade,MT,59421,,(406)468-2267,42,Rural: Distant,†,†,Yes,Yes,47,4.1,11.5,15,4
+302430000928,MT-1225-1657,3024300,MT-1225,PK,8,Cascade Colony School,Sun River Valley Elem,Cascade County,Box 380,Simms,MT,59477,,(406)264-5104,42,Rural: Distant,†,†,Yes,Yes,18,2.25,8,–,–
+300591000170,MT-0102-0157,3005910,MT-0102,9,12,Cascade High School,Cascade H S,Cascade County,PO Box 529,Cascade,MT,59421,,(406)468-2267,42,Rural: Distant,†,†,Yes,Yes,81,8.99,9,19,8
+300588000169,MT-0101-0158,3005880,MT-0101,PK,6,Cascade School,Cascade Elem,Cascade County,PO Box 529,Cascade,MT,59421,,(406)468-2671,42,Rural: Distant,†,†,Yes,Yes,152,11.72,13,43,17
+300387000869,MT-0965-1631,3003870,MT-0965,6,8,Castle Rock Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-5800,12,City: Midsize,†,†,–,–,635,39,16.3,150,41
+300599000963,MT-0317-1695,3005990,MT-0317,7,8,Cayuse Prairie 7-8,Cayuse Prairie Elem,Flathead County,897 Lake Blaine Road,Kalispell,MT,59901,,(406)756-4560,42,Rural: Distant,†,†,Yes,Yes,46,5.02,9.2,8,1
+300599000172,MT-0317-0429,3005990,MT-0317,PK,6,Cayuse Prairie School,Cayuse Prairie Elem,Flathead County,897 Lake Blaine Road,Kalispell,MT,59901,,(406)756-4560,42,Rural: Distant,†,†,Yes,Yes,205,14.89,13.8,56,10
+300498000743,MT-0055-0076,3004980,MT-0055,PK,6,Cecelia Hazelton School,Townsend K-12 Schools,Broadwater County,201 N Spruce,Townsend,MT,59644,2215,(406)441-3431,43,Rural: Remote,†,†,Yes,Yes,341,26.01,13.1,102,39
+302513000942,MT-0104-1677,3025130,MT-0104,6,8,Centerville 6-8,Centerville Elem,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5167,42,Rural: Distant,†,†,Yes,Yes,65,3.06,21.2,20,8
+302514000722,MT-0105-0161,3025140,MT-0105,9,12,Centerville High School,Centerville H S,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5167,42,Rural: Distant,†,†,Yes,Yes,62,7.31,8.5,15,10
+302513000721,MT-0104-0160,3025130,MT-0104,PK,5,Centerville School,Centerville Elem,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5167,42,Rural: Distant,†,†,Yes,Yes,111,11.16,9.9,43,12
+302420000699,MT-0745-0979,3024200,MT-0745,PK,5,Central Elementary,Sidney Elem,Richland County,200 3rd Ave SE,Sidney,MT,59270,,(406)433-4080,33,Town: Remote,†,†,Yes,No,353,19.93,17.7,82,21
+300387000067,MT-0965-1308,3003870,MT-0965,PK,5,Central Heights School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6209,12,City: Midsize,†,†,Yes,Yes,293,21.13,13.9,111,27
+300000500418,MT-0487-0654,3000005,MT-0487,PK,5,Central School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1230,33,Town: Remote,†,†,Yes,Yes,243,18.4,13.2,–,–
+300611200814,MT-1205-1602,3006112,MT-1205,7,8,Charlo 7-8,Charlo Elem,Lake County,PO Box 10,Charlo,MT,59824,,(406)644-2206,43,Rural: Remote,†,†,Yes,Yes,36,3.19,11.3,13,2
+300611200176,MT-1205-0635,3006112,MT-1205,PK,6,Charlo Elementary,Charlo Elem,Lake County,PO Box 10,Charlo,MT,59824,,(406)644-2206,43,Rural: Remote,†,†,Yes,Yes,136,9.65,14.1,71,12
+300611500177,MT-1206-0636,3006115,MT-1206,9,12,Charlo High School,Charlo H S,Lake County,PO Box 10,Charlo,MT,59824,,(406)644-2206,43,Rural: Remote,†,†,Yes,Yes,89,7.85,11.3,29,12
+302106000630,MT-0477-0632,3021060,MT-0477,PK,1,Cherry Valley School,Polson Elem,Lake County,111 4th Avenue East,Polson,MT,59860,,(406)883-6333,33,Town: Remote,†,†,Yes,Yes,268,20.26,13.2,159,17
+300009800998,MT-1236-1723,3000098,MT-1236,7,8,Chester-Joplin-Inverness 7-8,Chester-Joplin-Inverness El,Liberty County,Box 550,Chester,MT,59522,,(406)759-5108,43,Rural: Remote,†,†,Yes,Yes,30,3.17,9.5,13,4
+300010100179,MT-1237-0687,3000101,MT-1237,9,12,Chester-Joplin-Inverness HS,Chester-Joplin-Inverness HS,Liberty County,Box 550,Chester,MT,59522,,(406)759-5108,43,Rural: Remote,†,†,Yes,Yes,58,7.66,7.6,15,10
+300009800178,MT-1236-0684,3000098,MT-1236,PK,6,Chester-Joplin-Inverness Schl,Chester-Joplin-Inverness El,Liberty County,Box 550,Chester,MT,59522,,(406)759-5477,43,Rural: Remote,†,†,Yes,No,117,8.17,14.3,31,16
+301857000164,MT-0583-1819,3018570,MT-0583,PK,5,Chief Charlo School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4005,13,City: Small,†,†,Yes,No,416,26.11,15.9,101,13
+300456000112,MT-0350-1463,3004560,MT-0350,6,8,Chief Joseph Middle School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6300,41,Rural: Fringe,†,†,Yes,No,745,49.42,15.1,90,19
+301304000357,MT-0098-1408,3013040,MT-0098,PK,6,Chief Joseph School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6675,13,City: Small,†,†,Yes,Yes,291,23.15,12.6,132,40
+300626000932,MT-0028-1798,3006260,MT-0028,7,8,Chinook 7-8,Chinook Elem,Blaine County,Box 1059,Chinook,MT,59523,,(406)357-2237,43,Rural: Remote,†,†,Yes,No,52,4.11,12.7,17,2
+300627000182,MT-0029-0047,3006270,MT-0029,9,12,Chinook High School,Chinook H S,Blaine County,Box 1059,Chinook,MT,59523,,(406)357-2236,43,Rural: Remote,†,†,Yes,No,111,8.83,12.6,32,9
+300632001065,MT-0883-1777,3006320,MT-0883,7,8,Choteau 7-8,Choteau Elem,Teton County,204 7th Ave NW,Choteau,MT,59422,,(406)466-5303,43,Rural: Remote,†,†,Yes,No,44,4.01,11,12,4
+300633000184,MT-0884-1148,3006330,MT-0884,9,12,Choteau High School,Choteau H S,Teton County,204 7th Ave NW,Choteau,MT,59422,,(406)466-5303,43,Rural: Remote,†,†,Yes,No,123,10.89,11.3,28,7
+300632000183,MT-0883-1147,3006320,MT-0883,PK,6,Choteau School,Choteau Elem,Teton County,204 7th Ave NW,Choteau,MT,59422,,(406)466-5364,43,Rural: Remote,†,†,Yes,Yes,178,14.45,12.3,66,18
+300681000187,MT-0548-0733,3006810,MT-0548,9,12,Circle High School,Circle H S,McCone County,Box 99,Circle,MT,59215,,(406)485-3600,43,Rural: Remote,†,†,Yes,No,61,6.78,9,14,9
+300684000988,MT-0452-1713,3006840,MT-0452,7,8,Clancy 7-8,Clancy Elem,Jefferson County,Box 209,Clancy,MT,59634,,(406)933-5575,42,Rural: Distant,†,†,Yes,No,71,6,11.8,12,7
+300684000188,MT-0452-0606,3006840,MT-0452,PK,6,Clancy School,Clancy Elem,Jefferson County,Box 209,Clancy,MT,59634,,(406)933-5575,42,Rural: Distant,†,†,Yes,No,267,19,14.1,58,17
+300405000094,MT-0032-1401,3004050,MT-0032,PK,8,Cleveland School,Cleveland Elem,Blaine County,22820 Cleveland Road,Chinook,MT,59523,,(406)357-2018,43,Rural: Remote,†,†,Yes,No,5,1,5,†,†
+300687001016,MT-0595-1738,3006870,MT-0595,7,8,Clinton 7-8,Clinton Elem,Missoula County,PO Box 250,Clinton,MT,59825,,(406)825-3113,42,Rural: Distant,†,†,Yes,Yes,47,4.94,9.5,16,3
+300687000189,MT-0595-0799,3006870,MT-0595,PK,6,Clinton School,Clinton Elem,Missoula County,PO Box 250,Clinton,MT,59825,,(406)825-3113,42,Rural: Distant,†,†,Yes,Yes,144,10.56,13.6,62,14
+300703000192,MT-0387-0520,3007030,MT-0387,PK,8,Cohagen School,Cohagen Elem,Garfield County,PO Box 113,Cohagen,MT,59322,,(406)557-2771,43,Rural: Remote,†,†,Yes,No,16,1,16,–,–
+300708000194,MT-0797-1040,3007080,MT-0797,9,12,Colstrip High School,Colstrip H S,Rosebud County,PO Box 159,Colstrip,MT,59323,,(406)748-4699,43,Rural: Remote,†,†,Yes,No,163,17.25,9.4,42,10
+300714000203,MT-0313-0425,3007140,MT-0313,9,12,Columbia Falls High Schl,Columbia Falls H S,Flathead County,PO Box 1259,Columbia Falls,MT,59912,,(406)892-6500,33,Town: Remote,†,†,Yes,Yes,661,41.22,16,232,41
+300711000195,MT-0312-0419,3007110,MT-0312,6,8,Columbia Falls Jr HS,Columbia Falls Elem,Flathead County,PO Box 1259,Columbia Falls,MT,59912,,(406)892-6530,33,Town: Remote,†,†,Yes,Yes,499,36.07,13.8,200,48
+300719000204,MT-0848-1111,3007190,MT-0848,PK,5,Columbus Elem School,Columbus Elem,Stillwater County,433 N 3rd St,Columbus,MT,59019,7165,(406)322-5372,43,Rural: Remote,†,†,Yes,No,318,20.4,15.6,67,10
+300720000205,MT-0849-1112,3007200,MT-0849,9,12,Columbus High School,Columbus H S,Stillwater County,433 N 3rd St,Columbus,MT,59019,7165,(406)322-5373,43,Rural: Remote,†,†,Yes,No,230,14.37,16,44,6
+300719001060,MT-0848-1772,3007190,MT-0848,6,8,Columbus Middle School,Columbus Elem,Stillwater County,433 N 3rd St,Columbus,MT,59019,7165,(406)322-5375,43,Rural: Remote,†,†,Yes,No,171,10.26,16.7,32,9
+300732000210,MT-0675-0893,3007320,MT-0675,9,12,Conrad High School,Conrad H S,Pondera County,215 South Maryland St,Conrad,MT,59425,2017,(406)278-3285,33,Town: Remote,†,†,Yes,No,126,10.04,12.5,32,8
+300735001023,MT-0617-0828,3007350,MT-0617,PK,8,Cooke City School,Cooke City Elem,Park County,PO Box 1070,Cooke City,MT,59020,,(406)838-2285,43,Rural: Remote,†,†,–,–,5,1,5,†,†
+300009801113,MT-1236-1849,3000098,MT-1236,PK,8,Cool Spring Colony School,Chester-Joplin-Inverness El,Hill County,Box 550,Chester,MT,59522,,(406)210-0104,43,Rural: Remote,†,†,Yes,Yes,9,1,9,6,0
+301545000471,MT-0310-0415,3015450,MT-0310,PK,5,Cornelius Hedges School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-4090,33,Town: Remote,†,†,Yes,Yes,325,22,14.8,–,–
+300741000213,MT-0731-1558,3007410,MT-0731,7,8,Corvallis 7-8,Corvallis K-12 Schools,Ravalli County,PO Box 700,Corvallis,MT,59828,,(406)961-3007,42,Rural: Distant,†,†,Yes,Yes,248,14.85,16.7,87,16
+300741000215,MT-0731-0964,3007410,MT-0731,9,12,Corvallis High School,Corvallis K-12 Schools,Ravalli County,PO Box 700,Corvallis,MT,59828,,(406)961-3201,42,Rural: Distant,†,†,Yes,No,455,31.39,14.5,125,25
+300750000353,MT-0359-0481,3007500,MT-0359,PK,8,Cottonwood School,Cottonwood Elem,Gallatin County,13233 Cottonwood Road,Bozeman,MT,59718,,(406)763-4903,42,Rural: Distant,†,†,–,–,13,2,6.5,–,–
+301415000439,MT-0445-1475,3014150,MT-0445,PK,8,Cottonwood School,Cottonwood Elem,Hill County,PO Box 1024,Havre,MT,59501,,(406)394-2273,43,Rural: Remote,†,†,Yes,No,11,1,11,–,–
+300771000221,MT-0316-0428,3007710,MT-0316,PK,6,Creston School,Creston Elem,Flathead County,4495 Montana 35,Kalispell,MT,59901,,(406)755-2859,42,Rural: Distant,†,†,Yes,No,101,9.2,11,–,–
+301331000392,MT-0023-0033,3013310,MT-0023,PK,5,Crow Agency School,Hardin Elem,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)638-2252,43,Rural: Remote,†,†,Yes,Yes,321,23.75,13.5,–,–
+300783001045,MT-0777-1758,3007830,MT-0777,7,8,Culbertson 7-8,Culbertson Elem,Roosevelt County,Box 459,Culbertson,MT,59218,,(406)787-6241,43,Rural: Remote,†,†,Yes,Yes,50,3.27,15.3,25,4
+300786000225,MT-0778-1018,3007860,MT-0778,9,12,Culbertson High School,Culbertson H S,Roosevelt County,Box 459,Culbertson,MT,59218,,(406)787-6241,43,Rural: Remote,†,†,Yes,No,81,6.5,12.5,33,0
+300783000224,MT-0777-1017,3007830,MT-0777,PK,6,Culbertson School,Culbertson Elem,Roosevelt County,Box 459,Culbertson,MT,59218,,(406)787-6241,43,Rural: Remote,†,†,Yes,Yes,153,16.44,9.3,51,15
+300813001081,MT-0975-1792,3008130,MT-0975,7,8,Custer 7-8,Custer K-12 Schools,Yellowstone County,Box 69,Custer,MT,59024,,(406)856-4117,43,Rural: Remote,†,†,Yes,No,17,2,8.5,4,2
+300793000226,MT-0192-0266,3007930,MT-0192,9,12,Custer Co District High,Custer County H S,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-4920,33,Town: Remote,†,†,Yes,No,500,32,15.6,120,49
+300813000232,MT-0975-1289,3008130,MT-0975,9,12,Custer High School,Custer K-12 Schools,Yellowstone County,Box 69,Custer,MT,59024,,(406)856-4117,43,Rural: Remote,†,†,Yes,Yes,20,4.86,4.1,8,1
+300813000231,MT-0975-1288,3008130,MT-0975,PK,6,Custer School,Custer K-12 Schools,Yellowstone County,Box 69,Custer,MT,59024,,(406)856-4117,43,Rural: Remote,†,†,Yes,Yes,56,4.72,11.9,14,13
+300819000236,MT-0403-0547,3008190,MT-0403,9,12,Cut Bank High School,Cut Bank H S,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)873-5629,33,Town: Remote,†,†,Yes,Yes,167,15.01,11.1,66,12
+300000300234,MT-0402-0544,3000003,MT-0402,6,8,Cut Bank Middle School,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)873-4421,33,Town: Remote,†,†,Yes,Yes,172,11.85,14.5,82,13
+301326000384,MT-0735-1533,3013260,MT-0735,2,4,Daly School,Hamilton K-12 Schools,Ravalli County,217 Daly Avenue,Hamilton,MT,59840,,(406)363-2122,33,Town: Remote,†,†,Yes,Yes,318,21.75,14.6,143,41
+300828001038,MT-0740-1608,3008280,MT-0740,7,8,Darby 7-8,Darby K-12 Schools,Ravalli County,209 School Drive,Darby,MT,59829,,(406)821-3252,43,Rural: Remote,†,†,Yes,Yes,52,3.47,15,19,6
+300828000238,MT-0740-0974,3008280,MT-0740,9,12,Darby High School,Darby K-12 Schools,Ravalli County,209 School Drive,Darby,MT,59829,,(406)821-3252,43,Rural: Remote,†,†,Yes,Yes,112,9.97,11.2,37,9
+300828000237,MT-0740-0973,3008280,MT-0740,PK,6,Darby School,Darby K-12 Schools,Ravalli County,209 School Drive,Darby,MT,59829,,(406)821-3643,43,Rural: Remote,†,†,Yes,Yes,163,12.54,13,–,–
+300831000239,MT-0424-0569,3008310,MT-0424,PK,8,Davey Elementary,Davey Elem,Hill County,PO Box 1829,Havre,MT,59501,,(406)395-4461,42,Rural: Distant,†,†,–,–,10,1,10,–,–
+300834000240,MT-0207-0284,3008340,MT-0207,9,12,Dawson High School,Dawson H S,Dawson County,Box 701,Glendive,MT,59330,,(406)377-5265,33,Town: Remote,†,†,Yes,No,351,25.14,14,77,29
+301590000487,MT-1211-0646,3015900,MT-1211,PK,6,Dayton School,Upper West Shore Elem,Lake County,PO Box 195,Dayton,MT,59914,,(406)849-5484,43,Rural: Remote,†,†,Yes,Yes,79,6.5,12.2,29,0
+300847000244,MT-1193-1448,3008470,MT-1193,PK,8,Deer Creek School,Deer Creek Elem,Dawson County,12 Road 564,Glendive,MT,59330,,(406)687-3724,41,Rural: Fringe,†,†,Yes,Yes,19,1,19,–,–
+300870000960,MT-0307-1693,3008700,MT-0307,7,8,Deer Park 7-8,Deer Park Elem,Flathead County,2105 Middle Road,Columbia Falls,MT,59912,,(406)892-5388,42,Rural: Distant,†,†,Yes,Yes,26,2.29,11.4,7,4
+300870000249,MT-0307-0409,3008700,MT-0307,PK,6,Deer Park School,Deer Park Elem,Flathead County,2105 Middle Road,Columbia Falls,MT,59912,,(406)892-5388,42,Rural: Distant,†,†,Yes,No,122,9.69,12.6,25,13
+300873000250,MT-0264-0363,3008730,MT-0264,PK,8,Deerfield School,Deerfield Elem,Fergus County,1211 Oro Country Road,Lewistown,MT,59457,9513,(406)538-3852,43,Rural: Remote,†,†,Yes,Yes,15,1,15,–,–
+300886000958,MT-0281-1690,3008860,MT-0281,7,8,Denton 7-8,Denton Elem,Fergus County,PO Box 1048,Denton,MT,59430,,(406)567-2270,43,Rural: Remote,†,†,Yes,Yes,7,1,7,†,†
+300885000252,MT-0282-0381,3008850,MT-0282,9,12,Denton High School,Denton H S,Fergus County,PO Box 1048,Denton,MT,59430,,(406)567-2270,43,Rural: Remote,†,†,Yes,Yes,17,5.7,3,6,2
+300886000253,MT-0281-0380,3008860,MT-0281,PK,6,Denton School,Denton Elem,Fergus County,PO Box 1048,Denton,MT,59430,,(406)567-2270,43,Rural: Remote,†,†,Yes,No,22,3.93,5.6,4,5
+300888001014,MT-0592-1736,3008880,MT-0592,7,8,DeSmet 7-8,DeSmet Elem,Missoula County,6355 Padre Lane,Missoula,MT,59808,,(406)549-4994,23,Suburb: Small,†,†,Yes,Yes,24,3.62,6.6,–,–
+300888000254,MT-0592-0796,3008880,MT-0592,PK,6,DeSmet School,DeSmet Elem,Missoula County,6355 Padre Lane,Missoula,MT,59808,,(406)549-4994,23,Suburb: Small,†,†,Yes,Yes,82,8.48,9.7,–,–
+300891000256,MT-0005-0008,3008910,MT-0005,6,8,Dillon Middle School,Dillon Elem,Beaverhead County,22 North Cottom,Dillon,MT,59725,,(406)683-2368,33,Town: Remote,†,†,Yes,Yes,251,16.13,15.6,95,21
+300900000258,MT-0843-1106,3009000,MT-0843,PK,8,Divide School,Divide Elem,Silver Bow County,50 Schoolhouse Road,Divide,MT,59727,,(406)267-3347,43,Rural: Remote,†,†,–,–,8,1,8,†,†
+300903000222,MT-0809-1824,3009030,MT-0809,7,8,Dixon 7-8,Dixon Elem,Sanders County,PO Box 10,Dixon,MT,59831,,(406)246-3566,42,Rural: Distant,†,†,Yes,Yes,12,1.78,6.7,–,–
+300903000259,MT-0809-1052,3009030,MT-0809,PK,6,Dixon Elementary,Dixon Elem,Sanders County,PO Box 10,Dixon,MT,59831,,(406)246-3566,42,Rural: Distant,†,†,Yes,Yes,43,7.81,5.5,–,–
+300912001028,MT-0648-1745,3009120,MT-0648,7,8,Dodson 7-8,Dodson K-12,Phillips County,Box 278,Dodson,MT,59524,,(406)383-4362,43,Rural: Remote,†,†,Yes,Yes,17,3.76,4.5,–,–
+300912000261,MT-0648-0863,3009120,MT-0648,9,12,Dodson High School,Dodson K-12,Phillips County,Box 278,Dodson,MT,59524,,(406)383-4362,43,Rural: Remote,†,†,Yes,Yes,24,4.77,5,–,–
+300912000260,MT-0648-0862,3009120,MT-0648,PK,6,Dodson School,Dodson K-12,Phillips County,Box 278,Dodson,MT,59524,,(406)383-4362,43,Rural: Remote,†,†,Yes,Yes,40,4.86,8.2,–,–
+300918000984,MT-0419-1709,3009180,MT-0419,7,8,Drummond 7-8,Drummond Elem,Granite County,Box 349 108 West Edwards,Drummond,MT,59832,,(406)288-3283,43,Rural: Remote,†,†,Yes,Yes,20,2.16,9.3,6,3
+300921000263,MT-0420-0564,3009210,MT-0420,9,12,Drummond High School,Drummond H S,Granite County,Box 349 108 West Edwards,Drummond,MT,59832,,(406)288-3281,43,Rural: Remote,†,†,Yes,Yes,67,6.89,9.7,24,4
+300918000262,MT-0419-0563,3009180,MT-0419,PK,6,Drummond School,Drummond Elem,Granite County,Box 349 108 West Edwards,Drummond,MT,59832,,(406)288-3283,43,Rural: Remote,†,†,Yes,Yes,65,6.56,9.9,26,7
+300933000264,MT-0671-0888,3009330,MT-0671,PK,8,Dupuyer School,Dupuyer Elem,Pondera County,PO Box 149,Dupuyer,MT,59432,149,(406)472-3297,43,Rural: Remote,†,†,Yes,No,21,3,7,–,–
+300010200265,MT-1235-1156,3000102,MT-1235,PK,8,Dutton/Brady Elementary,Dutton/Brady K-12 Schools,Teton County,101 2nd St NE,Dutton,MT,59433,9670,(406)476-3201,43,Rural: Remote,†,†,Yes,Yes,43,5.67,7.6,26,4
+300010200266,MT-1235-1157,3000102,MT-1235,9,12,Dutton/Brady High School,Dutton/Brady K-12 Schools,Teton County,101 2nd St NE,Dutton,MT,59433,9670,(406)476-3424,43,Rural: Remote,†,†,Yes,No,31,6.43,4.8,11,0
+300010201034,MT-1235-1750,3000102,MT-1235,7,8,Dutton/Brady Middle School,Dutton/Brady K-12 Schools,Teton County,101 2nd St NE,Dutton,MT,59433,9670,(406)476-3424,43,Rural: Remote,†,†,Yes,Yes,20,2.48,8.1,11,2
+300867000246,MT-0712-0937,3008670,MT-0712,7,8,E F Duvall 7-8,Deer Lodge Elem,Powell County,444 Montana Avenue,Deer Lodge,MT,59722,,(406)846-1684,33,Town: Remote,†,†,Yes,Yes,89,6.7,13.3,40,11
+300387000902,MT-0965-1639,3003870,MT-0965,PK,5,Eagle Cliffs Elementary,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6210,12,City: Midsize,†,†,–,–,393,26,15.1,67,31
+301092000292,MT-0339-0453,3010920,MT-0339,PK,4,East Evergreen School,Evergreen Elem,Flathead County,18 West Evergreen Drive,Kalispell,MT,59901,,(406)751-1121,33,Town: Remote,†,†,Yes,Yes,400,26.81,14.9,–,–
+300951000267,MT-0404-0548,3009510,MT-0404,PK,8,East Glacier Park School,East Glacier Park Elem,Glacier County,Box 150,E Glacier Park,MT,59434,,(406)226-5543,43,Rural: Remote,†,†,Yes,Yes,57,4.25,13.4,–,–
+300065501126,MT-1240-1861,3000655,MT-1240,†,†,East Helena High School,East Helena K-12,†,PO Box 1280,East Helena,MT,59635,,(406)227-7700,†,N,†,†,†,†,†,†,†,†,†
+300528000905,MT-0840-1641,3005280,MT-0840,7,8,East Middle School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2600,33,Town: Remote,†,†,Yes,Yes,642,45.42,14.1,247,65
+301304000882,MT-0098-1633,3013040,MT-0098,7,8,East Middle School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6500,13,City: Small,†,†,Yes,Yes,801,55.85,14.3,466,80
+301688000524,MT-0612-0817,3016880,MT-0612,3,5,East Side School,Livingston Elem,Park County,132 South B Street,Livingston,MT,59047,,(406)222-1773,33,Town: Remote,†,†,Yes,Yes,329,21.22,15.5,138,33
+300065500995,MT-1240-1720,3000655,MT-1240,6,8,East Valley Middle School,East Helena K-12,Lewis and Clark County,PO Box 1280,East Helena,MT,59635,,(406)227-7740,33,Town: Remote,†,†,Yes,Yes,415,21.67,19.2,134,45
+300065500908,MT-1240-1636,3000655,MT-1240,PK,KG,Eastgate School,East Helena K-12,Lewis and Clark County,PO Box 1280,East Helena,MT,59635,,(406)227-7770,33,Town: Remote,†,†,Yes,Yes,173,12.57,13.8,83,13
+301545000472,MT-0310-0412,3015450,MT-0310,PK,5,Edgerton School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-4040,33,Town: Remote,†,†,Yes,Yes,518,29,17.9,145,47
+300741000214,MT-0731-0963,3007410,MT-0731,5,6,Edna Thomas School,Corvallis K-12 Schools,Ravalli County,PO Box 700,Corvallis,MT,59828,,(406)961-3007,42,Rural: Distant,†,†,Yes,Yes,198,14.15,14,64,16
+300967000940,MT-0087-1676,3009670,MT-0087,7,8,Ekalaka 7-8,Ekalaka Elem,Carter County,Box 458,Ekalaka,MT,59324,,(406)775-8767,43,Rural: Remote,†,†,Yes,Yes,19,2.41,7.9,7,7
+300967000271,MT-0087-0118,3009670,MT-0087,PK,6,Ekalaka Elementary School,Ekalaka Elem,Carter County,Box 458,Ekalaka,MT,59324,,(406)775-8765,43,Rural: Remote,†,†,Yes,Yes,70,6.82,10.3,23,24
+300972001080,MT-0972-1791,3009720,MT-0972,6,8,Elder Grove 7-8,Elder Grove Elem,Yellowstone County,1532 South 64 Street W,Billings,MT,59106,,(406)656-2893,41,Rural: Fringe,†,†,Yes,No,195,12.6,15.5,29,3
+300972000273,MT-0972-1285,3009720,MT-0972,PK,5,Elder Grove School,Elder Grove Elem,Yellowstone County,1532 South 64 Street W,Billings,MT,59106,,(406)656-2893,41,Rural: Fringe,†,†,Yes,No,357,22.6,15.8,57,6
+300978000274,MT-0719-0947,3009780,MT-0719,PK,8,Elliston School,Elliston Elem,Powell County,PO Box 160,Elliston,MT,59728,,(406)492-7676,43,Rural: Remote,†,†,Yes,Yes,16,3,5.3,10,3
+301545000473,MT-0310-0414,3015450,MT-0310,PK,5,Elrod School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3700,33,Town: Remote,†,†,Yes,Yes,223,16,13.9,–,–
+300984000293,MT-0981-1831,3009840,MT-0981,6,8,Elysian Middle School,Elysian Elem,Yellowstone County,6416 Elysian Road,Billings,MT,59101,,(406)656-4101,41,Rural: Fringe,†,†,Yes,No,113,6.97,16.2,28,9
+300984000276,MT-0981-1295,3009840,MT-0981,PK,5,Elysian School,Elysian Elem,Yellowstone County,6416 Elysian Road,Billings,MT,59101,,(406)656-4101,41,Rural: Fringe,†,†,Yes,No,274,20.03,13.7,59,16
+300528000140,MT-0840-1085,3005280,MT-0840,PK,6,Emerson School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2800,33,Town: Remote,†,†,Yes,Yes,444,25.55,17.4,224,49
+300456000017,MT-0350-1813,3004560,MT-0350,PK,5,Emily Dickinson School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6650,33,Town: Remote,†,†,–,–,528,29.2,18.1,71,11
+300993001004,MT-0546-1728,3009930,MT-0546,7,8,Ennis 7-8,Ennis K-12 Schools,Madison County,Box 517,Ennis,MT,59729,,(406)682-4237,43,Rural: Remote,†,†,Yes,No,66,5.11,12.9,4,6
+300993000277,MT-0546-0731,3009930,MT-0546,9,12,Ennis High School,Ennis K-12 Schools,Madison County,Box 517,Ennis,MT,59729,,(406)682-4258,43,Rural: Remote,†,†,Yes,No,118,11.5,10.3,13,11
+300993000278,MT-0546-0729,3009930,MT-0546,PK,6,Ennis School,Ennis K-12 Schools,Madison County,Box 517,Ennis,MT,59729,,(406)682-4237,43,Rural: Remote,†,†,Yes,No,197,15.07,13.1,52,26
+301008000279,MT-0527-0710,3010080,MT-0527,PK,4,Eureka Elementary School,Eureka Elem,Lincoln County,PO Box 2000,Eureka,MT,59917,,(406)297-5500,43,Rural: Remote,†,†,Yes,Yes,222,18,12.3,107,30
+301008001000,MT-0527-1724,3010080,MT-0527,5,8,Eureka Middle School 5-8,Eureka Elem,Lincoln County,PO Box 2000,Eureka,MT,59917,,(406)297-5600,43,Rural: Remote,†,†,Yes,Yes,249,13.76,18.1,112,25
+301092000967,MT-0339-0452,3010920,MT-0339,5,8,Evergreen Junior High,Evergreen Elem,Flathead County,18 West Evergreen Drive,Kalispell,MT,59901,,(406)751-1131,33,Town: Remote,†,†,Yes,Yes,344,25.19,13.7,–,–
+300375000055,MT-0138-0197,3003750,MT-0138,PK,6,F E Miley School,Big Sandy K-12,Chouteau County,PO Box 570,Big Sandy,MT,59520,,(406)378-2406,43,Rural: Remote,†,†,Yes,Yes,85,9.95,8.5,39,12
+301023000961,MT-0308-1802,3010230,MT-0308,6,8,Fair-Mont-Egan Middle School,Fair-Mont-Egan Elem,Flathead County,797 Fairmont Road,Kalispell,MT,59901,,(406)755-7072,41,Rural: Fringe,†,†,Yes,No,40,2.6,15.4,3,8
+301023000283,MT-0308-0410,3010230,MT-0308,PK,5,Fair-Mont-Egan School,Fair-Mont-Egan Elem,Flathead County,797 Fairmont Road,Kalispell,MT,59901,,(406)755-7072,41,Rural: Fringe,†,†,Yes,No,131,10.29,12.7,13,8
+301014001066,MT-0890-1778,3010140,MT-0890,7,8,Fairfield 7-8,Fairfield Elem,Teton County,Box 399,Fairfield,MT,59436,,(406)467-2425,43,Rural: Remote,†,†,Yes,Yes,52,4.55,11.4,15,9
+301014000280,MT-0890-1154,3010140,MT-0890,PK,6,Fairfield Elementary School,Fairfield Elem,Teton County,Box 399,Fairfield,MT,59436,,(406)467-2425,43,Rural: Remote,†,†,Yes,Yes,150,10.41,14.4,36,34
+301017000281,MT-0891-1155,3010170,MT-0891,9,12,Fairfield High School,Fairfield H S,Teton County,Box 399,Fairfield,MT,59436,,(406)467-2528,43,Rural: Remote,†,†,Yes,No,112,10.78,10.4,21,11
+302688000923,MT-0131-1655,3026880,MT-0131,PK,8,Fairhaven Colony,Ulm Elem,Cascade County,PO Box 189,Ulm,MT,59485,,(406)866-3313,42,Rural: Distant,†,†,Yes,Yes,36,2.7,13.3,–,–
+301021001041,MT-0750-1755,3010210,MT-0750,7,8,Fairview 7-8,Fairview Elem,Richland County,PO Box 467,Fairview,MT,59221,,(406)742-5265,42,Rural: Distant,†,†,Yes,No,45,4.58,9.8,11,0
+301029000284,MT-0751-0987,3010290,MT-0751,9,12,Fairview High School,Fairview H S,Richland County,PO Box 467,Fairview,MT,59221,,(406)742-5265,42,Rural: Distant,†,†,Yes,No,117,12.37,9.5,22,5
+301021000282,MT-0750-0986,3010210,MT-0750,PK,6,Fairview School,Fairview Elem,Richland County,PO Box 467,Fairview,MT,59221,,(406)742-5265,42,Rural: Distant,†,†,Yes,No,155,9.14,17,53,2
+301053000287,MT-0259-0358,3010530,MT-0259,9,12,Fergus High School,Fergus H S,Fergus County,215 7th Avenue South,Lewistown,MT,59457,,(406)535-2321,41,Rural: Fringe,†,†,Yes,Yes,337,24.5,13.8,101,41
+301080000289,MT-0853-1116,3010800,MT-0853,PK,8,Fishtail School,Fishtail Elem,Stillwater County,PO Box 75,Fishtail,MT,59028,,(406)328-4277,43,Rural: Remote,†,†,–,–,7,1,7,†,†
+301542000470,MT-0311-0462,3015420,MT-0311,9,12,Flathead High School,Flathead H S,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3500,33,Town: Remote,†,†,Yes,No,1541,103.9,14.8,463,87
+301110001039,MT-0743-1606,3011100,MT-0743,7,8,Florence-Carlton 7-8,Florence-Carlton K-12 Schls,Ravalli County,5602 Old Highway 93,Florence,MT,59833,,(406)273-0587,42,Rural: Distant,†,†,Yes,No,132,7.06,18.7,29,12
+301110000300,MT-0743-0976,3011100,MT-0743,PK,6,Florence-Carlton El Schl,Florence-Carlton K-12 Schls,Ravalli County,5602 Old Highway 93,Florence,MT,59833,,(406)273-6741,42,Rural: Distant,†,†,Yes,No,431,28.55,15.1,122,25
+301110000301,MT-0743-0977,3011100,MT-0743,9,12,Florence-Carlton HS,Florence-Carlton K-12 Schls,Ravalli County,5602 Old Highway 93,Florence,MT,59833,,(406)273-6301,42,Rural: Distant,†,†,Yes,No,241,18.05,13.4,48,13
+301116000302,MT-0790-1535,3011160,MT-0790,7,8,Forsyth 7-8,Forsyth Elem,Rosebud County,Box 319,Forsyth,MT,59327,,(406)346-2796,43,Rural: Remote,†,†,Yes,No,43,3.83,11.2,7,2
+301116000303,MT-0790-1033,3011160,MT-0790,PK,6,Forsyth Elementary School,Forsyth Elem,Rosebud County,Box 319,Forsyth,MT,59327,,(406)346-2796,43,Rural: Remote,†,†,Yes,No,175,16.32,10.7,48,14
+301119000304,MT-0791-1034,3011190,MT-0791,9,12,Forsyth High School,Forsyth H S,Rosebud County,Box 319,Forsyth,MT,59327,,(406)346-2796,43,Rural: Remote,†,†,Yes,No,107,7.75,13.8,14,8
+301124000305,MT-0133-0191,3011240,MT-0133,7,8,Fort Benton 7-8,Fort Benton Elem,Chouteau County,PO Box 399,Fort Benton,MT,59442,,(406)622-3213,43,Rural: Remote,†,†,Yes,No,47,3,15.7,10,5
+301126000307,MT-0134-0192,3011260,MT-0134,9,12,Fort Benton High School,Fort Benton H S,Chouteau County,PO Box 399,Fort Benton,MT,59442,,(406)622-3213,43,Rural: Remote,†,†,Yes,No,100,9.29,10.8,23,12
+301124000306,MT-0133-0190,3011240,MT-0133,PK,6,Fort Benton School,Fort Benton Elem,Chouteau County,PO Box 399,Fort Benton,MT,59442,,(406)622-3761,43,Rural: Remote,†,†,Yes,Yes,180,11.5,15.7,71,17
+302430000703,MT-1225-0173,3024300,MT-1225,PK,5,Fort Shaw Elem School,Sun River Valley Elem,Cascade County,Box 380,Simms,MT,59477,,(406)264-5110,42,Rural: Distant,†,†,Yes,Yes,108,8.91,12.1,27,8
+301331000393,MT-0023-1315,3013310,MT-0023,PK,5,Fort Smith School,Hardin Elem,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)666-2350,43,Rural: Remote,†,†,Yes,Yes,32,3.25,9.8,–,–
+301134001103,MT-0529-1841,3011340,MT-0529,7,8,Fortine 7-8,Fortine Elem,Lincoln County,Box 96,Fortine,MT,59918,,(406)882-4531,43,Rural: Remote,†,†,Yes,Yes,8,1.5,5.3,†,†
+301134000309,MT-0529-0712,3011340,MT-0529,PK,6,Fortine School,Fortine Elem,Lincoln County,Box 96,Fortine,MT,59918,,(406)882-4531,43,Rural: Remote,†,†,Yes,Yes,72,6.75,10.7,–,–
+300000500419,MT-0487-1582,3000005,MT-0487,PK,5,Four Georgians School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1300,33,Town: Remote,†,†,–,–,485,27,18,117,29
+300705000874,MT-0796-1609,3007050,MT-0796,6,8,Frank Brattin Middle Schl,Colstrip Elem,Rosebud County,PO Box 159,Colstrip,MT,59323,,(406)748-4699,43,Rural: Remote,†,†,Yes,Yes,127,11.75,10.8,44,15
+301857000569,MT-0583-0773,3018570,MT-0583,PK,5,Franklin School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4020,13,City: Small,†,†,Yes,Yes,304,21.65,14,–,–
+301142001072,MT-0927-1783,3011420,MT-0927,7,8,Frazer 7-8,Frazer Elem,Valley County,PO Box 488,Frazer,MT,59225,,(406)695-2241,43,Rural: Remote,†,†,Yes,Yes,29,3.73,7.8,–,–
+301142000310,MT-0927-1205,3011420,MT-0927,PK,6,Frazer Elementary,Frazer Elem,Valley County,PO Box 488,Frazer,MT,59225,,(406)695-2241,43,Rural: Remote,†,†,Yes,Yes,65,8.13,8,–,–
+301146000311,MT-0928-1208,3011460,MT-0928,9,12,Frazer High School,Frazer H S,Valley County,PO Box 488,Frazer,MT,59225,,(406)695-2241,43,Rural: Remote,†,†,Yes,Yes,24,6.33,3.8,–,–
+300201000010,MT-0236-0322,3002010,MT-0236,3,6,Fred Moodry Intermediate,Anaconda Elem,Deer Lodge County,1410 West Park Ave.,Anaconda,MT,59711,,(406)563-5101,33,Town: Remote,†,†,Yes,Yes,346,20.46,16.9,124,83
+301620000497,MT-0970-1280,3016200,MT-0970,3,4,Fred W Graff School,Laurel Elem,Yellowstone County,410 Colorado Avenue,Laurel,MT,59044,,(406)628-6916,31,Town: Fringe,†,†,Yes,Yes,290,15.37,18.9,95,27
+301152001019,MT-0599-1741,3011520,MT-0599,6,8,Frenchtown 6-8,Frenchtown K-12 Schools,Missoula County,PO Box 117,Frenchtown,MT,59834,,(406)626-2650,42,Rural: Distant,†,†,Yes,No,231,13.04,17.7,61,29
+301152000312,MT-0599-0802,3011520,MT-0599,PK,3,Frenchtown Elementary School,Frenchtown K-12 Schools,Missoula County,PO Box 117,Frenchtown,MT,59834,,(406)626-2620,41,Rural: Fringe,†,†,Yes,Yes,478,34.69,13.8,151,44
+301152000313,MT-0599-0803,3011520,MT-0599,9,12,Frenchtown High School,Frenchtown K-12 Schools,Missoula County,PO Box 117,Frenchtown,MT,59834,,(406)626-2670,42,Rural: Distant,†,†,Yes,No,382,29.3,13,91,32
+301152001105,MT-0599-1845,3011520,MT-0599,4,5,Frenchtown Intermediate School,Frenchtown K-12 Schools,Missoula County,PO Box 117,Frenchtown,MT,59834,,(406)626-2622,41,Rural: Fringe,†,†,Yes,Yes,234,13.97,16.8,85,21
+301155001048,MT-0786-1761,3011550,MT-0786,7,8,Froid 7-8,Froid Elem,Roosevelt County,Box 218,Froid,MT,59226,,(406)766-2342,43,Rural: Remote,†,†,Yes,No,24,2.66,9,2,2
+301155000314,MT-0786-1029,3011550,MT-0786,PK,6,Froid Elementary School,Froid Elem,Roosevelt County,Box 218,Froid,MT,59226,,(406)766-2342,43,Rural: Remote,†,†,Yes,Yes,62,8.33,7.4,18,11
+301158000315,MT-0787-1030,3011580,MT-0787,9,12,Froid High School,Froid H S,Roosevelt County,Box 218,Froid,MT,59226,,(406)766-2342,43,Rural: Remote,†,†,Yes,No,20,5.38,3.7,3,2
+301165000317,MT-0072-0099,3011650,MT-0072,9,12,Fromberg High School,Fromberg K-12,Carbon County,319 School Street,Fromberg,MT,59029,,(406)668-7315,43,Rural: Remote,†,†,Yes,Yes,42,4.68,9,–,–
+301165000938,MT-0072-1674,3011650,MT-0072,6,8,Fromberg Middle School,Fromberg K-12,Carbon County,319 School Street,Fromberg,MT,59029,,(406)668-7315,43,Rural: Remote,†,†,Yes,Yes,28,2.98,9.4,–,–
+301165000316,MT-0072-0098,3011650,MT-0072,PK,5,Fromberg School,Fromberg K-12,Carbon County,319 School Street,Fromberg,MT,59029,,(406)668-7755,43,Rural: Remote,†,†,Yes,Yes,58,6.5,8.9,–,–
+301167001043,MT-0774-1757,3011670,MT-0774,7,8,Frontier 7-8,Frontier Elem,Roosevelt County,6996 Roy St.,Wolf Point,MT,59201,,(406)653-2501,42,Rural: Distant,†,†,Yes,Yes,24,3.85,6.2,–,–
+301167000318,MT-0774-1411,3011670,MT-0774,PK,6,Frontier School,Frontier Elem,Roosevelt County,6996 Roy St.,Wolf Point,MT,59201,,(406)653-2501,42,Rural: Distant,†,†,Yes,Yes,123,8.65,14.2,–,–
+301173000319,MT-0915-1183,3011730,MT-0915,PK,8,Galata School,Galata Elem,Toole County,Box 76,Galata,MT,59444,,(406)432-2123,43,Rural: Remote,†,†,Yes,No,7,1,7,†,†
+301179000975,MT-0364-1702,3011790,MT-0364,7,8,Gallatin Gateway 7-8,Gallatin Gateway Elem,Gallatin County,PO Box 265,Gallatin Gateway,MT,59730,,(406)763-4415,42,Rural: Distant,†,†,Yes,No,32,3.03,10.6,3,2
+301179000320,MT-0364-0486,3011790,MT-0364,PK,6,Gallatin Gateway School,Gallatin Gateway Elem,Gallatin County,PO Box 265,Gallatin Gateway,MT,59730,,(406)763-4415,42,Rural: Distant,†,†,Yes,No,133,8.4,15.8,18,6
+301182001022,MT-0614-1743,3011820,MT-0614,7,8,Gardiner 7-8,Gardiner Elem,Park County,510 Stone Street,Gardiner,MT,59030,,(406)848-7563,43,Rural: Remote,†,†,Yes,No,25,3.6,6.9,3,0
+301185000322,MT-1191-0824,3011850,MT-1191,9,12,Gardiner High School,Gardiner H S,Park County,510 Stone Street,Gardiner,MT,59030,,(406)848-7261,43,Rural: Remote,†,†,Yes,No,63,5.15,12.2,5,2
+301182000321,MT-0614-0825,3011820,MT-0614,PK,6,Gardiner School,Gardiner Elem,Park County,510 Stone Street,Gardiner,MT,59030,,(406)848-7563,43,Rural: Remote,†,†,Yes,No,82,8.6,9.5,20,0
+301188000323,MT-0378-0534,3011880,MT-0378,9,12,Garfield Co Dist HS,Garfield County H S,Garfield County,Box 409,Jordan,MT,59337,,(406)557-2259,43,Rural: Remote,†,†,Yes,No,43,6.91,6.2,7,4
+301841000823,MT-0172-0234,3018410,MT-0172,PK,6,Garfield School,Miles City Elem,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-4310,33,Town: Remote,†,†,Yes,Yes,215,17.59,12.2,134,26
+301649000507,MT-0258-0357,3016490,MT-0258,PK,1,Garfield School,Lewistown Elem,Fergus County,215 7th Avenue South,Lewistown,MT,59457,,(406)535-2366,33,Town: Remote,†,†,Yes,Yes,198,15.21,13,76,17
+302148000642,MT-0718-0945,3021480,MT-0718,PK,6,Garrison School,Garrison Elem,Powell County,33 School House Rd,Garrison,MT,59731,,(406)846-1043,42,Rural: Distant,†,†,Yes,Yes,17,2.01,8.5,–,–
+301221000333,MT-0154-0214,3012210,MT-0154,9,12,Geraldine High School,Geraldine K-12,Chouteau County,PO Box 347,Geraldine,MT,59446,,(406)737-4371,43,Rural: Remote,†,†,Yes,Yes,28,4.57,6.1,13,5
+301221000948,MT-0154-1682,3012210,MT-0154,6,8,Geraldine Middle School,Geraldine K-12,Chouteau County,PO Box 347,Geraldine,MT,59446,,(406)737-4371,43,Rural: Remote,†,†,Yes,Yes,7,2.01,3.5,†,†
+301221000332,MT-0154-0213,3012210,MT-0154,PK,5,Geraldine School,Geraldine K-12,Chouteau County,PO Box 347,Geraldine,MT,59446,,(406)737-4371,43,Rural: Remote,†,†,Yes,Yes,27,4.65,5.8,13,6
+301227000993,MT-0472-1718,3012270,MT-0472,7,8,Geyser 7-8,Geyser Elem,Judith Basin County,PO Box 70,Geyser,MT,59447,,(406)735-4368,43,Rural: Remote,†,†,Yes,Yes,1,1.55,0.6,†,†
+301230000335,MT-0473-0627,3012300,MT-0473,9,12,Geyser High School,Geyser H S,Judith Basin County,PO Box 70,Geyser,MT,59447,,(406)735-4368,43,Rural: Remote,†,†,Yes,No,17,2.81,6,6,1
+301227000334,MT-0472-0626,3012270,MT-0472,PK,6,Geyser School,Geyser Elem,Judith Basin County,PO Box 70,Geyser,MT,59447,,(406)735-4368,43,Rural: Remote,†,†,Yes,Yes,19,4.23,4.5,5,4
+301304001121,MT-0098-1855,3013040,MT-0098,PK,6,Giant Springs Elementary,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7045,13,City: Small,†,†,–,–,401,21.85,18.4,–,–
+301235000336,MT-1217-1578,3012350,MT-1217,PK,8,Gildford Colony School,Gildford Colony Elem,Hill County,PO Box 138,Gildford,MT,59525,,(406)376-3249,43,Rural: Remote,†,†,Yes,Yes,16,1,16,13,0
+300000300018,MT-0402-1810,3000003,MT-0402,PK,8,Glacier Elementary School,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)336-2623,43,Rural: Remote,†,†,Yes,Yes,12,1,12,9,0
+300711000196,MT-0312-0418,3007110,MT-0312,PK,5,Glacier Gateway Elem,Columbia Falls Elem,Flathead County,PO Box 1259,Columbia Falls,MT,59912,,(406)892-6540,33,Town: Remote,†,†,Yes,Yes,486,30.5,15.9,239,55
+301542000358,MT-0311-1835,3015420,MT-0311,9,12,Glacier High School,Flathead H S,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)758-8600,41,Rural: Fringe,†,†,Yes,No,1341,79.6,16.8,237,70
+301242000343,MT-0926-1204,3012420,MT-0926,9,12,Glasgow High School,Glasgow K-12 Schools,Valley County,Box 28,Glasgow,MT,59230,,(406)228-2485,41,Rural: Fringe,†,†,Yes,No,264,20.18,13.1,60,13
+301242000880,MT-0926-1618,3012420,MT-0926,6,8,Glasgow Middle School,Glasgow K-12 Schools,Valley County,Box 28,Glasgow,MT,59230,,(406)228-2485,33,Town: Remote,†,†,Yes,No,202,14.65,13.8,65,15
+300514000813,MT-0400-1594,3005140,MT-0400,PK,8,Glendale School,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)336-2635,43,Rural: Remote,†,†,Yes,Yes,17,1.37,12.4,–,–
+301257000347,MT-0721-0949,3012570,MT-0721,PK,8,Gold Creek School,Gold Creek Elem,Powell County,825 Gold Creek Road,Gold Creek,MT,59733,,(406)288-3560,43,Rural: Remote,†,†,Yes,No,8,1,8,†,†
+301260000348,MT-0896-1160,3012600,MT-0896,PK,8,Golden Ridge School,Golden Ridge Elem,Teton County,1374 Hiway 408,Fairfield,MT,59436,,(406)467-2010,43,Rural: Remote,†,†,–,–,34,4,8.5,0,3
+301284000349,MT-0416-0565,3012840,MT-0416,9,12,Granite High School,Philipsburg K-12 Schools,Granite County,PO Box 400,Philipsburg,MT,59858,,(406)859-3232,43,Rural: Remote,†,†,Yes,Yes,59,6.9,8.6,13,5
+301290000350,MT-0003-0004,3012900,MT-0003,PK,8,Grant School,Grant Elem,Beaverhead County,811 E Orr,Dillon,MT,59725,,(406)681-3143,43,Rural: Remote,†,†,Yes,No,6,1,6,†,†
+302513001123,MT-0104-1860,3025130,MT-0104,PK,8,Grass Land Colony School,Centerville Elem,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5322,42,Rural: Distant,†,†,–,–,†,–,†,†,†
+301296000955,MT-0268-1795,3012960,MT-0268,7,8,Grass Range 7-8,Grass Range Elem,Fergus County,PO Box 58,Grass Range,MT,59032,,(406)428-2341,43,Rural: Remote,†,†,Yes,Yes,7,1.59,4.4,†,†
+301299000352,MT-0269-0368,3012990,MT-0269,9,12,Grass Range High School,Grass Range H S,Fergus County,PO Box 58,Grass Range,MT,59032,,(406)428-2341,43,Rural: Remote,†,†,Yes,Yes,19,3.16,6,8,2
+301296000351,MT-0268-0367,3012960,MT-0268,PK,6,Grass Range School,Grass Range Elem,Fergus County,PO Box 58,Grass Range,MT,59032,,(406)428-2341,43,Rural: Remote,†,†,Yes,Yes,50,4.31,11.6,22,5
+301305000380,MT-0099-0134,3013050,MT-0099,9,12,Great Falls High School,Great Falls H S,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6250,13,City: Small,†,†,Yes,Yes,1479,106.48,13.9,557,115
+301311000068,MT-0900-1814,3013110,MT-0900,7,8,Greenfield 7-8,Greenfield Elem,Teton County,590 Hwy 431,Fairfield,MT,59436,9214,(406)467-2433,42,Rural: Distant,†,†,Yes,No,20,1.35,14.8,6,2
+301311000381,MT-0900-1165,3013110,MT-0900,PK,6,Greenfield School,Greenfield Elem,Teton County,590 Hwy 431,Fairfield,MT,59436,9214,(406)467-2433,42,Rural: Distant,†,†,Yes,No,77,6.2,12.4,15,8
+301314000382,MT-0872-1137,3013140,MT-0872,PK,8,Greycliff School,Greycliff Elem,Sweet Grass County,PO Box 65,Greycliff,MT,59033,,(406)932-6641,43,Rural: Remote,†,†,Yes,No,11,1,11,–,–
+300000301106,MT-0402-0546,3000003,MT-0402,PK,3,H C Davis Elementary,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)873-5513,33,Town: Remote,†,†,Yes,Yes,234,16,14.6,119,19
+301320000383,MT-0418-0562,3013200,MT-0418,PK,8,Hall School,Hall Elem,Granite County,109 West Main,Hall,MT,59837,,(406)288-3440,43,Rural: Remote,†,†,Yes,No,25,2,12.5,–,–
+301326000389,MT-0735-1084,3013260,MT-0735,9,12,Hamilton High School,Hamilton K-12 Schools,Ravalli County,217 Daly Avenue,Hamilton,MT,59840,,(406)375-6060,33,Town: Remote,†,†,Yes,No,495,32.32,15.3,135,50
+301326000388,MT-0735-1427,3013260,MT-0735,5,8,Hamilton Middle School,Hamilton K-12 Schools,Ravalli County,217 Daly Avenue,Hamilton,MT,59840,,(406)363-2121,33,Town: Remote,†,†,Yes,Yes,499,28.86,17.3,189,49
+301328000338,MT-0078-0105,3013280,MT-0078,PK,8,Hammond School,Hawks Home Elem,Carter County,11 Talcott Lane,Hammond,MT,59332,,(406)427-5438,43,Rural: Remote,†,†,Yes,No,9,1.4,6.4,–,–
+301334000397,MT-1189-0037,3013340,MT-1189,9,12,Hardin High School,Hardin H S,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)665-6300,33,Town: Remote,†,†,Yes,Yes,546,31.03,17.6,–,–
+301331000395,MT-0023-0032,3013310,MT-0023,3,5,Hardin Intermediate,Hardin Elem,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)665-6390,33,Town: Remote,†,†,Yes,Yes,314,23,13.7,–,–
+301331000394,MT-0023-0036,3013310,MT-0023,6,8,Hardin Middle School,Hardin Elem,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)665-6300,33,Town: Remote,†,†,Yes,Yes,441,33.75,13.1,–,–
+301331000396,MT-0023-0031,3013310,MT-0023,PK,2,Hardin Primary,Hardin Elem,Big Horn County,401 Park Road,Hardin,MT,59034,2505,(406)665-9340,33,Town: Remote,†,†,Yes,Yes,302,30.1,10,–,–
+301339500909,MT-0030-1643,3013395,MT-0030,7,8,Harlem 7-8,Harlem Elem,Blaine County,PO Box 339,Harlem,MT,59526,339,(406)353-2287,43,Rural: Remote,†,†,Yes,Yes,91,7.88,11.5,–,–
+301339500399,MT-0030-0048,3013395,MT-0030,PK,6,Harlem Elementary School,Harlem Elem,Blaine County,PO Box 339,Harlem,MT,59526,339,(406)353-2258,43,Rural: Remote,†,†,Yes,Yes,349,26,13.4,–,–
+301340000400,MT-0031-0049,3013400,MT-0031,9,12,Harlem High School,Harlem H S,Blaine County,PO Box 339,Harlem,MT,59526,339,(406)353-2287,43,Rural: Remote,†,†,Yes,Yes,160,12.68,12.6,–,–
+301347000402,MT-0946-1230,3013470,MT-0946,9,12,Harlowton High School,Harlowton K-12,Wheatland County,PO Box 288,Harlowton,MT,59036,,(406)632-4324,43,Rural: Remote,†,†,Yes,Yes,65,7.29,8.9,22,9
+301353001003,MT-0543-1727,3013530,MT-0543,7,8,Harrison 7-8,Harrison K-12 Schools,Madison County,PO Box 7,Harrison,MT,59735,,(406)685-3428,43,Rural: Remote,†,†,Yes,No,12,1.54,7.8,2,1
+301353000404,MT-0543-0727,3013530,MT-0543,9,12,Harrison High School,Harrison K-12 Schools,Madison County,PO Box 7,Harrison,MT,59735,,(406)685-3428,43,Rural: Remote,†,†,Yes,Yes,30,5.47,5.5,10,5
+301353000403,MT-0543-0726,3013530,MT-0543,PK,6,Harrison School,Harrison K-12 Schools,Madison County,PO Box 7,Harrison,MT,59735,,(406)685-3428,43,Rural: Remote,†,†,Yes,No,42,4.34,9.7,10,3
+300626000339,MT-0028-1828,3006260,MT-0028,PK,8,Hartland Elementary School,Chinook Elem,Blaine County,Box 1059,Chinook,MT,59523,,(406)357-2033,43,Rural: Remote,†,†,Yes,Yes,3,1.1,2.7,†,†
+301359000411,MT-0428-1450,3013590,MT-0428,9,12,Havre High School,Havre H S,Hill County,Box 7791,Havre,MT,59501,,(406)265-6731,33,Town: Remote,†,†,Yes,No,508,39.64,12.8,174,25
+301356000406,MT-0427-1451,3013560,MT-0427,6,8,Havre Middle School,Havre Elem,Hill County,Box 7791,Havre,MT,59501,,(406)265-9613,33,Town: Remote,†,†,Yes,Yes,411,27,15.2,178,23
+301328001095,MT-0078-0131,3013280,MT-0078,PK,8,Hawks Home School,Hawks Home Elem,Carter County,11 Talcott Lane,Hammond,MT,59332,,(406)775-6506,43,Rural: Remote,†,†,Yes,No,12,1,12,–,–
+301857000570,MT-0583-0787,3018570,MT-0583,PK,5,Hawthorne School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4025,23,Suburb: Small,†,†,Yes,Yes,414,28.15,14.7,–,–
+300456000107,MT-0350-0468,3004560,MT-0350,PK,5,Hawthorne School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6700,33,Town: Remote,†,†,–,–,349,21.2,16.5,19,3
+300000500420,MT-0487-0656,3000005,MT-0487,PK,5,Hawthorne School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1370,33,Town: Remote,†,†,Yes,No,214,14.6,14.7,55,6
+301366000934,MT-1213-1659,3013660,MT-1213,7,8,Hays-Lodge Pole 7-8,Hays-Lodge Pole K-12 Schls,Blaine County,PO Box 110,Hays,MT,59527,,(406)673-3120,43,Rural: Remote,†,†,Yes,Yes,48,4.99,9.6,–,–
+301366000413,MT-1213-1551,3013660,MT-1213,9,12,Hays-Lodge Pole High Sch,Hays-Lodge Pole K-12 Schls,Blaine County,PO Box 110,Hays,MT,59527,,(406)673-3120,43,Rural: Remote,†,†,Yes,Yes,81,9.68,8.4,–,–
+300009901031,MT-1226-1748,3000099,MT-1226,6,8,Heart Butte 6-8,Heart Butte K-12 Schools,Pondera County,PO Box 259,Heart Butte,MT,59448,,(406)338-2200,43,Rural: Remote,†,†,Yes,Yes,31,3.73,8.3,–,–
+300009900414,MT-1226-0886,3000099,MT-1226,PK,6,Heart Butte Elementary,Heart Butte K-12 Schools,Pondera County,PO Box 259,Heart Butte,MT,59448,,(406)338-2200,43,Rural: Remote,†,†,Yes,Yes,89,8.27,10.8,–,–
+300009900924,MT-1226-1656,3000099,MT-1226,9,12,Heart Butte High School,Heart Butte K-12 Schools,Pondera County,PO Box 259,Heart Butte,MT,59448,,(406)338-3344,43,Rural: Remote,†,†,Yes,Yes,61,6.3,9.7,–,–
+300329000324,MT-0368-0490,3003290,MT-0368,PK,4,Heck/Quaw Elementary,Belgrade Elem,Gallatin County,PO Box 166,Belgrade,MT,59714,,(406)924-2120,33,Town: Remote,†,†,Yes,No,426,29,14.7,119,24
+301380000964,MT-0320-1696,3013800,MT-0320,7,8,Helena Flats 7-8,Helena Flats Elem,Flathead County,1000 Helena Flats Road,Kalispell,MT,59901,,(406)257-2301,41,Rural: Fringe,†,†,Yes,Yes,39,3.34,11.7,16,5
+301380000426,MT-0320-0432,3013800,MT-0320,PK,6,Helena Flats School,Helena Flats Elem,Flathead County,1000 Helena Flats Road,Kalispell,MT,59901,,(406)257-2301,41,Rural: Fringe,†,†,Yes,No,196,13.02,15.1,44,15
+301383000430,MT-0488-0661,3013830,MT-0488,9,12,Helena High School,Helena H S,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-2200,33,Town: Remote,†,†,Yes,Yes,1538,103.5,14.9,273,41
+300000500885,MT-0487-1614,3000005,MT-0487,6,8,Helena Middle School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1000,33,Town: Remote,†,†,Yes,Yes,687,43,16,262,28
+301386001119,MT-0586-1859,3013860,MT-0586,4,6,Hellgate El Intermediate,Hellgate Elem,Missoula County,2385 Flynn Lane,Missoula,MT,59808,,(406)721-2160,13,City: Small,†,†,–,–,511,26.95,19,137,39
+301386001127,MT-0586-1863,3013860,MT-0586,†,†,Hellgate El Primary Grades,Hellgate Elem,†,2385 Flynn Lane,Missoula,MT,59808,,(406)721-2452,†,N,†,†,†,†,†,†,†,†,†
+301386000432,MT-0586-1573,3013860,MT-0586,2,3,Hellgate Elem Lower Grades,Hellgate Elem,Missoula County,2385 Flynn Lane,Missoula,MT,59808,,(406)721-2160,13,City: Small,†,†,Yes,No,483,31.45,15.4,137,42
+301854000562,MT-0584-1432,3018540,MT-0584,9,12,Hellgate High School,Missoula H S,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)728-2402,13,City: Small,†,†,–,–,1231,83.07,14.8,173,44
+301386001010,MT-0586-1801,3013860,MT-0586,7,8,Hellgate Middle School,Hellgate Elem,Missoula County,2385 Flynn Lane,Missoula,MT,59808,,(406)721-2452,13,City: Small,†,†,Yes,No,523,27.6,18.9,137,50
+301389000433,MT-0717-0944,3013890,MT-0717,PK,8,Helmville School,Helmville Elem,Powell County,PO Box 91,Helmville,MT,59843,,(406)793-5656,43,Rural: Remote,†,†,Yes,No,15,2.75,5.5,–,–
+300000300242,MT-0402-1826,3000003,MT-0402,PK,8,Hidden Lake Elementary,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)336-3696,43,Rural: Remote,†,†,Yes,Yes,10,1,10,–,–
+301841000557,MT-0172-1579,3018410,MT-0172,PK,2,Highland Park School,Miles City Elem,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-3890,33,Town: Remote,†,†,Yes,Yes,159,11.06,14.4,62,15
+301649000508,MT-0258-0355,3016490,MT-0258,2,4,Highland Park School,Lewistown Elem,Fergus County,215 7th Avenue South,Lewistown,MT,59457,,(406)535-2555,33,Town: Remote,†,†,Yes,Yes,283,18,15.7,105,26
+301356000408,MT-0427-0574,3013560,MT-0427,PK,1,Highland Park School,Havre Elem,Hill County,Box 7791,Havre,MT,59501,,(406)265-5554,33,Town: Remote,†,†,Yes,Yes,287,17.3,16.6,–,–
+300387000071,MT-0965-1260,3003870,MT-0965,PK,5,Highland School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6211,12,City: Midsize,†,†,Yes,No,270,16.5,16.4,84,19
+301407000437,MT-0146-0205,3014070,MT-0146,9,12,Highwood High School,Highwood K-12,Chouteau County,160 West Street South,Highwood,MT,59450,,(406)733-2081,42,Rural: Distant,†,†,Yes,No,20,4.07,4.9,3,2
+301407000947,MT-0146-1681,3014070,MT-0146,6,8,Highwood Middle School,Highwood K-12,Chouteau County,160 West Street South,Highwood,MT,59450,,(406)733-2081,42,Rural: Distant,†,†,Yes,No,32,3.77,8.5,4,3
+301407000436,MT-0146-0204,3014070,MT-0146,PK,5,Highwood School,Highwood K-12,Chouteau County,160 West Street South,Highwood,MT,59450,,(406)733-2081,42,Rural: Distant,†,†,Yes,No,59,4.45,13.3,8,5
+302513001117,MT-0104-1854,3025130,MT-0104,PK,8,Hill Top Colony School,Centerville Elem,Cascade County,693 Stockett Rd Box 100,Sand Coulee,MT,59472,,(406)736-5169,42,Rural: Distant,†,†,Yes,Yes,27,2.06,13.1,–,–
+301347001076,MT-0946-1787,3013470,MT-0946,7,8,Hillcrest 7-8,Harlowton K-12,†,PO Box 288,Harlowton,MT,59036,,(406)632-4361,†,N,†,†,†,†,†,†,†,†,†
+300585001109,MT-0127-1848,3005850,MT-0127,PK,8,Hillcrest Colony Elementary,Vaughn Elem,Cascade County,PO Box 279,Vaughn,MT,59487,,(406)463-2236,42,Rural: Distant,†,†,–,–,9,1,9,–,–
+300528000143,MT-0840-1528,3005280,MT-0840,PK,6,Hillcrest School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2850,33,Town: Remote,†,†,–,–,410,21.45,19.1,92,13
+301347000401,MT-0946-1228,3013470,MT-0946,PK,6,Hillcrest School,Harlowton K-12,†,PO Box 288,Harlowton,MT,59036,,(406)632-4361,†,N,†,†,†,†,†,†,†,†,†
+300009300081,MT-1224-1809,3000093,MT-1224,PK,8,Hillside Colony School,Liberty Elem,Toole County,PO Box 78 333 2100 Rd S,Galata,MT,59444,,(406)937-2816,43,Rural: Remote,†,†,Yes,Yes,12,1,12,–,–
+301434001073,MT-0932-1784,3014340,MT-0932,7,8,Hinsdale 7-8,Hinsdale Elem,Valley County,PO Box 398,Hinsdale,MT,59241,,(406)364-2314,43,Rural: Remote,†,†,Yes,Yes,13,1.99,6.5,7,0
+301437000444,MT-0933-1213,3014370,MT-0933,9,12,Hinsdale High School,Hinsdale H S,Valley County,PO Box 398,Hinsdale,MT,59241,,(406)364-2314,43,Rural: Remote,†,†,Yes,No,22,5.17,4.3,4,5
+301434000443,MT-0932-1212,3014340,MT-0932,PK,6,Hinsdale School,Hinsdale Elem,Valley County,PO Box 398,Hinsdale,MT,59241,,(406)364-2314,43,Rural: Remote,†,†,Yes,No,34,5.04,6.7,8,4
+301443000992,MT-0469-1717,3014430,MT-0469,6,8,Hobson 6-8,Hobson K-12 Schools,Judith Basin County,PO Box 410,Hobson,MT,59452,,(406)423-5483,43,Rural: Remote,†,†,Yes,Yes,21,3.3,6.4,7,2
+301443000446,MT-0469-0623,3014430,MT-0469,9,12,Hobson High School,Hobson K-12 Schools,Judith Basin County,PO Box 410,Hobson,MT,59452,,(406)423-5483,43,Rural: Remote,†,†,Yes,No,42,4.04,10.4,8,5
+301443000445,MT-0469-0622,3014430,MT-0469,PK,5,Hobson School,Hobson K-12 Schools,Judith Basin County,PO Box 410,Hobson,MT,59452,,(406)423-5483,43,Rural: Remote,†,†,Yes,No,54,7.16,7.5,12,9
+300000301107,MT-0402-1844,3000003,MT-0402,PK,8,Horizon Elementary,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)336-2961,42,Rural: Distant,†,†,Yes,Yes,10,1,10,7,0
+301464001054,MT-0815-1766,3014640,MT-0815,7,8,Hot Springs 7-8,Hot Springs K-12,Sanders County,PO Box 1005,Hot Springs,MT,59845,,(406)741-2962,43,Rural: Remote,†,†,Yes,Yes,29,3.4,8.5,–,–
+301464000449,MT-0815-1058,3014640,MT-0815,9,12,Hot Springs High School,Hot Springs K-12,Sanders County,PO Box 1005,Hot Springs,MT,59845,,(406)741-2962,43,Rural: Remote,†,†,Yes,Yes,66,7.27,9.1,–,–
+301464000448,MT-0815-1057,3014640,MT-0815,PK,6,Hot Springs School,Hot Springs K-12,Sanders County,PO Box 1005,Hot Springs,MT,59845,,(406)741-2014,43,Rural: Remote,†,†,Yes,Yes,86,9.25,9.3,–,–
+301470000887,MT-0983-1616,3014700,MT-0983,7,8,Huntley Project 7-8,Huntley Project K-12 Schools,Yellowstone County,1477 Ash Street,Worden,MT,59088,,(406)967-2540,42,Rural: Distant,†,†,Yes,Yes,128,8.44,15.2,45,10
+301470000450,MT-0983-1296,3014700,MT-0983,PK,6,Huntley Project Elem K-6,Huntley Project K-12 Schools,Yellowstone County,1477 Ash Street,Worden,MT,59088,,(406)967-2540,42,Rural: Distant,†,†,Yes,Yes,405,29.52,13.7,155,30
+301470000452,MT-0983-1298,3014700,MT-0983,9,12,Huntley Project High Schl,Huntley Project K-12 Schools,Yellowstone County,1477 Ash Street,Worden,MT,59088,,(406)967-2540,42,Rural: Distant,†,†,Yes,Yes,251,18.03,13.9,95,21
+300456001096,MT-0350-1839,3004560,MT-0350,PK,5,Hyalite Elementary,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)582-6800,33,Town: Remote,†,†,Yes,Yes,467,29.9,15.6,98,29
+301476001070,MT-0923-1782,3014760,MT-0923,7,8,Hysham 7-8,Hysham K-12 Schools,Treasure County,PO Box 272,Hysham,MT,59038,,(406)342-5237,43,Rural: Remote,†,†,Yes,Yes,6,2.54,2.4,†,†
+301476000454,MT-0923-1194,3014760,MT-0923,9,12,Hysham High School,Hysham K-12 Schools,Treasure County,PO Box 272,Hysham,MT,59038,,(406)342-5237,43,Rural: Remote,†,†,Yes,Yes,13,3.96,3.3,6,3
+301476000453,MT-0923-1193,3014760,MT-0923,PK,6,Hysham School,Hysham K-12 Schools,Treasure County,PO Box 272,Hysham,MT,59038,,(406)342-5237,43,Rural: Remote,†,†,Yes,Yes,40,3.68,10.9,16,6
+301482000455,MT-0989-1304,3014820,MT-0989,PK,6,Independent School,Independent Elem,Yellowstone County,2907 Roundup Road,Billings,MT,59105,,(406)259-8109,22,Suburb: Midsize,†,†,Yes,No,310,18.1,17.1,43,14
+301242000340,MT-0926-1198,3012420,MT-0926,PK,5,Irle Elementary School,Glasgow K-12 Schools,Valley County,Box 28,Glasgow,MT,59230,,(406)228-2419,33,Town: Remote,†,†,Yes,Yes,377,27.5,13.7,136,26
+300456000108,MT-0350-0469,3004560,MT-0350,PK,5,Irving School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6600,33,Town: Remote,†,†,Yes,Yes,266,17.6,15.1,91,15
+301506000459,MT-0014-0017,3015060,MT-0014,PK,8,Jackson School,Jackson Elem,Beaverhead County,PO Box 835,Jackson,MT,59736,,(406)834-3138,43,Rural: Remote,†,†,–,–,6,1,6,†,†
+301857000567,MT-0583-1443,3018570,MT-0583,PK,5,Jeannette Rankin El,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4010,13,City: Small,†,†,Yes,No,504,26.71,18.9,68,16
+301545001120,MT-0310-1858,3015450,MT-0310,PK,5,Jeannette Rankin Elementary Sc,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3400,41,Rural: Fringe,†,†,–,–,399,25,16,119,64
+301512000461,MT-0457-0611,3015120,MT-0457,9,12,Jefferson High School,Jefferson H S,Jefferson County,PO Box 838,Boulder,MT,59632,,(406)225-3317,43,Rural: Remote,†,†,Yes,Yes,271,18.37,14.8,71,14
+301841000558,MT-0172-1561,3018410,MT-0172,PK,2,Jefferson School,Miles City Elem,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-2888,33,Town: Remote,†,†,Yes,Yes,119,9.36,12.7,55,12
+301251000344,MT-0206-0280,3012510,MT-0206,PK,2,Jefferson School,Glendive Elem,Dawson County,Box 701,Glendive,MT,59330,,(406)377-4155,33,Town: Remote,†,†,Yes,No,278,21,13.2,82,12
+300000500421,MT-0487-0651,3000005,MT-0487,PK,5,Jefferson School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-2060,33,Town: Remote,†,†,–,–,290,15.4,18.8,44,7
+300000500505,MT-0487-1461,3000005,MT-0487,PK,5,Jim Darcy School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1410,41,Rural: Fringe,†,†,–,–,448,23,19.5,93,19
+301526000464,MT-0061-0088,3015260,MT-0061,9,12,Joliet High School,Joliet H S,Carbon County,PO Box 590,Joliet,MT,59041,,(406)962-3541,42,Rural: Distant,†,†,Yes,No,112,9.91,11.3,20,2
+301520000910,MT-0060-1635,3015200,MT-0060,6,8,Joliet Middle School,Joliet Elem,Carbon County,PO Box 590,Joliet,MT,59041,,(406)962-3541,42,Rural: Distant,†,†,Yes,No,58,4.32,13.4,11,1
+301520000463,MT-0060-0087,3015200,MT-0060,PK,5,Joliet School,Joliet Elem,Carbon County,PO Box 590,Joliet,MT,59041,,(406)962-3541,42,Rural: Distant,†,†,Yes,No,193,12.78,15.1,37,4
+301534000979,MT-0377-1705,3015340,MT-0377,7,8,Jordan 7-8,Jordan Elem,Garfield County,Box 409,Jordan,MT,59337,,(406)557-2259,43,Rural: Remote,†,†,Yes,No,20,2.04,9.8,2,3
+301534000467,MT-0377-0500,3015340,MT-0377,PK,6,Jordan Elementary School,Jordan Elem,Garfield County,Box 409,Jordan,MT,59337,,(406)557-2259,43,Rural: Remote,†,†,Yes,No,71,8.58,8.3,10,10
+301536001077,MT-0948-1788,3015360,MT-0948,7,8,Judith Gap 7-8,Judith Gap Elem,Wheatland County,PO Box 67,Judith Gap,MT,59453,,(406)473-2211,43,Rural: Remote,†,†,Yes,Yes,2,1.72,1.2,†,†
+301539000469,MT-0949-1233,3015390,MT-0949,9,12,Judith Gap High School,Judith Gap H S,Wheatland County,PO Box 67,Judith Gap,MT,59453,,(406)473-2211,43,Rural: Remote,†,†,Yes,Yes,6,2.16,2.8,†,†
+301536000468,MT-0948-1232,3015360,MT-0948,PK,6,Judith Gap School,Judith Gap Elem,Wheatland County,PO Box 67,Judith Gap,MT,59453,,(406)473-2211,43,Rural: Remote,†,†,Yes,Yes,16,4.12,3.9,2,4
+302279000669,MT-1199-0639,3022790,MT-1199,PK,4,K William Harvey Elem,Ronan Elem,Lake County,421 Andrew Street NW,Ronan,MT,59864,2302,(406)676-3390,43,Rural: Remote,†,†,Yes,Yes,416,28,14.9,–,–
+301545000086,MT-0310-1509,3015450,MT-0310,6,8,Kalispell Middle School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3800,33,Town: Remote,†,†,Yes,Yes,1046,68.4,15.3,309,81
+300528000144,MT-0840-1095,3005280,MT-0840,PK,6,Kennedy School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2450,33,Town: Remote,†,†,Yes,Yes,232,17.42,13.3,–,–
+300000500337,MT-0487-0662,3000005,MT-0487,PK,5,Kessler Elementary School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1700,33,Town: Remote,†,†,Yes,Yes,271,17.4,15.6,87,6
+301551000478,MT-0386-0518,3015510,MT-0386,PK,8,Kester School,Kester Elem,Garfield County,2031 Haxby Road,Jordan,MT,59337,,(406)557-6274,43,Rural: Remote,†,†,Yes,No,5,1,5,†,†
+301557000130,MT-0323-1818,3015570,MT-0323,7,8,Kila 7-8,Kila Elem,Flathead County,PO Box 40,Kila,MT,59920,,(406)257-2428,42,Rural: Distant,†,†,Yes,Yes,33,3.55,9.3,12,4
+301557000480,MT-0323-0435,3015570,MT-0323,PK,6,Kila School,Kila Elem,Flathead County,PO Box 40,Kila,MT,59920,,(406)257-2428,42,Rural: Distant,†,†,Yes,Yes,148,8.05,18.4,58,11
+301561000481,MT-0272-0371,3015610,MT-0272,PK,8,King Colony School,King Colony Elem,Fergus County,982 Jenni Road,Lewistown,MT,59457,,(406)538-9702,42,Rural: Distant,†,†,–,–,9,1,9,6,0
+302706001088,MT-0679-1808,3027060,MT-0679,PK,8,Kingsbury Colony Attn Ctr,Valier Elem,Pondera County,PO Box 528,Valier,MT,59486,,(406)279-3314,43,Rural: Remote,†,†,Yes,Yes,17,1,17,14,0
+300798000228,MT-0187-0259,3007980,MT-0187,PK,8,Kinsey School,Kinsey Elem,Custer County,7 Mastin Road,Kinsey,MT,59338,,(406)232-2440,43,Rural: Remote,†,†,Yes,No,61,4,15.3,11,9
+301564000482,MT-0173-0240,3015640,MT-0173,PK,7,Kircher School,Kircher Elem,Custer County,331 Kircher Creek Rd,Miles City,MT,59301,,(406)234-2761,41,Rural: Fringe,†,†,Yes,Yes,42,3,14,16,3
+301569000483,MT-0161-0223,3015690,MT-0161,PK,8,Knees School,Knees Elem,Chouteau County,1018 Charlson Drive,Carter,MT,59420,,(406)734-5217,43,Rural: Remote,†,†,Yes,Yes,8,1,8,†,†
+300514000131,MT-0400-0538,3005140,MT-0400,PK,1,KW-VC Elementary,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)338-2756,33,Town: Remote,†,†,Yes,Yes,334,28,11.9,–,–
+302774000773,MT-0334-1500,3027740,MT-0334,PK,4,L A Muldown School,Whitefish Elem,Flathead County,600 East Second Street,Whitefish,MT,59937,,(406)862-8620,33,Town: Remote,†,†,Yes,No,716,43.2,16.6,178,31
+300000200705,MT-0327-0439,3000002,MT-0327,PK,5,Lakeside Elementary School,Somers Elem,Flathead County,315 School Addition Road,Somers,MT,59932,,(406)844-2208,43,Rural: Remote,†,†,Yes,Yes,373,25,14.9,95,54
+301599001042,MT-0768-1756,3015990,MT-0768,7,8,Lambert 7-8,Lambert Elem,Richland County,Box 260,Lambert,MT,59243,,(406)774-3333,43,Rural: Remote,†,†,Yes,No,17,2.42,7,3,1
+301602000493,MT-0769-1006,3016020,MT-0769,9,12,Lambert High School,Lambert H S,Richland County,Box 260,Lambert,MT,59243,,(406)774-3333,43,Rural: Remote,†,†,Yes,No,32,6.71,4.8,5,0
+301599000492,MT-0768-1005,3015990,MT-0768,PK,6,Lambert School,Lambert Elem,Richland County,Box 260,Lambert,MT,59243,,(406)774-3333,43,Rural: Remote,†,†,Yes,No,67,8.42,8,9,8
+301605001049,MT-0792-1626,3016050,MT-0792,7,8,Lame Deer 7-8,Lame Deer Elem,Rosebud County,Box 96,Lame Deer,MT,59043,,(406)477-8900,43,Rural: Remote,†,†,Yes,Yes,89,8.44,10.5,–,–
+300009500137,MT-1230-1816,3000095,MT-1230,9,12,Lame Deer High School,Lame Deer H S,Rosebud County,Box 96,Lame Deer,MT,59043,,(406)477-8900,43,Rural: Remote,†,†,Yes,Yes,149,8.58,17.4,–,–
+301605000494,MT-0792-1035,3016050,MT-0792,PK,6,Lame Deer School,Lame Deer Elem,Rosebud County,Box 96,Lame Deer,MT,59043,,(406)477-6305,43,Rural: Remote,†,†,Yes,Yes,315,18.33,17.2,–,–
+301611000241,MT-0367-1825,3016110,MT-0367,6,8,LaMotte 6-8,LaMotte Elem,Gallatin County,841 Bear Canyon Road,Bozeman,MT,59715,,(406)586-2838,41,Rural: Fringe,†,†,Yes,No,10,1.45,6.9,–,–
+301611000495,MT-0367-0489,3016110,MT-0367,PK,5,LaMotte School,LaMotte Elem,Gallatin County,841 Bear Canyon Road,Bozeman,MT,59715,,(406)586-2838,41,Rural: Fringe,†,†,Yes,No,53,4.22,12.6,–,–
+301623000501,MT-0971-1284,3016230,MT-0971,9,12,Laurel High School,Laurel H S,Yellowstone County,410 Colorado Avenue,Laurel,MT,59044,,(406)628-7911,31,Town: Fringe,†,†,Yes,No,642,39.08,16.4,122,36
+301620000890,MT-0970-1620,3016200,MT-0970,5,8,Laurel Middle School,Laurel Elem,Yellowstone County,410 Colorado Avenue,Laurel,MT,59044,,(406)628-6919,31,Town: Fringe,†,†,Yes,No,693,36.44,19,207,50
+301629000982,MT-0411-1707,3016290,MT-0411,7,8,Lavina 7-8,Lavina K-12 Schools,Golden Valley County,PO Box 290,Lavina,MT,59046,,(406)636-2761,43,Rural: Remote,†,†,Yes,Yes,9,1.69,5.3,1,3
+301629000503,MT-0411-0556,3016290,MT-0411,9,12,Lavina High School,Lavina K-12 Schools,Golden Valley County,PO Box 290,Lavina,MT,59046,,(406)636-2761,43,Rural: Remote,†,†,Yes,Yes,20,5.3,3.8,10,0
+301629000502,MT-0411-0555,3016290,MT-0411,PK,6,Lavina School,Lavina K-12 Schools,Golden Valley County,PO Box 290,Lavina,MT,59046,,(406)636-2761,43,Rural: Remote,†,†,Yes,No,40,5.27,7.6,6,9
+300387000870,MT-0965-1632,3003870,MT-0965,6,8,Lewis & Clark Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-5900,12,City: Midsize,†,†,Yes,Yes,760,47,16.2,286,42
+301857000572,MT-0583-0774,3018570,MT-0583,PK,5,Lewis & Clark School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4035,13,City: Small,†,†,–,–,483,27.8,17.4,103,6
+301649000509,MT-0258-0356,3016490,MT-0258,5,6,Lewis & Clark School,Lewistown Elem,Fergus County,215 7th Avenue South,Lewistown,MT,59457,,(406)535-2811,33,Town: Remote,†,†,Yes,Yes,182,12.16,15,67,19
+301304000361,MT-0098-0141,3013040,MT-0098,PK,6,Lewis & Clark School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6705,13,City: Small,†,†,Yes,Yes,397,26.35,15.1,177,47
+301649000510,MT-0258-1410,3016490,MT-0258,7,8,Lewistown 7-8,Lewistown Elem,Fergus County,215 7th Avenue South,Lewistown,MT,59457,,(406)535-5419,33,Town: Remote,†,†,Yes,Yes,185,12.65,14.6,61,20
+301653000512,MT-0522-1526,3016530,MT-0522,PK,6,Libby Elementary School,Libby K-12 Schools,Lincoln County,724 Louisiana Ave,Libby,MT,59923,,(406)293-2763,33,Town: Remote,†,†,Yes,Yes,664,41.2,16.1,356,35
+301653000518,MT-0522-0705,3016530,MT-0522,9,12,Libby High School,Libby K-12 Schools,Lincoln County,724 Louisiana Ave,Libby,MT,59923,,(406)293-8802,33,Town: Remote,†,†,Yes,Yes,322,21.56,14.9,143,12
+301653000517,MT-0522-0704,3016530,MT-0522,7,8,Libby Middle School,Libby K-12 Schools,Lincoln County,724 Louisiana Ave,Libby,MT,59923,,(406)293-8802,33,Town: Remote,†,†,Yes,Yes,194,11.14,17.4,95,15
+300009300920,MT-1224-1648,3000093,MT-1224,PK,8,Liberty Elementary School,Liberty Elem,Liberty County,PO Box 78 333 2100 Rd S,Galata,MT,59444,,(406)432-5265,43,Rural: Remote,†,†,Yes,Yes,20,1,20,–,–
+301545000474,MT-0310-0416,3015450,MT-0310,PK,5,Lillian Peterson School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3737,33,Town: Remote,†,†,Yes,Yes,375,22,17,–,–
+301671000929,MT-0009-1667,3016710,MT-0009,7,8,Lima 7-8,Lima K-12 Schools,Beaverhead County,PO Box 186,Lima,MT,59739,,(406)276-3571,43,Rural: Remote,†,†,Yes,Yes,12,1.98,6.1,6,3
+301671000520,MT-0009-0010,3016710,MT-0009,9,12,Lima High School,Lima K-12 Schools,Beaverhead County,PO Box 186,Lima,MT,59739,,(406)276-3571,43,Rural: Remote,†,†,Yes,Yes,20,4.5,4.4,7,3
+301671000519,MT-0009-0011,3016710,MT-0009,PK,6,Lima School,Lima K-12 Schools,Beaverhead County,PO Box 186,Lima,MT,59739,,(406)276-3571,43,Rural: Remote,†,†,Yes,Yes,28,3.08,9.1,8,14
+301681000996,MT-1221-1721,3016810,MT-1221,7,8,Lincoln 7-8,Lincoln K-12 Schools,Lewis and Clark County,PO Box 39,Lincoln,MT,59639,,(406)362-4201,43,Rural: Remote,†,†,Yes,Yes,16,2.13,7.5,–,–
+301677000521,MT-0528-0711,3016770,MT-0528,9,12,Lincoln Co High School,Lincoln County H S,Lincoln County,PO Box 2000,Eureka,MT,59917,,(406)297-5700,43,Rural: Remote,†,†,Yes,Yes,264,15.97,16.5,122,20
+301681000522,MT-1221-0675,3016810,MT-1221,PK,6,Lincoln Elementary School,Lincoln K-12 Schools,Lewis and Clark County,PO Box 39,Lincoln,MT,59639,,(406)362-4201,43,Rural: Remote,†,†,Yes,Yes,86,8.31,10.3,–,–
+301681000892,MT-1221-1610,3016810,MT-1221,9,12,Lincoln High School,Lincoln K-12 Schools,Lewis and Clark County,PO Box 39,Lincoln,MT,59639,,(406)362-4201,43,Rural: Remote,†,†,Yes,Yes,47,5.99,7.8,–,–
+300201000011,MT-0236-0321,3002010,MT-0236,PK,2,Lincoln Primary,Anaconda Elem,Deer Lodge County,1410 West Park Ave.,Anaconda,MT,59711,,(406)563-6361,41,Rural: Fringe,†,†,Yes,Yes,265,20.89,12.7,–,–
+300273000032,MT-0244-0333,3002730,MT-0244,PK,2,Lincoln School,Baker K-12 Schools,Fallon County,Box 659,Baker,MT,59313,,(406)778-2022,43,Rural: Remote,†,†,Yes,No,112,10,11.2,21,7
+301841000559,MT-0172-0236,3018410,MT-0172,3,6,Lincoln School,Miles City Elem,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-1697,33,Town: Remote,†,†,Yes,Yes,245,16.63,14.7,73,37
+301304000362,MT-0098-0142,3013040,MT-0098,PK,6,Lincoln School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6800,13,City: Small,†,†,Yes,Yes,420,22.75,18.5,161,31
+301251000345,MT-0206-0281,3012510,MT-0206,3,5,Lincoln School,Glendive Elem,Dawson County,Box 701,Glendive,MT,59330,,(406)377-2308,33,Town: Remote,†,†,Yes,No,270,17.5,15.4,72,26
+301356000409,MT-0427-0577,3013560,MT-0427,2,3,Lincoln-McKinley School,Havre Elem,Hill County,Box 7791,Havre,MT,59501,,(406)265-9619,33,Town: Remote,†,†,Yes,Yes,263,15.7,16.8,128,15
+302106000631,MT-0477-1495,3021060,MT-0477,2,4,Linderman School,Polson Elem,Lake County,111 4th Avenue East,Polson,MT,59860,,(406)883-6229,33,Town: Remote,†,†,Yes,Yes,355,25.28,14,184,25
+300840000243,MT-0216-0295,3008400,MT-0216,PK,8,Lindsay School,Lindsay Elem,Dawson County,PO Box 185,Lindsay,MT,59339,,(406)584-7486,43,Rural: Remote,†,†,Yes,Yes,7,1,7,†,†
+300065601125,MT-1241-1862,3000656,MT-1241,†,†,Lockwood High School,Lockwood K-12,†,1932 US Highway 87 E.,Lockwood,MT,59101,,(406)252-6022,†,N,†,†,†,†,†,†,†,†,†
+300065600529,MT-1241-1560,3000656,MT-1241,3,5,Lockwood Intermediate,Lockwood K-12,Yellowstone County,1932 US Highway 87 E.,Lockwood,MT,59101,,(406)248-3239,22,Suburb: Midsize,†,†,Yes,Yes,398,24,16.6,170,30
+300065600912,MT-1241-1647,3000656,MT-1241,6,8,Lockwood Middle School,Lockwood K-12,Yellowstone County,1932 US Highway 87 E.,Lockwood,MT,59101,,(406)259-0154,22,Suburb: Midsize,†,†,Yes,Yes,394,24.25,16.2,158,33
+300065600530,MT-1241-1276,3000656,MT-1241,PK,2,Lockwood Primary,Lockwood K-12,Yellowstone County,1932 US Highway 87 E.,Lockwood,MT,59101,,(406)252-2776,22,Suburb: Midsize,†,†,Yes,Yes,378,29,13,153,40
+301701000931,MT-0025-1669,3017010,MT-0025,7,8,Lodge Grass 7-8,Lodge Grass Elem,Big Horn County,PO Box 810,Lodge Grass,MT,59050,559,(406)639-2385,43,Rural: Remote,†,†,Yes,Yes,63,3.37,18.7,–,–
+301704000534,MT-1190-0040,3017040,MT-1190,9,12,Lodge Grass High School,Lodge Grass H S,Big Horn County,PO Box 810,Lodge Grass,MT,59050,559,(406)639-2385,43,Rural: Remote,†,†,Yes,Yes,165,11.17,14.8,–,–
+301701000533,MT-0025-0039,3017010,MT-0025,PK,6,Lodge Grass School,Lodge Grass Elem,Big Horn County,PO Box 810,Lodge Grass,MT,59050,559,(406)639-2333,43,Rural: Remote,†,†,Yes,Yes,174,13.9,12.5,–,–
+301366000097,MT-1213-0072,3013660,MT-1213,PK,6,Lodge Pole School,Hays-Lodge Pole K-12 Schls,Blaine County,PO Box 110,Hays,MT,59527,,(406)673-3120,43,Rural: Remote,†,†,Yes,Yes,91,8.33,10.9,–,–
+301713000536,MT-0588-0792,3017130,MT-0588,PK,4,Lolo Elementary,Lolo Elem,Missoula County,11395 Highway 93 South,Lolo,MT,59847,,(406)273-6686,41,Rural: Fringe,†,†,Yes,Yes,328,25.25,13,112,33
+301713000821,MT-0588-1587,3017130,MT-0588,5,8,Lolo Middle School,Lolo Elem,Missoula County,11395 Highway 93 South,Lolo,MT,59847,,(406)273-6141,41,Rural: Fringe,†,†,Yes,Yes,225,15.25,14.8,73,23
+300065401099,MT-1239-1837,3000654,MT-1239,9,12,Lone Peak High School,Big Sky School K-12,Gallatin County,PO Box 161280,Big Sky,MT,59716,,(406)995-4281,43,Rural: Remote,†,†,Yes,No,97,10.47,9.3,4,1
+301719000251,MT-0741-1827,3017190,MT-0741,6,8,Lone Rock Middle School,Lone Rock Elem,Ravalli County,1112 Three Mile Creek Rd,Stevensville,MT,59870,,(406)777-3314,42,Rural: Distant,†,†,Yes,Yes,68,4.29,15.9,23,7
+301719000538,MT-0741-0975,3017190,MT-0741,PK,5,Lone Rock School,Lone Rock Elem,Ravalli County,1112 Three Mile Creek Rd,Stevensville,MT,59870,,(406)777-3314,42,Rural: Distant,†,†,Yes,Yes,128,12,10.7,47,11
+301304000363,MT-0098-0143,3013040,MT-0098,PK,6,Longfellow School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6845,13,City: Small,†,†,Yes,Yes,302,22.4,13.5,–,–
+300273000033,MT-0244-1466,3002730,MT-0244,3,6,Longfellow School,Baker K-12 Schools,Fallon County,Box 659,Baker,MT,59313,,(406)778-2426,43,Rural: Remote,†,†,Yes,No,139,9.15,15.2,26,7
+300456000109,MT-0350-0470,3004560,MT-0350,PK,5,Longfellow School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6150,33,Town: Remote,†,†,–,–,325,18.57,17.5,18,4
+301758000895,MT-0659-1605,3017580,MT-0659,PK,8,Loring Colony School,Malta K-12 Schools,Phillips County,PO Box 670,Malta,MT,59538,,(406)674-5525,43,Rural: Remote,†,†,Yes,Yes,2,1,2,†,†
+301857000574,MT-0583-0775,3018570,MT-0583,PK,5,Lowell School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4040,13,City: Small,†,†,Yes,Yes,302,21.74,13.9,–,–
+301304000365,MT-0098-1405,3013040,MT-0098,PK,6,Loy School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6885,13,City: Small,†,†,Yes,No,391,24.01,16.3,55,101
+301734000539,MT-0941-1223,3017340,MT-0941,PK,8,Lustre School,Lustre Elem,Valley County,282 Lustre Road,Frazer,MT,59225,9627,(406)392-5725,43,Rural: Remote,†,†,Yes,No,51,3.7,13.8,16,3
+301737000540,MT-1231-0091,3017370,MT-1231,PK,8,Luther School,Luther Elem,Carbon County,4 Luther Roscoe Road,Luther,MT,59068,,(406)446-2480,43,Rural: Remote,†,†,Yes,No,30,3,10,5,2
+301752000354,MT-0370-0492,3017520,MT-0370,PK,8,Malmborg School,Malmborg Elem,Gallatin County,375 Jackson Creek Road,Bozeman,MT,59715,,(406)586-2759,42,Rural: Distant,†,†,Yes,No,7,1,7,†,†
+301758000544,MT-0659-1505,3017580,MT-0659,6,8,Malta 6-7-8,Malta K-12 Schools,Phillips County,PO Box 670,Malta,MT,59538,,(406)654-2225,43,Rural: Remote,†,†,Yes,Yes,111,9.19,12.1,37,9
+301758000546,MT-0659-0875,3017580,MT-0659,9,12,Malta High School,Malta K-12 Schools,Phillips County,PO Box 670,Malta,MT,59538,,(406)654-2002,43,Rural: Remote,†,†,Yes,No,143,13,11,30,8
+301758000545,MT-0659-1504,3017580,MT-0659,PK,5,Malta K-5,Malta K-12 Schools,Phillips County,PO Box 670,Malta,MT,59538,,(406)654-2320,43,Rural: Remote,†,†,Yes,Yes,225,17.19,13.1,78,27
+301761000971,MT-0347-1699,3017610,MT-0347,5,8,Manhattan 5-8,Manhattan School,Gallatin County,PO Box 425,Manhattan,MT,59741,425,(406)284-3250,42,Rural: Distant,†,†,Yes,No,225,14.15,15.9,48,17
+301761000547,MT-0347-0464,3017610,MT-0347,PK,4,Manhattan Elem,Manhattan School,Gallatin County,PO Box 425,Manhattan,MT,59741,425,(406)284-3250,42,Rural: Distant,†,†,Yes,No,263,18.13,14.5,57,18
+301764000548,MT-0348-0465,3017640,MT-0348,9,12,Manhattan H S,Manhattan High School,Gallatin County,PO Box 425,Manhattan,MT,59741,425,(406)284-3341,42,Rural: Distant,†,†,Yes,No,271,18.15,14.9,34,8
+300528000148,MT-0840-1569,3005280,MT-0840,PK,6,Margaret Leary School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2550,41,Rural: Fringe,†,†,Yes,Yes,384,21.51,17.9,149,29
+301770000968,MT-0341-1697,3017700,MT-0341,7,8,Marion 7-8,Marion Elem,Flathead County,205 Gopher Lane,Marion,MT,59925,,(406)854-2333,43,Rural: Remote,†,†,Yes,Yes,24,3.05,7.9,14,6
+301770000549,MT-0341-0455,3017700,MT-0341,PK,6,Marion School,Marion Elem,Flathead County,205 Gopher Lane,Marion,MT,59925,,(406)854-2333,43,Rural: Remote,†,†,Yes,Yes,113,9.35,12.1,68,16
+300603000173,MT-0530-0713,3006030,MT-0530,PK,8,McCormick School,McCormick Elem,Lincoln County,1564 Old Highway 2 North,Troy,MT,59935,,(406)295-4982,43,Rural: Remote,†,†,Yes,Yes,14,2,7,–,–
+300387000072,MT-0965-1262,3003870,MT-0965,PK,5,McKinley School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6212,12,City: Midsize,†,†,Yes,Yes,333,21.21,15.7,–,–
+301806000550,MT-0875-1140,3018060,MT-0875,PK,8,McLeod School,McLeod Elem,Sweet Grass County,346 Otter Cr Rd,Big Timber,MT,59011,,(406)932-6164,43,Rural: Remote,†,†,Yes,No,8,1,8,†,†
+301857000575,MT-0583-1491,3018570,MT-0583,6,8,Meadow Hill Middle School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4045,13,City: Small,†,†,Yes,No,521,30.48,17.1,152,35
+301304000367,MT-0098-0146,3013040,MT-0098,PK,6,Meadow Lark School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7300,13,City: Small,†,†,–,–,510,25.39,20.1,60,6
+300456001108,MT-0350-1847,3004560,MT-0350,PK,5,Meadowlark Elementary,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)582-6860,41,Rural: Fringe,†,†,–,–,530,30.4,17.4,54,5
+300626000181,MT-0028-0046,3006260,MT-0028,PK,6,Meadowlark School,Chinook Elem,Blaine County,Box 1059,Chinook,MT,59523,,(406)357-2033,43,Rural: Remote,†,†,Yes,Yes,192,14.97,12.8,52,31
+300733000207,MT-0674-1546,3007330,MT-0674,PK,3,Meadowlark School,Conrad Elem,Pondera County,215 South Maryland St,Conrad,MT,59425,2017,(406)278-5620,33,Town: Remote,†,†,Yes,Yes,154,9.9,15.6,59,15
+300387000073,MT-0965-1439,3003870,MT-0965,PK,5,Meadowlark School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6213,12,City: Midsize,†,†,–,–,540,35.3,15.3,89,33
+300387001115,MT-0965-1851,3003870,MT-0965,6,8,Medicine Crow Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-8600,12,City: Midsize,†,†,Yes,Yes,623,42.1,14.8,242,43
+301817001055,MT-0822-1662,3018170,MT-0822,7,8,Medicine Lake 7-8,Medicine Lake K-12 Schools,Sheridan County,PO Box 265 311 Young St,Medicine Lake,MT,59247,,(406)789-2211,43,Rural: Remote,†,†,Yes,Yes,12,1.94,6.2,7,0
+301817000552,MT-0822-1065,3018170,MT-0822,9,12,Medicine Lake High School,Medicine Lake K-12 Schools,Sheridan County,PO Box 265 311 Young St,Medicine Lake,MT,59247,,(406)789-2211,43,Rural: Remote,†,†,Yes,Yes,27,5.57,4.8,9,2
+301817000551,MT-0822-1064,3018170,MT-0822,PK,6,Medicine Lake School,Medicine Lake K-12 Schools,Sheridan County,PO Box 265 311 Young St,Medicine Lake,MT,59247,,(406)789-2211,43,Rural: Remote,†,†,Yes,Yes,65,8.8,7.4,18,2
+301821000553,MT-0844-1107,3018210,MT-0844,PK,5,Melrose School,Melrose Elem,Silver Bow County,PO Box 128,Melrose,MT,59743,,(406)835-2811,43,Rural: Remote,†,†,Yes,Yes,3,1,3,†,†
+301824001020,MT-0607-1742,3018240,MT-0607,6,8,Melstone 6-8,Melstone Elem,Musselshell County,Box 97,Melstone,MT,59054,,(406)358-2352,43,Rural: Remote,†,†,Yes,Yes,17,3.25,5.2,7,1
+301827000555,MT-0608-0813,3018270,MT-0608,9,12,Melstone High School,Melstone H S,Musselshell County,Box 97,Melstone,MT,59054,,(406)358-2352,43,Rural: Remote,†,†,Yes,Yes,29,5.25,5.5,7,2
+301824000554,MT-0607-0812,3018240,MT-0607,PK,5,Melstone School,Melstone Elem,Musselshell County,Box 97,Melstone,MT,59054,,(406)358-2352,43,Rural: Remote,†,†,Yes,Yes,23,4.35,5.3,10,0
+301829000556,MT-0868-1133,3018290,MT-0868,PK,8,Melville School,Melville Elem,Sweet Grass County,PO Box 275,Melville,MT,59055,,(406)537-4457,43,Rural: Remote,†,†,Yes,No,25,3,8.3,–,–
+302115000634,MT-0684-0904,3021150,MT-0684,PK,8,Miami School,Miami Elem,Pondera County,400 New Miami Lane,Conrad,MT,59425,,(406)472-3325,43,Rural: Remote,†,†,Yes,Yes,25,2,12.5,–,–
+300010201094,MT-1235-1838,3000102,MT-1235,PK,8,Midway Colony,Dutton/Brady K-12 Schools,Pondera County,101 2nd St NE,Dutton,MT,59433,9670,(406)476-3201,42,Rural: Distant,†,†,Yes,Yes,17,2,8.5,0,14
+300387000074,MT-0965-1263,3003870,MT-0965,PK,5,Miles Avenue School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6214,12,City: Midsize,†,†,Yes,Yes,264,18.68,14.1,110,31
+301866000584,MT-0852-1115,3018660,MT-0852,PK,8,Molt School,Molt Elem,Stillwater County,PO Box 70,Molt,MT,59057,,(406)669-3224,42,Rural: Distant,†,†,–,–,2,1,2,†,†
+301875000974,MT-0363-1701,3018750,MT-0363,6,8,Monforton 6-8,Monforton Elem,Gallatin County,6001 Monforton School Rd,Bozeman,MT,59718,,(406)586-1557,41,Rural: Fringe,†,†,Yes,No,158,7.5,21.1,16,6
+301875000826,MT-0363-1601,3018750,MT-0363,PK,2,Monforton Primary,Monforton Elem,Gallatin County,6001 Monforton School Rd,Bozeman,MT,59718,,(406)586-1557,41,Rural: Fringe,†,†,Yes,No,228,13.95,16.3,24,9
+301875000585,MT-0363-0485,3018750,MT-0363,3,5,Monforton School,Monforton Elem,Gallatin County,6001 Monforton School Rd,Bozeman,MT,59718,,(406)586-1557,41,Rural: Fringe,†,†,Yes,No,189,12.65,14.9,17,5
+301878000990,MT-0460-1715,3018780,MT-0460,6,8,Montana City Middle Schl,Montana City Elem,Jefferson County,11 McClellan Creek Road,Clancy,MT,59634,,(406)442-6779,42,Rural: Distant,†,†,Yes,No,173,10.75,16.1,13,3
+301878000586,MT-0460-0614,3018780,MT-0460,PK,5,Montana City School,Montana City Elem,Jefferson County,11 McClellan Creek Road,Clancy,MT,59634,,(406)442-6779,42,Rural: Distant,†,†,Yes,No,296,20.62,14.4,25,4
+301887000956,MT-0273-1688,3018870,MT-0273,6,8,Moore 6-8,Moore Elem,Fergus County,509 Highland,Moore,MT,59464,,(406)374-2231,43,Rural: Remote,†,†,Yes,No,16,3.25,4.9,5,1
+301890000589,MT-0274-0373,3018900,MT-0274,9,12,Moore High School,Moore H S,Fergus County,509 Highland,Moore,MT,59464,,(406)374-2231,43,Rural: Remote,†,†,Yes,Yes,24,5.12,4.7,9,1
+301887000588,MT-0273-0372,3018870,MT-0273,PK,5,Moore School,Moore Elem,Fergus County,509 Highland,Moore,MT,59464,,(406)374-2231,43,Rural: Remote,†,†,Yes,Yes,34,5.15,6.6,8,4
+301896000590,MT-0976-1290,3018960,MT-0976,PK,6,Morin School,Morin Elem,Yellowstone County,8824 Pryor Road,Billings,MT,59101,,(406)259-6093,42,Rural: Distant,†,†,Yes,Yes,51,5.01,10.2,–,–
+300456000106,MT-0350-0467,3004560,MT-0350,PK,5,Morning Star School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6500,33,Town: Remote,†,†,–,–,493,26,19,16,7
+301304000368,MT-0098-0147,3013040,MT-0098,PK,6,Morningside School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6960,13,City: Small,†,†,Yes,Yes,282,19.5,14.5,130,35
+300000400899,MT-1222-1621,3000004,MT-1222,PK,8,Mountain View Elementary,Mountain View Elem,Glacier County,PO Box 1169,Cut Bank,MT,59427,1169,(406)336-2433,43,Rural: Remote,†,†,Yes,Yes,18,1,18,–,–
+301304000369,MT-0098-1530,3013040,MT-0098,PK,6,Mountain View School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7305,13,City: Small,†,†,Yes,Yes,402,32.4,12.4,–,–
+302208000653,MT-0056-1542,3022080,MT-0056,PK,5,Mountain View School,Red Lodge Elem,Carbon County,PO Box 1090,Red Lodge,MT,59068,,(406)446-1804,43,Rural: Remote,†,†,Yes,No,198,15.96,12.4,56,22
+300010001084,MT-9258-9368,3000100,MT-9258,PK,8,MT Sch For Deaf & Blnd El,Mont Sch for Deaf Blind,Cascade County,3911 Central Avenue,Great Falls,MT,59405,,(406)771-6017,13,City: Small,†,†,–,–,16,7.53,2.1,–,–
+300010000114,MT-9258-9371,3000100,MT-9258,9,12,MT Sch For Deaf & Blnd HS,Mont Sch for Deaf Blind,Cascade County,3911 Central Avenue,Great Falls,MT,59405,,(406)771-6017,13,City: Small,†,†,–,–,18,8.47,2.1,–,–
+300514000132,MT-0400-0539,3005140,MT-0400,4,6,Napi School,Browning Elem,Glacier County,PO Box 610,Browning,MT,59417,,(406)338-2735,33,Town: Remote,†,†,Yes,Yes,440,28,15.7,–,–
+301917001075,MT-0937-1786,3019170,MT-0937,6,8,Nashua 6-8,Nashua K-12 Schools,Valley County,PO Box 170,Nashua,MT,59248,,(406)746-3411,43,Rural: Remote,†,†,Yes,No,17,2.08,8.2,5,1
+301917000594,MT-0937-1219,3019170,MT-0937,9,12,Nashua High School,Nashua K-12 Schools,Valley County,PO Box 170,Nashua,MT,59248,,(406)746-3411,43,Rural: Remote,†,†,Yes,No,30,4.24,7.1,11,0
+301917000593,MT-0937-1218,3019170,MT-0937,PK,5,Nashua School,Nashua K-12 Schools,Valley County,PO Box 170,Nashua,MT,59248,,(406)746-3411,43,Rural: Remote,†,†,Yes,Yes,53,7.79,6.8,20,6
+300387000075,MT-0965-1275,3003870,MT-0965,PK,5,Newman School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6215,12,City: Midsize,†,†,Yes,Yes,216,16.62,13,–,–
+301931000597,MT-1216-1565,3019310,MT-1216,PK,8,North Harlem Elementary,North Harlem Colony Elem,Blaine County,755 Hillcrest Road,Harlem,MT,59526,,(406)353-2800,43,Rural: Remote,†,†,–,–,13,2,6.5,–,–
+301304000883,MT-0098-1634,3013040,MT-0098,7,8,North Middle School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-6525,13,City: Small,†,†,Yes,No,791,49.75,15.9,266,61
+300009600441,MT-1233-0588,3000096,MT-1233,7,8,North Star 7-8,North Star Elem,Hill County,Box 129,Rudyard,MT,59540,,(406)355-4481,43,Rural: Remote,†,†,Yes,No,28,3.21,8.7,9,2
+300009700679,MT-1234-0591,3000097,MT-1234,9,12,North Star High School,North Star HS,Hill County,Box 129,Rudyard,MT,59540,,(406)355-4481,43,Rural: Remote,†,†,Yes,Yes,50,5.93,8.4,14,10
+300009600485,MT-1233-1536,3000096,MT-1233,PK,6,North Star School,North Star Elem,Hill County,Box 129,Rudyard,MT,59540,,(406)355-4481,43,Rural: Remote,†,†,Yes,Yes,101,8.75,11.5,38,12
+302859000796,MT-0780-1022,3028590,MT-0780,4,6,Northside School,Wolf Point Elem,Roosevelt County,213 6th Avenue South,Wolf Point,MT,59201,,(406)653-1653,33,Town: Remote,†,†,Yes,Yes,181,14.5,12.5,–,–
+300009001053,MT-0811-1765,3000090,MT-0811,7,8,Noxon 7-8,Noxon Elem,Sanders County,300 Noxon Ave,Noxon,MT,59853,,(406)847-2442,43,Rural: Remote,†,†,Yes,Yes,21,2.83,7.4,7,3
+301950000600,MT-0812-1055,3019500,MT-0812,9,12,Noxon High School,Noxon H S,Sanders County,300 Noxon Ave,Noxon,MT,59853,,(406)847-2442,43,Rural: Remote,†,†,Yes,Yes,71,6.73,10.5,31,9
+300009000599,MT-0811-1054,3000090,MT-0811,PK,6,Noxon School,Noxon Elem,Sanders County,300 Noxon Ave,Noxon,MT,59853,,(406)847-2442,43,Rural: Remote,†,†,Yes,Yes,100,7.97,12.5,–,–
+301953000601,MT-0857-1121,3019530,MT-0857,PK,6,Nye School,Nye Elem,Stillwater County,Box 472,Nye,MT,59061,,(406)328-6138,43,Rural: Remote,†,†,–,–,3,1,3,†,†
+300867000248,MT-0712-0939,3008670,MT-0712,PK,6,O D Speer School,Deer Lodge Elem,Powell County,444 Montana Avenue,Deer Lodge,MT,59722,,(406)846-2268,33,Town: Remote,†,†,Yes,Yes,320,25.2,12.7,162,42
+301974001074,MT-0935-1785,3019740,MT-0935,7,8,Opheim 7-8,Opheim K-12 Schools,Valley County,Box 108,Opheim,MT,59250,,(406)762-3214,43,Rural: Remote,†,†,Yes,No,3,1.28,2.3,†,†
+301974000603,MT-0935-1215,3019740,MT-0935,9,12,Opheim High School,Opheim K-12 Schools,Valley County,Box 108,Opheim,MT,59250,,(406)762-3214,43,Rural: Remote,†,†,Yes,No,12,2.65,4.5,2,2
+301974000602,MT-0935-1214,3019740,MT-0935,PK,6,Opheim School,Opheim K-12 Schools,Valley County,Box 108,Opheim,MT,59250,,(406)762-3214,43,Rural: Remote,†,†,Yes,No,13,3.98,3.3,3,1
+300065400135,MT-1239-1817,3000654,MT-1239,6,8,Ophir 7-8,Big Sky School K-12,Gallatin County,PO Box 161280,Big Sky,MT,59716,,(406)995-4281,43,Rural: Remote,†,†,Yes,No,102,4.99,20.4,2,1
+300065400604,MT-1239-0497,3000654,MT-1239,PK,5,Ophir Elementary School,Big Sky School K-12,Gallatin County,PO Box 161280,Big Sky,MT,59716,,(406)995-4281,43,Rural: Remote,†,†,Yes,No,171,13.73,12.5,4,8
+300387000077,MT-0965-1265,3003870,MT-0965,PK,5,Orchard School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6216,12,City: Midsize,†,†,Yes,Yes,321,22.93,14,–,–
+301995000607,MT-0715-0942,3019950,MT-0715,PK,8,Ovando School,Ovando Elem,Powell County,PO Box 9,Ovando,MT,59854,,(406)793-5722,43,Rural: Remote,†,†,Yes,No,9,2.1,4.3,–,–
+302279000667,MT-1199-0638,3022790,MT-1199,PK,4,Pablo Elementary,Ronan Elem,Lake County,421 Andrew Street NW,Ronan,MT,59864,2302,(406)676-3390,42,Rural: Distant,†,†,Yes,Yes,217,18,12.1,–,–
+302004001059,MT-0846-1771,3020040,MT-0846,7,8,Park City 7-8,Park City Elem,Stillwater County,PO Box 278,Park City,MT,59063,,(406)633-2350,42,Rural: Distant,†,†,Yes,No,53,4.93,10.8,7,3
+302007000610,MT-0847-1110,3020070,MT-0847,9,12,Park City High School,Park City H S,Stillwater County,PO Box 278,Park City,MT,59063,,(406)633-2350,42,Rural: Distant,†,†,Yes,No,98,8.49,11.5,16,2
+302004000609,MT-0846-1109,3020040,MT-0846,PK,6,Park City School,Park City Elem,Stillwater County,PO Box 278,Park City,MT,59063,,(406)633-2350,42,Rural: Distant,†,†,Yes,No,164,12.38,13.2,33,11
+302010000611,MT-0613-0823,3020100,MT-0613,9,12,Park High School,Park H S,Park County,132 South B Street,Livingston,MT,59047,,(406)222-0448,33,Town: Remote,†,†,Yes,Yes,439,32.34,13.6,105,48
+300891000257,MT-0005-1525,3008910,MT-0005,PK,5,Parkview School,Dillon Elem,Beaverhead County,22 North Cottom,Dillon,MT,59725,,(406)683-2373,33,Town: Remote,†,†,Yes,Yes,476,28.38,16.8,269,50
+302017000612,MT-0362-0484,3020170,MT-0362,PK,8,Pass Creek School,Pass Creek Elem,Gallatin County,3747 Pass Creek Road,Belgrade,MT,59714,,(406)388-6353,43,Rural: Remote,†,†,–,–,13,2,6.5,–,–
+301857000576,MT-0583-0776,3018570,MT-0583,PK,5,Paxson School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4055,13,City: Small,†,†,Yes,No,482,25.8,18.7,116,19
+302024000615,MT-0898-1163,3020240,MT-0898,PK,8,Pendroy School,Pendroy Elem,Teton County,PO Box 65,Pendroy,MT,59467,,(406)469-2387,43,Rural: Remote,†,†,Yes,Yes,14,1,14,–,–
+301284000983,MT-0416-1708,3012840,MT-0416,7,8,Philipsburg 7-8,Philipsburg K-12 Schools,Granite County,PO Box 400,Philipsburg,MT,59858,,(406)859-3232,43,Rural: Remote,†,†,Yes,Yes,22,2.85,7.7,10,5
+301284000616,MT-0416-0560,3012840,MT-0416,PK,6,Philipsburg School,Philipsburg K-12 Schools,Granite County,PO Box 400,Philipsburg,MT,59858,,(406)859-3233,43,Rural: Remote,†,†,Yes,Yes,90,7.75,11.6,39,16
+300705000873,MT-0796-1603,3007050,MT-0796,PK,5,Pine Butte Elementary Sch,Colstrip Elem,Rosebud County,PO Box 159,Colstrip,MT,59323,,(406)748-4699,43,Rural: Remote,†,†,Yes,No,246,20,12.3,72,25
+302067000166,MT-0620-1823,3020670,MT-0620,6,8,Pine Creek 6-8,Pine Creek Elem,Park County,2575 East River Rd,Livingston,MT,59047,,(406)222-0059,42,Rural: Distant,†,†,Yes,No,12,1.87,6.4,–,–
+302067000619,MT-0620-0831,3020670,MT-0620,PK,5,Pine Creek School,Pine Creek Elem,Park County,2575 East River Rd,Livingston,MT,59047,,(406)222-0059,42,Rural: Distant,†,†,Yes,No,25,1.69,14.8,–,–
+302069000620,MT-0385-0516,3020690,MT-0385,PK,8,Pine Grove School,Pine Grove Elem,Garfield County,3646 Brusett Road,Brusett,MT,59318,,(406)557-2782,43,Rural: Remote,†,†,–,–,8,1,8,†,†
+300009100138,MT-9034-9935,3000091,MT-9034,6,8,Pine Hills Youth Corr Facil El,Dept of Corrections-Youth,Custer County,PO Box 201301,Helena,MT,59620,1301,(406)232-1377,41,Rural: Fringe,†,†,–,–,1,1.53,0.7,†,†
+300009100861,MT-9034-9415,3000091,MT-9034,9,12,Pine Hills Youth Corr Facil HS,Dept of Corrections-Youth,Custer County,PO Box 201301,Helena,MT,59620,1301,(406)232-1377,41,Rural: Fringe,†,†,–,–,39,7.28,5.4,36,0
+302079000621,MT-0987-1302,3020790,MT-0987,PK,8,Pioneer School,Pioneer Elem,Yellowstone County,1937 Dover Road,Billings,MT,59105,,(406)373-5357,41,Rural: Fringe,†,†,Yes,Yes,56,5.88,9.5,4,0
+302085000896,MT-0803-1627,3020850,MT-0803,7,8,Plains 7-8,Plains K-12,Sanders County,Box 549,Plains,MT,59859,,(406)826-8600,43,Rural: Remote,†,†,Yes,Yes,79,4.66,17,34,10
+302085000622,MT-0803-1045,3020850,MT-0803,PK,6,Plains Elementary School,Plains K-12,Sanders County,Box 549,Plains,MT,59859,,(406)826-3642,43,Rural: Remote,†,†,Yes,Yes,248,16.5,15,121,26
+302085000623,MT-0803-1046,3020850,MT-0803,9,12,Plains High School,Plains K-12,Sanders County,Box 549,Plains,MT,59859,,(406)826-8600,43,Rural: Remote,†,†,Yes,Yes,132,9,14.7,53,19
+302088000624,MT-0325-0437,3020880,MT-0325,PK,8,Pleasant Valley School,Pleasant Valley Elem,Flathead County,7975 Pleasant Valley Road,Marion,MT,59925,,(406)858-2343,43,Rural: Remote,†,†,–,–,1,1,1,†,†
+300342000925,MT-0112-1664,3003420,MT-0112,PK,8,Pleasant Valley School,Belt Elem,Cascade County,PO Box 197,Belt,MT,59412,,(406)277-3351,42,Rural: Distant,†,†,Yes,Yes,27,2,13.5,–,–
+301336000398,MT-1214-1553,3013360,MT-1214,9,12,Plenty Coups High School,Plenty Coups H S,Big Horn County,Box 229,Pryor,MT,59066,,(406)259-7329,42,Rural: Distant,†,†,Yes,Yes,60,6.5,9.2,–,–
+302096001056,MT-0828-1768,3020960,MT-0828,7,8,Plentywood 7-8,Plentywood K-12 Schools,Sheridan County,100 East Laurel Ave,Plentywood,MT,59254,,(406)765-1803,43,Rural: Remote,†,†,Yes,No,56,4.38,12.8,10,5
+302096000626,MT-0828-1071,3020960,MT-0828,9,12,Plentywood High School,Plentywood K-12 Schools,Sheridan County,100 East Laurel Ave,Plentywood,MT,59254,,(406)765-1803,43,Rural: Remote,†,†,Yes,No,96,8.65,11.1,21,6
+302096000625,MT-0828-1070,3020960,MT-0828,PK,6,Plentywood School,Plentywood K-12 Schools,Sheridan County,100 East Laurel Ave,Plentywood,MT,59254,,(406)765-1803,43,Rural: Remote,†,†,Yes,No,194,16.58,11.7,40,20
+302100000954,MT-0256-1687,3021000,MT-0256,7,8,Plevna 7-8,Plevna K-12 Schools,Fallon County,PO Box 158,Plevna,MT,59344,,(406)772-5666,43,Rural: Remote,†,†,Yes,No,12,2.5,4.8,3,0
+302100000628,MT-0256-0352,3021000,MT-0256,9,12,Plevna High School,Plevna K-12 Schools,Fallon County,PO Box 158,Plevna,MT,59344,,(406)772-5666,43,Rural: Remote,†,†,Yes,Yes,19,4.74,4,4,4
+302100000627,MT-0256-0351,3021000,MT-0256,PK,6,Plevna School,Plevna K-12 Schools,Fallon County,PO Box 158,Plevna,MT,59344,,(406)772-5666,43,Rural: Remote,†,†,Yes,No,68,8.85,7.7,18,2
+302103000629,MT-0012-0015,3021030,MT-0012,PK,8,Polaris School,Polaris Elem,Beaverhead County,19200 Hwy 278,Dillon,MT,59725,,(406)834-3403,43,Rural: Remote,†,†,–,–,6,1,6,†,†
+302109000633,MT-0478-0633,3021090,MT-0478,9,12,Polson High School,Polson H S,Lake County,111 4th Avenue East,Polson,MT,59860,,(406)883-6351,33,Town: Remote,†,†,Yes,Yes,484,32,15.1,139,38
+302106000632,MT-0477-1498,3021060,MT-0477,5,8,Polson Middle School,Polson Elem,Lake County,111 4th Avenue East,Polson,MT,59860,,(406)883-6335,33,Town: Remote,†,†,Yes,Yes,590,35.46,16.6,270,43
+300387000078,MT-0965-1266,3003870,MT-0965,PK,5,Poly Drive School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6217,12,City: Midsize,†,†,–,–,346,18.73,18.5,63,9
+300010201116,MT-1235-1852,3000102,MT-1235,PK,8,Pondera Colony School,Dutton/Brady K-12 Schools,Pondera County,101 2nd St NE,Dutton,MT,59433,9670,(406)279-3464,43,Rural: Remote,†,†,–,–,19,2,9.5,0,16
+300387000079,MT-0965-1480,3003870,MT-0965,PK,5,Ponderosa School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6218,12,City: Midsize,†,†,Yes,Yes,302,19,15.9,–,–
+302124001044,MT-0775-1014,3021240,MT-0775,5,6,Poplar 5-6 School,Poplar Elem,Roosevelt County,Box 458,Poplar,MT,59255,,(406)768-6730,33,Town: Remote,†,†,Yes,Yes,173,15,11.5,–,–
+302124000636,MT-0775-1550,3021240,MT-0775,7,8,Poplar 7-8,Poplar Elem,Roosevelt County,Box 458,Poplar,MT,59255,,(406)768-6730,33,Town: Remote,†,†,Yes,Yes,142,11.1,12.8,–,–
+302127000638,MT-0776-1016,3021270,MT-0776,9,12,Poplar High School,Poplar H S,Roosevelt County,Box 458,Poplar,MT,59255,,(406)768-6830,33,Town: Remote,†,†,Yes,Yes,227,20.9,10.9,–,–
+302124000637,MT-0775-1015,3021240,MT-0775,PK,4,Poplar School,Poplar Elem,Roosevelt County,Box 458,Poplar,MT,59255,,(406)768-6630,33,Town: Remote,†,†,Yes,Yes,394,32,12.3,–,–
+301857000565,MT-0583-1486,3018570,MT-0583,6,8,Porter Middle School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4060,13,City: Small,†,†,Yes,Yes,553,33.33,16.6,–,–
+302133001011,MT-0589-1733,3021330,MT-0589,7,8,Potomac 7-8,Potomac Elem,Missoula County,29750 Potomac Road,Bonner,MT,59823,,(406)244-5581,42,Rural: Distant,†,†,Yes,Yes,21,2.4,8.8,10,3
+302133000639,MT-0589-0793,3021330,MT-0589,PK,6,Potomac School,Potomac Elem,Missoula County,29750 Potomac Road,Bonner,MT,59823,,(406)244-5581,42,Rural: Distant,†,†,Yes,No,68,6,11.3,17,8
+300486000119,MT-0706-0931,3004860,MT-0706,9,12,Powder River Co Dist High,Powder River Co Dist H S,Powder River County,Box 500,Broadus,MT,59317,,(406)436-2658,43,Rural: Remote,†,†,Yes,Yes,64,8.94,7.2,23,12
+302145000641,MT-0713-0953,3021450,MT-0713,9,12,Powell County High School,Powell County H S,Powell County,709 Missouri Avenue,Deer Lodge,MT,59722,,(406)846-2757,33,Town: Remote,†,†,Yes,No,190,14.72,12.9,43,14
+302151001068,MT-0894-1780,3021510,MT-0894,7,8,Power 7-8,Power Elem,Teton County,PO Box 155,Power,MT,59468,,(406)463-2251,42,Rural: Distant,†,†,Yes,Yes,15,1.94,7.7,6,2
+302154000644,MT-0895-1159,3021540,MT-0895,9,12,Power High School,Power H S,Teton County,PO Box 155,Power,MT,59468,,(406)463-2251,42,Rural: Distant,†,†,Yes,Yes,37,5.5,6.7,11,6
+302151000643,MT-0894-1158,3021510,MT-0894,PK,6,Power School,Power Elem,Teton County,PO Box 155,Power,MT,59468,,(406)463-2251,42,Rural: Distant,†,†,Yes,No,56,7.51,7.5,9,13
+300065501122,MT-1240-1857,3000655,MT-1240,1,2,Prickly Pear Elem,East Helena K-12,Lewis and Clark County,PO Box 1280,East Helena,MT,59635,,(406)227-7700,33,Town: Remote,†,†,Yes,Yes,275,17.8,15.4,123,27
+302172000930,MT-0021-1668,3021720,MT-0021,7,8,Pryor 7-8,Pryor Elem,Big Horn County,Box 229,Pryor,MT,59066,,(406)259-7329,42,Rural: Distant,†,†,Yes,Yes,21,2.3,9.1,–,–
+300741000212,MT-0731-1557,3007410,MT-0731,PK,4,Quentin Brown Primary K-4,Corvallis K-12 Schools,Ravalli County,PO Box 700,Corvallis,MT,59828,,(406)961-3261,42,Rural: Distant,†,†,Yes,Yes,475,32.58,14.6,165,30
+300065500268,MT-1240-1465,3000655,MT-1240,3,5,Radley Elementary School,East Helena K-12,Lewis and Clark County,PO Box 1280,East Helena,MT,59635,,(406)227-7710,33,Town: Remote,†,†,Yes,Yes,405,25.5,15.9,176,35
+302185001058,MT-0842-1770,3021850,MT-0842,7,8,Ramsay 7-8,Ramsay Elem,Silver Bow County,PO Box 105,Ramsay,MT,59748,,(406)782-5470,42,Rural: Distant,†,†,Yes,Yes,26,2.85,9.1,4,3
+302185000648,MT-0842-1105,3021850,MT-0842,PK,6,Ramsay School,Ramsay Elem,Silver Bow County,PO Box 105,Ramsay,MT,59748,,(406)782-5470,42,Rural: Distant,†,†,Yes,Yes,127,8.15,15.6,31,17
+302187001062,MT-0858-1774,3021870,MT-0858,7,8,Rapelje 7-8,Rapelje Elem,Stillwater County,PO Box 89,Rapelje,MT,59067,,(406)663-2215,43,Rural: Remote,†,†,Yes,No,14,1.57,8.9,2,1
+302190000650,MT-0859-1123,3021900,MT-0859,9,12,Rapelje High School,Rapelje H S,Stillwater County,PO Box 89,Rapelje,MT,59067,,(406)663-2215,43,Rural: Remote,†,†,Yes,Yes,19,4.77,4,5,3
+302187000649,MT-0858-1122,3021870,MT-0858,PK,6,Rapelje School,Rapelje Elem,Stillwater County,PO Box 89,Rapelje,MT,59067,,(406)663-2215,43,Rural: Remote,†,†,Yes,No,27,5.17,5.2,4,0
+301857000578,MT-0583-0785,3018570,MT-0583,PK,5,Rattlesnake Elementary School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4050,13,City: Small,†,†,–,–,475,31.15,15.2,57,14
+302196000651,MT-0754-0990,3021960,MT-0754,PK,6,Rau School,Rau Elem,Richland County,12138 County Rd #350,Sidney,MT,59270,,(406)482-1088,41,Rural: Fringe,†,†,Yes,No,50,6,8.3,11,2
+302211000655,MT-0057-0084,3022110,MT-0057,9,12,Red Lodge High School,Red Lodge H S,Carbon County,PO Box 1090,Red Lodge,MT,59068,,(406)446-1903,43,Rural: Remote,†,†,Yes,No,182,14.5,12.6,36,9
+300679001005,MT-0547-1800,3006790,MT-0547,7,8,Redwater 7-8,Circle Elem,McCone County,Box 99,Circle,MT,59215,,(406)485-2140,43,Rural: Remote,†,†,Yes,No,33,3,11,5,5
+300679000186,MT-0547-0732,3006790,MT-0547,4,6,Redwater School,Circle Elem,McCone County,Box 99,Circle,MT,59215,,(406)485-2140,43,Rural: Remote,†,†,Yes,No,50,3.29,15.2,16,4
+302223001061,MT-0850-1773,3022230,MT-0850,7,8,Reed Point 7-8,Reed Point Elem,Stillwater County,PO Box 338,Reed Point,MT,59069,,(406)326-2245,43,Rural: Remote,†,†,Yes,No,8,1.85,4.3,†,†
+302223000656,MT-0850-1113,3022230,MT-0850,PK,6,Reed Point Elementary,Reed Point Elem,Stillwater County,PO Box 338,Reed Point,MT,59069,,(406)326-2228,43,Rural: Remote,†,†,Yes,No,38,4.89,7.8,10,3
+302226000657,MT-0851-1114,3022260,MT-0851,9,12,Reed Point High School,Reed Point H S,Stillwater County,PO Box 338,Reed Point,MT,59069,,(406)326-2245,43,Rural: Remote,†,†,Yes,No,18,4.58,3.9,5,1
+302229000658,MT-0015-0018,3022290,MT-0015,PK,8,Reichle School,Reichle Elem,Beaverhead County,PO Box 320097,Glen,MT,59732,,(406)835-2281,43,Rural: Remote,†,†,–,–,24,2,12,–,–
+302237000953,MT-0227-1686,3022370,MT-0227,7,8,Richey 7-8,Richey Elem,Dawson County,Box 60,Richey,MT,59259,,(406)773-5680,43,Rural: Remote,†,†,Yes,Yes,10,2.66,3.8,3,1
+302241000660,MT-0228-0311,3022410,MT-0228,9,12,Richey High School,Richey H S,Dawson County,Box 60,Richey,MT,59259,,(406)773-5523,43,Rural: Remote,†,†,Yes,No,28,4.63,6,5,3
+302237000659,MT-0227-0310,3022370,MT-0227,PK,6,Richey School,Richey Elem,Dawson County,Box 60,Richey,MT,59259,,(406)773-5523,43,Rural: Remote,†,†,Yes,No,37,3.06,12.1,6,0
+300329000342,MT-0368-1833,3003290,MT-0368,PK,4,Ridge View Elementary,Belgrade Elem,Gallatin County,PO Box 166,Belgrade,MT,59714,,(406)388-4534,33,Town: Remote,†,†,Yes,No,467,27,17.3,114,58
+300009300089,MT-1224-1815,3000093,MT-1224,PK,8,Rimrock Colony School,Liberty Elem,Toole County,PO Box 78 333 2100 Rd S,Galata,MT,59444,,(406)937-2816,43,Rural: Remote,†,†,Yes,Yes,20,1,20,–,–
+300387000903,MT-0965-1645,3003870,MT-0965,6,8,Riverside Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6000,12,City: Midsize,†,†,Yes,Yes,559,42.2,13.2,326,44
+300009300325,MT-1224-1829,3000093,MT-1224,PK,8,Riverview Elementary,Liberty Elem,Liberty County,PO Box 78 333 2100 Rd S,Galata,MT,59444,,(406)759-5477,43,Rural: Remote,†,†,Yes,Yes,10,1,10,–,–
+301304000370,MT-0098-0148,3013040,MT-0098,PK,6,Riverview School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7015,13,City: Small,†,†,Yes,No,426,23.3,18.3,129,37
+302640000744,MT-0177-0246,3026400,MT-0177,PK,8,Riverview School,Trail Creek Elem,Custer County,735 Road 664,Miles City,MT,59301,,(406)421-5503,43,Rural: Remote,†,†,–,–,5,1,5,†,†
+302271000937,MT-0069-1673,3022710,MT-0069,7,8,Roberts 7-8,Roberts K-12 Schools,Carbon County,PO Box 78,Roberts,MT,59070,,(406)445-2421,43,Rural: Remote,†,†,Yes,No,17,2.47,6.9,6,1
+302271000665,MT-0069-0096,3022710,MT-0069,9,12,Roberts High School,Roberts K-12 Schools,Carbon County,PO Box 78,Roberts,MT,59070,,(406)445-2421,43,Rural: Remote,†,†,Yes,Yes,36,4.84,7.4,12,5
+302271000664,MT-0069-0095,3022710,MT-0069,PK,6,Roberts School,Roberts K-12 Schools,Carbon County,PO Box 78,Roberts,MT,59070,,(406)445-2421,43,Rural: Remote,†,†,Yes,Yes,58,7.07,8.2,22,6
+302275000986,MT-1207-1711,3022750,MT-1207,7,8,Rocky Boy 7-8,Rocky Boy Elem,Hill County,RR 1 Box 620,Box Elder,MT,59521,,(406)395-4270,43,Rural: Remote,†,†,Yes,Yes,97,7.49,13,–,–
+302891101086,MT-1229-1807,3028911,MT-1229,9,12,Rocky Boy High School,Rocky Boy H S,Hill County,RR 1 Box 620,Box Elder,MT,59521,,(406)395-4270,43,Rural: Remote,†,†,Yes,Yes,118,11.46,10.3,–,–
+302275000666,MT-1207-0579,3022750,MT-1207,PK,8,Rocky Boy School,Rocky Boy Elem,Hill County,RR 1 Box 620,Box Elder,MT,59521,,(406)395-4474,43,Rural: Remote,†,†,Yes,Yes,359,23.48,15.3,–,–
+302280000670,MT-1200-0640,3022800,MT-1200,9,12,Ronan High School,Ronan H S,Lake County,421 Andrew Street NW,Ronan,MT,59864,2302,(406)676-3390,43,Rural: Remote,†,†,Yes,Yes,343,20.22,17,–,–
+302279000668,MT-1199-1519,3022790,MT-1199,5,8,Ronan Middle School,Ronan Elem,Lake County,421 Andrew Street NW,Ronan,MT,59864,2302,(406)676-3390,43,Rural: Remote,†,†,Yes,Yes,506,29.5,17.2,–,–
+302208000913,MT-0056-1637,3022080,MT-0056,6,8,Roosevelt Junior High,Red Lodge Elem,Carbon County,PO Box 1090,Red Lodge,MT,59068,,(406)446-2110,43,Rural: Remote,†,†,Yes,No,112,8.69,12.9,28,11
+300387000082,MT-0965-1268,3003870,MT-0965,PK,5,Rose Park School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6219,12,City: Midsize,†,†,Yes,Yes,259,18.61,13.9,120,17
+302292001050,MT-0795-1762,3022920,MT-0795,7,8,Rosebud 7-8,Rosebud K-12,Rosebud County,Box 38,Rosebud,MT,59347,,(406)347-5353,43,Rural: Remote,†,†,Yes,Yes,1,0.96,1,†,†
+302292000672,MT-0795-1038,3022920,MT-0795,9,12,Rosebud High School,Rosebud K-12,Rosebud County,Box 38,Rosebud,MT,59347,,(406)347-5353,43,Rural: Remote,†,†,Yes,Yes,15,3.07,4.9,9,3
+302292000671,MT-0795-1470,3022920,MT-0795,PK,6,Rosebud School,Rosebud K-12,Rosebud County,Box 38,Rosebud,MT,59347,,(406)347-5353,43,Rural: Remote,†,†,Yes,Yes,21,3.63,5.8,8,6
+301199000328,MT-0394-0531,3011990,MT-0394,PK,8,Ross School,Ross Elem,Garfield County,1491 Old Stage Rd,Mosby,MT,59058,,(406)429-6501,43,Rural: Remote,†,†,–,–,2,1,2,†,†
+300000500424,MT-0487-1478,3000005,MT-0487,PK,5,Rossiter School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1500,41,Rural: Fringe,†,†,Yes,Yes,486,27,18,157,45
+302304000914,MT-0605-1644,3023040,MT-0605,7,8,Roundup 7-8,Roundup Elem,Musselshell County,700 3rd Street W,Roundup,MT,59072,,(406)323-2402,43,Rural: Remote,†,†,Yes,Yes,94,6.33,14.8,46,10
+302304000673,MT-0605-0809,3023040,MT-0605,PK,6,Roundup Elementary,Roundup Elem,Musselshell County,700 3rd Street W,Roundup,MT,59072,,(406)323-1512,43,Rural: Remote,†,†,Yes,Yes,296,18.41,16.1,139,32
+302307000675,MT-0606-0811,3023070,MT-0606,9,12,Roundup H S,Roundup High School,Musselshell County,700 3rd Street W,Roundup,MT,59072,,(406)323-2402,43,Rural: Remote,†,†,Yes,Yes,166,12.76,13,64,23
+302316000957,MT-0280-1689,3023160,MT-0280,6,8,Roy 6-8,Roy K-12 Schools,Fergus County,Box 9,Roy,MT,59471,,(406)464-2511,43,Rural: Remote,†,†,Yes,No,5,1.63,3.1,†,†
+302316000677,MT-0280-0379,3023160,MT-0280,9,12,Roy High School,Roy K-12 Schools,Fergus County,Box 9,Roy,MT,59471,,(406)464-2511,43,Rural: Remote,†,†,Yes,No,15,4.27,3.5,4,0
+302316000676,MT-0280-0378,3023160,MT-0280,PK,5,Roy School,Roy K-12 Schools,Fergus County,Box 9,Roy,MT,59471,,(406)464-2511,43,Rural: Remote,†,†,Yes,Yes,16,2.38,6.7,10,1
+300711000198,MT-0312-1571,3007110,MT-0312,PK,5,Ruder Elementary,Columbia Falls Elem,Flathead County,PO Box 1259,Columbia Falls,MT,59912,,(406)892-6570,33,Town: Remote,†,†,Yes,Yes,463,29,16,173,50
+301857000580,MT-0583-0778,3018570,MT-0583,PK,5,Russell School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4080,13,City: Small,†,†,Yes,Yes,360,26.25,13.7,–,–
+301545000475,MT-0310-0413,3015450,MT-0310,PK,5,Russell School,Kalispell Elem,Flathead County,233 First Ave East,Kalispell,MT,59901,,(406)751-3900,33,Town: Remote,†,†,Yes,Yes,243,16,15.2,–,–
+302334000981,MT-0407-1706,3023340,MT-0407,7,8,Ryegate 7-8,Ryegate K-12 Schools,Golden Valley County,PO Box 129,Ryegate,MT,59074,,(406)568-2215,43,Rural: Remote,†,†,Yes,Yes,4,1.38,2.9,†,†
+302334000681,MT-0407-0551,3023340,MT-0407,9,12,Ryegate High School,Ryegate K-12 Schools,Golden Valley County,PO Box 129,Ryegate,MT,59074,,(406)568-2211,43,Rural: Remote,†,†,Yes,Yes,9,3.42,2.6,–,–
+302334000680,MT-0407-0550,3023340,MT-0407,PK,8,Ryegate School,Ryegate K-12 Schools,Golden Valley County,PO Box 129,Ryegate,MT,59074,,(406)568-2211,43,Rural: Remote,†,†,Yes,Yes,38,5.21,7.3,–,–
+300804000230,MT-1238-0264,3008040,MT-1238,PK,8,S H School,S H Elem,Custer County,6281 Moon Creek Rd,Miles City,MT,59301,,(406)421-5560,43,Rural: Remote,†,†,–,–,2,1,2,†,†
+300801000229,MT-0189-0262,3008010,MT-0189,PK,8,S Y School,S Y Elem,Custer County,735 Road 664,Miles City,MT,59301,,(406)421-5526,43,Rural: Remote,†,†,–,–,9,1.75,5.1,–,–
+300456000165,MT-0350-1822,3004560,MT-0350,6,8,Sacajawea Middle School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6470,41,Rural: Fringe,†,†,–,–,785,47.4,16.6,98,18
+301304000373,MT-0098-1419,3013040,MT-0098,PK,6,Sacajawea School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7080,13,City: Small,†,†,–,–,429,23.28,18.4,124,40
+302337001030,MT-1203-1746,3023370,MT-1203,7,8,Saco 7-8,Saco Elem,Phillips County,Box 298,Saco,MT,59261,,(406)527-3531,43,Rural: Remote,†,†,Yes,Yes,7,1.72,4.1,†,†
+302340000683,MT-0657-0873,3023400,MT-0657,9,12,Saco High School,Saco H S,Phillips County,Box 298,Saco,MT,59261,,(406)527-3531,43,Rural: Remote,†,†,Yes,Yes,17,4.08,4.2,5,4
+302337000682,MT-1203-0872,3023370,MT-1203,PK,6,Saco School,Saco Elem,Phillips County,Box 298,Saco,MT,59261,,(406)527-3531,43,Rural: Remote,†,†,Yes,Yes,30,4.22,7.1,17,3
+300329001111,MT-0368-1846,3003290,MT-0368,PK,4,Saddle Peak Elementary,Belgrade Elem,Gallatin County,PO Box 166,Belgrade,MT,59714,,(406)924-2006,33,Town: Remote,†,†,Yes,No,456,29,15.7,145,37
+300009800329,MT-1236-1830,3000098,MT-1236,PK,8,Sage Creek Elementary,Chester-Joplin-Inverness El,Liberty County,Box 550,Chester,MT,59522,,(406)759-5477,43,Rural: Remote,†,†,Yes,Yes,7,1,7,†,†
+301593000489,MT-0486-0649,3015930,MT-0486,PK,8,Salmon Prairie School,Swan Lake-Salmon Elem,Lake County,23187 MT Hwy 83,Swan Lake,MT,59911,,(406)754-2245,43,Rural: Remote,†,†,Yes,No,2,1,2,†,†
+301206000330,MT-0392-0527,3012060,MT-0392,PK,8,Sand Springs School,Sand Springs Elem,Garfield County,160 Twin Buttes Road,Sand Springs,MT,59077,,(406)557-2774,43,Rural: Remote,†,†,–,–,4,1,4,†,†
+300387000083,MT-0965-1584,3003870,MT-0965,PK,5,Sandstone School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6220,12,City: Midsize,†,†,Yes,Yes,405,26.85,15.1,128,42
+302352001040,MT-0747-1754,3023520,MT-0747,7,8,Savage 7-8,Savage Elem,Richland County,Box 110,Savage,MT,59262,,(406)776-2317,43,Rural: Remote,†,†,Yes,Yes,13,1.2,10.8,5,1
+302355000686,MT-0748-0983,3023550,MT-0748,9,12,Savage High School,Savage H S,Richland County,Box 110,Savage,MT,59262,,(406)776-2317,43,Rural: Remote,†,†,Yes,No,26,3.68,7.1,5,1
+302352000685,MT-0747-0982,3023520,MT-0747,PK,6,Savage School,Savage Elem,Richland County,Box 110,Savage,MT,59262,,(406)776-2317,43,Rural: Remote,†,†,Yes,No,69,7.65,9,14,2
+302367000949,MT-0194-1650,3023670,MT-0194,7,8,Scobey 7-8,Scobey K-12 Schools,Daniels County,PO Box 10,Scobey,MT,59263,,(406)487-2202,43,Rural: Remote,†,†,Yes,No,41,2.33,17.6,7,4
+302367000688,MT-0194-0268,3023670,MT-0194,9,12,Scobey High School,Scobey K-12 Schools,Daniels County,PO Box 10,Scobey,MT,59263,,(406)487-2202,43,Rural: Remote,†,†,Yes,No,84,7.96,10.6,9,3
+302367000687,MT-0194-0267,3023670,MT-0194,PK,6,Scobey School,Scobey K-12 Schools,Daniels County,PO Box 10,Scobey,MT,59263,,(406)487-2202,43,Rural: Remote,†,†,Yes,No,154,11.13,13.8,23,6
+302373001018,MT-0597-1740,3023730,MT-0597,7,8,Seeley Lake 7-8,Seeley Lake Elem,Missoula County,PO Box 840,Seeley Lake,MT,59868,,(406)677-2265,43,Rural: Remote,†,†,Yes,Yes,42,3.17,13.2,22,5
+302373000689,MT-0597-0801,3023730,MT-0597,PK,6,Seeley Lake Elementary,Seeley Lake Elem,Missoula County,PO Box 840,Seeley Lake,MT,59868,,(406)677-2265,43,Rural: Remote,†,†,Yes,Yes,148,8.33,17.8,75,13
+301854000563,MT-0584-1434,3018540,MT-0584,9,12,Seeley-Swan High School,Missoula H S,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)677-2224,43,Rural: Remote,†,†,Yes,Yes,88,9.05,9.7,23,7
+301854000564,MT-0584-1433,3018540,MT-0584,9,12,Sentinel High School,Missoula H S,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)728-2403,13,City: Small,†,†,–,–,1268,76.22,16.6,157,26
+302390000693,MT-0910-1175,3023900,MT-0910,7,8,Shelby 7-8,Shelby Elem,Toole County,1010 Oilfield Avenue,Shelby,MT,59474,,(406)424-8910,33,Town: Remote,†,†,Yes,Yes,56,4.35,12.9,24,5
+302390000692,MT-0910-1176,3023900,MT-0910,PK,6,Shelby Elementary School,Shelby Elem,Toole County,1010 Oilfield Avenue,Shelby,MT,59474,,(406)424-8910,33,Town: Remote,†,†,Yes,Yes,239,17.75,13.5,106,26
+302391000694,MT-0911-1178,3023910,MT-0911,9,12,Shelby High School,Shelby H S,Toole County,1010 Oilfield Avenue,Shelby,MT,59474,,(406)424-8910,33,Town: Remote,†,†,Yes,No,115,11.14,10.3,32,5
+302394000695,MT-0985-1300,3023940,MT-0985,PK,5,Shepherd Elementary,Shepherd Elem,Yellowstone County,Box 8,Shepherd,MT,59079,,(406)373-5516,42,Rural: Distant,†,†,Yes,Yes,371,22.18,16.7,89,19
+302397000696,MT-0986-1301,3023970,MT-0986,9,12,Shepherd High School,Shepherd H S,Yellowstone County,Box 8,Shepherd,MT,59079,,(406)373-5300,42,Rural: Distant,†,†,Yes,Yes,259,18.84,13.7,47,27
+302394001083,MT-0985-1794,3023940,MT-0985,6,8,Shepherd Middle School,Shepherd Elem,Yellowstone County,Box 8,Shepherd,MT,59079,,(406)373-5873,42,Rural: Distant,†,†,Yes,Yes,200,15.98,12.5,52,11
+302415001001,MT-0537-1725,3024150,MT-0537,7,8,Sheridan 7-8,Sheridan Elem,Madison County,PO Box 586,Sheridan,MT,59749,,(406)842-5302,43,Rural: Remote,†,†,Yes,Yes,30,2.59,11.6,4,2
+302415000697,MT-0537-0721,3024150,MT-0537,PK,6,Sheridan Elementary Schl,Sheridan Elem,Madison County,PO Box 586,Sheridan,MT,59749,,(406)842-5302,43,Rural: Remote,†,†,Yes,Yes,89,8.77,10.1,11,13
+302418000698,MT-0538-0722,3024180,MT-0538,9,12,Sheridan High School,Sheridan H S,Madison County,PO Box 586,Sheridan,MT,59749,,(406)842-5401,43,Rural: Remote,†,†,Yes,Yes,60,8.36,7.2,14,3
+300093201025,MT-1227-1797,3000932,MT-1227,7,8,Shields Valley 7-8,Shields Valley Elem,Park County,PO Box 40,Clyde Park,MT,59018,,(406)686-4621,43,Rural: Remote,†,†,Yes,No,27,2.46,11,5,2
+300093201024,MT-1227-1665,3000932,MT-1227,PK,6,Shields Valley Elementary,Shields Valley Elem,Park County,PO Box 40,Clyde Park,MT,59018,,(406)578-2535,43,Rural: Remote,†,†,Yes,No,109,10.03,10.9,24,6
+300093301026,MT-1228-1666,3000933,MT-1228,9,12,Shields Valley High Schl,Shields Valley H S,Park County,PO Box 40,Clyde Park,MT,59018,,(406)686-4621,43,Rural: Remote,†,†,Yes,No,61,6.83,8.9,19,2
+302423000702,MT-0746-0981,3024230,MT-0746,9,12,Sidney High School,Sidney H S,Richland County,200 3rd Ave SE,Sidney,MT,59270,,(406)433-2330,33,Town: Remote,†,†,Yes,No,387,27.94,13.9,55,24
+302420000897,MT-0745-1619,3024200,MT-0745,6,8,Sidney Middle School,Sidney Elem,Richland County,200 3rd Ave SE,Sidney,MT,59270,,(406)433-4050,33,Town: Remote,†,†,Yes,No,290,20.19,14.4,53,19
+302433000704,MT-0118-0174,3024330,MT-0118,9,12,Simms High School,Simms H S,Cascade County,Box 380,Simms,MT,59477,,(406)264-5110,43,Rural: Remote,†,†,Yes,Yes,99,8.52,11.6,26,14
+300390000871,MT-0966-1628,3003900,MT-0966,9,12,Skyview High School,Billings H S,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-5200,12,City: Midsize,†,†,–,–,1675,80.8,20.7,371,82
+301688001021,MT-0612-1490,3016880,MT-0612,6,8,Sleeping Giant Middle Sch,Livingston Elem,Park County,132 South B Street,Livingston,MT,59047,,(406)222-3292,33,Town: Remote,†,†,Yes,Yes,316,21.8,14.5,109,35
+300000500425,MT-0487-1477,3000005,MT-0487,PK,5,Smith School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1530,33,Town: Remote,†,†,Yes,Yes,310,20,15.5,104,18
+300285000101,MT-0324-0444,3002850,MT-0324,7,8,Smith Valley 7-8,Smith Valley Elem,Flathead County,2901 Highway 2 West,Kalispell,MT,59901,,(406)756-4535,41,Rural: Fringe,†,†,Yes,Yes,48,2.56,18.8,24,5
+300285000037,MT-0324-0436,3002850,MT-0324,PK,6,Smith Valley Primary Schl,Smith Valley Elem,Flathead County,2901 Highway 2 West,Kalispell,MT,59901,,(406)756-4535,41,Rural: Fringe,†,†,Yes,Yes,179,12.95,13.8,68,14
+300000200965,MT-0327-1799,3000002,MT-0327,6,8,Somers Middle School,Somers Elem,Flathead County,315 School Addition Road,Somers,MT,59932,,(406)857-3661,42,Rural: Distant,†,†,Yes,No,188,14,13.4,45,15
+301620001124,MT-0970-1281,3016200,MT-0970,†,†,South School,Laurel Elem,†,410 Colorado Avenue,Laurel,MT,59044,,(406)628-6917,†,N,†,†,†,†,†,†,†,†,†
+302859000797,MT-0780-1020,3028590,MT-0780,PK,3,Southside School,Wolf Point Elem,Roosevelt County,213 6th Avenue South,Wolf Point,MT,59201,,(406)653-1480,33,Town: Remote,†,†,Yes,Yes,247,20,12.4,–,–
+302469000710,MT-0288-0389,3024690,MT-0288,PK,8,Spring Creek Colony Schl,Spring Creek Colony Elem,Fergus County,PO Box 1185,Lewistown,MT,59457,,(406)538-8022,42,Rural: Distant,†,†,–,–,5,1,5,†,†
+300366000053,MT-0020-0026,3003660,MT-0020,PK,8,Spring Creek School,Spring Creek Elem,Big Horn County,Box 118,Decker,MT,59025,,(406)757-2515,43,Rural: Remote,†,†,–,–,7,1,7,†,†
+300795000227,MT-0179-0248,3007950,MT-0179,PK,8,Spring Creek School,Spring Creek Elem,Powder River County,735 Road 664,Miles City,MT,59301,,(406)554-3512,43,Rural: Remote,†,†,–,–,3,1,3,†,†
+302481000713,MT-0357-0479,3024810,MT-0357,PK,8,Springhill School,Springhill Elem,Gallatin County,6020 Springhill Comm Road,Belgrade,MT,59714,,(406)586-6485,42,Rural: Distant,†,†,–,–,16,2.19,7.3,–,–
+300611000174,MT-0481-0642,3006110,MT-0481,PK,5,St Ignatius Elementary School,St Ignatius K-12 Schools,Lake County,PO Box 1540,St Ignatius,MT,59865,1540,(406)745-3811,42,Rural: Distant,†,†,Yes,Yes,262,18.7,14,–,–
+300611000175,MT-0481-0643,3006110,MT-0481,9,12,St Ignatius High School,St Ignatius K-12 Schools,Lake County,PO Box 1540,St Ignatius,MT,59865,1540,(406)745-3811,42,Rural: Distant,†,†,Yes,Yes,138,12.59,11,–,–
+300611000994,MT-0481-1719,3006110,MT-0481,6,8,St Ignatius Middle School,St Ignatius K-12 Schools,Lake County,PO Box 1540,St Ignatius,MT,59865,1540,(406)745-3811,42,Rural: Distant,†,†,Yes,Yes,109,9.95,11,–,–
+302493001009,MT-0582-1732,3024930,MT-0582,7,8,St Regis 7-8,St Regis K-12 Schools,Mineral County,PO Box 280,St Regis,MT,59866,,(406)649-2311,43,Rural: Remote,†,†,Yes,Yes,20,2.53,7.9,–,–
+302493000715,MT-0582-0771,3024930,MT-0582,9,12,St Regis High School,St Regis K-12 Schools,Mineral County,PO Box 280,St Regis,MT,59866,,(406)649-2311,43,Rural: Remote,†,†,Yes,Yes,45,5.62,8,–,–
+302493000714,MT-0582-0770,3024930,MT-0582,PK,6,St Regis School,St Regis K-12 Schools,Mineral County,PO Box 280,St Regis,MT,59866,,(406)649-2311,43,Rural: Remote,†,†,Yes,Yes,102,7.49,13.6,–,–
+302499000716,MT-0464-1716,3024990,MT-0464,7,8,Stanford 7-8,Stanford K-12 Schools,Judith Basin County,Box 506,Stanford,MT,59479,,(406)566-2265,43,Rural: Remote,†,†,Yes,Yes,17,2.05,8.3,3,0
+302499000717,MT-0464-0618,3024990,MT-0464,9,12,Stanford High School,Stanford K-12 Schools,Judith Basin County,Box 506,Stanford,MT,59479,,(406)566-2265,43,Rural: Remote,†,†,Yes,Yes,35,4.33,8.1,14,0
+302499000021,MT-0464-0617,3024990,MT-0464,PK,6,Stanford School,Stanford K-12 Schools,Judith Basin County,Box 506,Stanford,MT,59479,,(406)566-2265,43,Rural: Remote,†,†,Yes,Yes,77,8.98,8.6,27,0
+302502000718,MT-0732-1577,3025020,MT-0732,7,8,Stevensville 7-8,Stevensville Elem,Ravalli County,300 Park Street,Stevensville,MT,59870,,(406)777-5533,42,Rural: Distant,†,†,Yes,Yes,161,8.89,18.1,58,14
+302505000720,MT-0733-0966,3025050,MT-0733,9,12,Stevensville High School,Stevensville H S,Ravalli County,300 Park Street,Stevensville,MT,59870,,(406)777-5481,42,Rural: Distant,†,†,Yes,No,387,23.5,16.5,89,36
+302502000719,MT-0732-0965,3025020,MT-0732,PK,6,Stevensville K-6,Stevensville Elem,Ravalli County,300 Park Street,Stevensville,MT,59870,,(406)777-5613,42,Rural: Distant,†,†,Yes,Yes,506,30.6,16.5,166,43
+302430000724,MT-1225-1538,3024300,MT-1225,6,8,Sun River Middle School,Sun River Valley Elem,Cascade County,Box 380,Simms,MT,59477,,(406)264-5110,43,Rural: Remote,†,†,Yes,Yes,53,4.75,11.2,16,3
+302532001069,MT-0903-1781,3025320,MT-0903,7,8,Sunburst 7 - 8,Sunburst K-12 Schools,Toole County,Box 710,Sunburst,MT,59482,,(406)937-2816,43,Rural: Remote,†,†,Yes,No,32,1.98,16.2,10,2
+302532000725,MT-0903-1167,3025320,MT-0903,PK,6,Sunburst Elementary,Sunburst K-12 Schools,Toole County,Box 710,Sunburst,MT,59482,,(406)937-2816,43,Rural: Remote,†,†,Yes,No,85,8.09,10.5,23,3
+302532000726,MT-0903-1168,3025320,MT-0903,9,12,Sunburst High School,Sunburst K-12 Schools,Toole County,Box 710,Sunburst,MT,59482,,(406)937-2811,43,Rural: Remote,†,†,Yes,No,60,6.99,8.6,12,2
+301304000376,MT-0098-0151,3013040,MT-0098,PK,6,Sunnyside School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7115,13,City: Small,†,†,Yes,Yes,425,25.65,16.6,–,–
+301356000410,MT-0427-0572,3013560,MT-0427,4,5,Sunnyside School,Havre Elem,Hill County,Box 7791,Havre,MT,59501,,(406)265-9671,33,Town: Remote,†,†,Yes,Yes,271,13.5,20.1,126,20
+302538000727,MT-0594-0798,3025380,MT-0594,PK,8,Sunset School,Sunset Elem,Missoula County,5024 Sunset Hill Road,Greenough,MT,59823,,(406)244-5542,42,Rural: Distant,†,†,–,–,10,2.03,4.9,–,–
+302547001008,MT-0579-1731,3025470,MT-0579,7,8,Superior 7-8,Superior K-12 Schools,Mineral County,PO Box 400,Superior,MT,59872,,(406)822-4851,43,Rural: Remote,†,†,Yes,Yes,54,4.28,12.6,–,–
+302547000728,MT-0579-0767,3025470,MT-0579,PK,6,Superior Elementary,Superior K-12 Schools,Mineral County,PO Box 400,Superior,MT,59872,,(406)822-3600,43,Rural: Remote,†,†,Yes,Yes,151,11.41,13.2,–,–
+302547000729,MT-0579-0768,3025470,MT-0579,9,12,Superior High School,Superior K-12 Schools,Mineral County,PO Box 400,Superior,MT,59872,,(406)822-4851,43,Rural: Remote,†,†,Yes,Yes,71,7.84,9.1,–,–
+302550000962,MT-0309-1694,3025500,MT-0309,7,8,Swan River 7-8,Swan River Elem,Flathead County,1205 Swan Highway,Bigfork,MT,59911,,(406)837-4528,43,Rural: Remote,†,†,Yes,Yes,39,3.75,10.4,3,3
+302550000730,MT-0309-0411,3025500,MT-0309,PK,6,Swan River School,Swan River Elem,Flathead County,1205 Swan Highway,Bigfork,MT,59911,,(406)837-4528,43,Rural: Remote,†,†,Yes,Yes,128,9.15,14,44,7
+302553001017,MT-0596-1739,3025530,MT-0596,7,8,Swan Valley 7-8,Swan Valley Elem,Missoula County,6423 Highway 83,Condon,MT,59826,,(406)754-2320,43,Rural: Remote,†,†,Yes,No,5,0.7,7.1,†,†
+302553000731,MT-0596-0800,3025530,MT-0596,PK,6,Swan Valley School,Swan Valley Elem,Missoula County,6423 Highway 83,Condon,MT,59826,,(406)754-2320,43,Rural: Remote,†,†,Yes,No,24,2.35,10.2,–,–
+302556000732,MT-0882-1130,3025560,MT-0882,9,12,Sweet Grass Co High Schl,Sweet Grass County H S,Sweet Grass County,PO Box 886,Big Timber,MT,59011,,(406)932-5993,43,Rural: Remote,†,†,Yes,No,162,13.06,12.4,32,9
+302589001015,MT-0593-1737,3025890,MT-0593,6,8,Target Range 7-8,Target Range Elem,Missoula County,4095 South Avenue West,Missoula,MT,59804,,(406)549-9239,23,Suburb: Small,†,†,Yes,No,132,8.15,16.2,37,12
+302589000734,MT-0593-0797,3025890,MT-0593,PK,6,Target Range School,Target Range Elem,Missoula County,4095 South Avenue West,Missoula,MT,59804,,(406)549-9239,23,Suburb: Small,†,†,Yes,No,454,27.32,16.6,121,40
+302595000736,MT-0726-0958,3025950,MT-0726,9,12,Terry High School,Terry K-12 Schools,Prairie County,Box 187,Terry,MT,59349,,(406)635-5533,43,Rural: Remote,†,†,Yes,Yes,37,7.5,4.9,16,3
+302595001036,MT-0726-1752,3025950,MT-0726,7,8,Terry Middle School,Terry K-12 Schools,Prairie County,Box 187,Terry,MT,59349,,(406)635-5533,43,Rural: Remote,†,†,Yes,Yes,13,1.77,7.3,6,0
+302595000735,MT-0726-0954,3025950,MT-0726,PK,6,Terry School,Terry K-12 Schools,Prairie County,Box 187,Terry,MT,59349,,(406)635-5533,43,Rural: Remote,†,†,Yes,Yes,84,7.55,11.1,31,6
+302607001052,MT-0804-1764,3026070,MT-0804,7,8,Thompson Falls 7-8,Thompson Falls Elem,Sanders County,206 Haley Ave,Thompson Falls,MT,59873,,(406)827-3593,43,Rural: Remote,†,†,Yes,Yes,69,6.7,10.3,36,6
+302607000737,MT-0804-1047,3026070,MT-0804,PK,6,Thompson Falls Elem Schl,Thompson Falls Elem,Sanders County,206 Haley Ave,Thompson Falls,MT,59873,,(406)827-3592,43,Rural: Remote,†,†,Yes,Yes,208,15.25,13.6,111,37
+302610000738,MT-0805-1048,3026100,MT-0805,9,12,Thompson Falls High Schl,Thompson Falls H S,Sanders County,206 Haley Ave,Thompson Falls,MT,59873,,(406)827-3561,43,Rural: Remote,†,†,Yes,Yes,159,13.1,12.1,97,16
+302616000973,MT-0360-1658,3026160,MT-0360,6,8,Three Forks 7-8,Three Forks Elem,Gallatin County,212 East Neal,Three Forks,MT,59752,,(406)285-3224,43,Rural: Remote,†,†,Yes,No,187,12.11,15.4,48,23
+302616000740,MT-0360-0482,3026160,MT-0360,PK,5,Three Forks Elem School,Three Forks Elem,Gallatin County,212 East Neal,Three Forks,MT,59752,,(406)285-6830,43,Rural: Remote,†,†,Yes,No,317,18.53,17.1,87,30
+302619000741,MT-0361-0483,3026190,MT-0361,9,12,Three Forks High School,Three Forks H S,Gallatin County,212 East Neal,Three Forks,MT,59752,,(406)285-3224,43,Rural: Remote,†,†,Yes,No,200,12.36,16.2,47,17
+300498000935,MT-0055-1671,3004980,MT-0055,7,8,Townsend 7-8,Townsend K-12 Schools,Broadwater County,201 N Spruce,Townsend,MT,59644,2215,(406)441-3431,43,Rural: Remote,†,†,Yes,Yes,98,8.42,11.6,30,10
+302646000745,MT-0534-0717,3026460,MT-0534,PK,8,Trego School,Trego Elem,Lincoln County,PO Box 10,Trego,MT,59934,,(406)882-4713,43,Rural: Remote,†,†,Yes,Yes,10,2,5,–,–
+302649000746,MT-0491-0664,3026490,MT-0491,PK,8,Trinity School,Trinity Elem,Lewis and Clark County,PO Box 523,Canyon Creek,MT,59633,,(406)368-2230,43,Rural: Remote,†,†,Yes,No,17,2,8.5,–,–
+302652000211,MT-0807-1820,3026520,MT-0807,7,8,Trout Creek 7-8,Trout Creek Elem,Sanders County,4 School Lane,Trout Creek,MT,59874,,(406)827-3629,43,Rural: Remote,†,†,Yes,Yes,9,0.75,12,–,–
+302652000747,MT-0807-1050,3026520,MT-0807,PK,6,Trout Creek School,Trout Creek Elem,Sanders County,4 School Lane,Trout Creek,MT,59874,,(406)827-3629,43,Rural: Remote,†,†,Yes,Yes,55,4.3,12.8,–,–
+302655000999,MT-0519-1663,3026550,MT-0519,7,8,Troy 7-8,Troy Elem,Lincoln County,Box 867,Troy,MT,59935,,(406)295-4520,43,Rural: Remote,†,†,Yes,Yes,58,4.1,14.1,–,–
+302658000749,MT-0520-0697,3026580,MT-0520,9,12,Troy High School,Troy H S,Lincoln County,Box 867,Troy,MT,59935,,(406)295-4520,43,Rural: Remote,†,†,Yes,Yes,127,10.16,12.5,–,–
+302664000933,MT-0044-1670,3026640,MT-0044,7,8,Turner 7-8,Turner Elem,Blaine County,Box 40,Turner,MT,59542,,(406)379-2219,43,Rural: Remote,†,†,Yes,No,11,1.6,6.9,0,3
+302667000751,MT-0045-0070,3026670,MT-0045,9,12,Turner High School,Turner H S,Blaine County,Box 40,Turner,MT,59542,,(406)379-2219,43,Rural: Remote,†,†,Yes,Yes,22,3.6,6.1,5,4
+302664000750,MT-0044-0069,3026640,MT-0044,PK,6,Turner School,Turner Elem,Blaine County,Box 40,Turner,MT,59542,,(406)379-2219,43,Rural: Remote,†,†,Yes,No,50,4.35,11.5,7,12
+302673001002,MT-0540-1726,3026730,MT-0540,7,8,Twin Bridges 7-8,Twin Bridges K-12 Schools,Madison County,Box 419,Twin Bridges,MT,59754,,(406)684-5613,43,Rural: Remote,†,†,Yes,No,29,2.81,10.3,5,6
+302673000753,MT-0540-0724,3026730,MT-0540,9,12,Twin Bridges High School,Twin Bridges K-12 Schools,Madison County,Box 419,Twin Bridges,MT,59754,,(406)684-5657,43,Rural: Remote,†,†,Yes,No,74,8.05,9.2,20,6
+302673000752,MT-0540-0723,3026730,MT-0540,PK,6,Twin Bridges School,Twin Bridges K-12 Schools,Madison County,Box 419,Twin Bridges,MT,59754,,(406)684-5613,43,Rural: Remote,†,†,Yes,No,102,8.33,12.2,25,12
+302688000945,MT-0131-1680,3026880,MT-0131,6,8,Ulm Junior High,Ulm Elem,Cascade County,PO Box 189,Ulm,MT,59485,,(406)866-3313,42,Rural: Distant,†,†,Yes,No,21,2.73,7.7,3,0
+302688000756,MT-0131-0188,3026880,MT-0131,PK,5,Ulm School,Ulm Elem,Cascade County,PO Box 189,Ulm,MT,59485,,(406)866-3313,42,Rural: Distant,†,†,Yes,No,60,5.15,11.7,13,1
+300733001032,MT-0674-1803,3007330,MT-0674,4,6,Utterback 4-6,Conrad Elem,Pondera County,215 South Maryland St,Conrad,MT,59425,2017,(406)278-3227,33,Town: Remote,†,†,Yes,Yes,107,8.06,13.3,41,15
+300733000209,MT-0674-1540,3007330,MT-0674,7,8,Utterback 7-8,Conrad Elem,Pondera County,215 South Maryland St,Conrad,MT,59425,2017,(406)278-3227,33,Town: Remote,†,†,Yes,No,82,6.13,13.4,23,9
+302706001033,MT-0679-1749,3027060,MT-0679,7,8,Valier 7-8,Valier Elem,Pondera County,PO Box 528,Valier,MT,59486,,(406)279-3314,43,Rural: Remote,†,†,Yes,Yes,26,1.93,13.5,9,3
+302709000759,MT-0680-0899,3027090,MT-0680,9,12,Valier High School,Valier H S,Pondera County,PO Box 528,Valier,MT,59486,,(406)279-3613,43,Rural: Remote,†,†,Yes,Yes,48,6.41,7.5,16,9
+302706000758,MT-0679-0898,3027060,MT-0679,PK,6,Valier School,Valier Elem,Pondera County,PO Box 528,Valier,MT,59486,,(406)279-3314,43,Rural: Remote,†,†,Yes,Yes,67,6.33,10.6,27,7
+302715000760,MT-0483-0645,3027150,MT-0483,PK,6,Valley View School,Valley View Elem,Lake County,42448 Valley View Road,Polson,MT,59860,,(406)883-2208,42,Rural: Distant,†,†,Yes,Yes,37,3,12.3,23,6
+301304000377,MT-0098-0152,3013040,MT-0098,PK,6,Valley View School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7145,13,City: Small,†,†,Yes,Yes,371,24.05,15.4,183,41
+300585000944,MT-0127-1679,3005850,MT-0127,7,8,Vaughn 7-8,Vaughn Elem,Cascade County,PO Box 279,Vaughn,MT,59487,,(406)965-2231,42,Rural: Distant,†,†,Yes,Yes,34,3.89,8.7,–,–
+300585000168,MT-0127-0183,3005850,MT-0127,PK,6,Vaughn School,Vaughn Elem,Cascade County,PO Box 279,Vaughn,MT,59487,,(406)965-2231,42,Rural: Distant,†,†,Yes,Yes,132,7.98,16.5,–,–
+302727000763,MT-0738-0972,3027270,MT-0738,9,12,Victor High School,Victor K-12 Schools,Ravalli County,425 4th Avenue,Victor,MT,59875,,(406)642-3221,42,Rural: Distant,†,†,Yes,Yes,103,9.44,10.9,–,–
+302727001037,MT-0738-1753,3027270,MT-0738,6,8,Victor Middle School,Victor K-12 Schools,Ravalli County,425 4th Avenue,Victor,MT,59875,,(406)642-3221,42,Rural: Distant,†,†,Yes,Yes,54,4.86,11.1,–,–
+302727000762,MT-0738-0971,3027270,MT-0738,PK,5,Victor School,Victor K-12 Schools,Ravalli County,425 4th Avenue,Victor,MT,59875,,(406)642-3551,42,Rural: Distant,†,†,Yes,Yes,108,8.7,12.4,–,–
+302734000764,MT-0566-0755,3027340,MT-0566,PK,8,Vida School,Vida Elem,McCone County,PO Box 180,Circle,MT,59215,,(406)525-3374,43,Rural: Remote,†,†,Yes,No,21,2,10.5,–,–
+302655000748,MT-0519-0696,3026550,MT-0519,PK,6,W F Morrison School,Troy Elem,Lincoln County,Box 867,Troy,MT,59935,,(406)295-4321,43,Rural: Remote,†,†,Yes,Yes,190,14.7,12.9,–,–
+300000500506,MT-0487-0663,3000005,MT-0487,PK,5,Warren School,Helena Elem,Lewis and Clark County,55 South Rodney,Helena,MT,59601,5763,(406)324-1600,33,Town: Remote,†,†,Yes,Yes,331,18.5,17.9,110,21
+301841000561,MT-0172-0238,3018410,MT-0172,7,8,Washington 7-8,Miles City Elem,Custer County,1604 Main Street,Miles City,MT,59301,,(406)234-2084,33,Town: Remote,†,†,Yes,Yes,232,18.5,12.5,65,33
+301857000581,MT-0583-0779,3018570,MT-0583,6,8,Washington Middle School,Missoula Elem,Missoula County,215 South 6th West,Missoula,MT,59801,,(406)542-4085,13,City: Small,†,†,–,–,641,37.48,17.1,93,21
+301251000952,MT-0206-1685,3012510,MT-0206,6,8,Washington Middle School,Glendive Elem,Dawson County,Box 701,Glendive,MT,59330,,(406)377-2356,33,Town: Remote,†,†,Yes,No,286,21.29,13.4,95,15
+301326000387,MT-0735-0969,3013260,MT-0735,PK,1,Washington School,Hamilton K-12 Schools,Ravalli County,217 Daly Avenue,Hamilton,MT,59840,,(406)363-2144,33,Town: Remote,†,†,Yes,Yes,231,15.25,15.1,105,25
+300387000085,MT-0965-1270,3003870,MT-0965,PK,5,Washington School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6221,12,City: Midsize,†,†,Yes,Yes,273,22.45,12.2,–,–
+301304000881,MT-0098-1624,3013040,MT-0098,PK,6,West Elementary,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7180,13,City: Small,†,†,Yes,Yes,417,30.52,13.7,–,–
+300528000906,MT-0840-1642,3005280,MT-0840,PK,6,West Elementary School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2700,33,Town: Remote,†,†,Yes,Yes,467,34.04,13.7,–,–
+300009400919,MT-1223-1651,3000094,MT-1223,PK,6,West Glacier School,West Glacier Elem,Flathead County,PO Box 309,West Glacier,MT,59936,,(406)888-5312,42,Rural: Distant,†,†,–,–,65,7,9.3,–,–
+301620000499,MT-0970-1282,3016200,MT-0970,1,2,West School,Laurel Elem,Yellowstone County,410 Colorado Avenue,Laurel,MT,59044,,(406)628-6914,31,Town: Fringe,†,†,Yes,No,462,31.32,14.8,166,22
+302420001110,MT-0745-1446,3024200,MT-0745,PK,3,West Side Elementary,Sidney Elem,Richland County,200 3rd Ave SE,Sidney,MT,59270,,(406)433-5501,33,Town: Remote,†,†,Yes,No,291,19.34,15,88,20
+302757000970,MT-1184-1692,3027570,MT-1184,6,8,West Valley Middle School,West Valley Elem,Flathead County,2290 Farm To Market Road,Kalispell,MT,59901,,(406)755-7239,42,Rural: Distant,†,†,Yes,No,230,15.42,14.9,42,17
+302757000767,MT-1184-1305,3027570,MT-1184,PK,5,West Valley School,West Valley Elem,Flathead County,2290 Farm To Market Road,Kalispell,MT,59901,,(406)755-7239,42,Rural: Distant,†,†,Yes,No,420,25.33,16.6,85,42
+302763000977,MT-0374-1704,3027630,MT-0374,7,8,West Yellowstone 7-8,West Yellowstone K-12,Gallatin County,Box 460,West Yellowstone,MT,59758,,(406)646-7617,43,Rural: Remote,†,†,Yes,No,48,3.33,14.4,14,4
+302763000769,MT-0374-0496,3027630,MT-0374,9,12,West Yellowstone HS,West Yellowstone K-12,Gallatin County,Box 460,West Yellowstone,MT,59758,,(406)646-7617,43,Rural: Remote,†,†,Yes,No,79,5.82,13.6,16,6
+302763000768,MT-0374-0495,3027630,MT-0374,PK,6,West Yellowstone School,West Yellowstone K-12,Gallatin County,Box 460,West Yellowstone,MT,59758,,(406)646-7617,43,Rural: Remote,†,†,Yes,No,168,10.32,16.3,57,9
+302773001089,MT-0819-1767,3027730,MT-0819,7,8,Westby 7-8,Westby K-12 Schools,Sheridan County,PO Box 109,Westby,MT,59275,,(406)385-2225,43,Rural: Remote,†,†,Yes,No,12,2.14,5.6,1,2
+302773000771,MT-0819-1062,3027730,MT-0819,9,12,Westby High School,Westby K-12 Schools,Sheridan County,PO Box 109,Westby,MT,59275,,(406)385-2225,43,Rural: Remote,†,†,Yes,No,17,4.27,4,2,1
+302773000770,MT-0819-1061,3027730,MT-0819,PK,6,Westby School,Westby K-12 Schools,Sheridan County,PO Box 109,Westby,MT,59275,,(406)385-2225,43,Rural: Remote,†,†,Yes,No,29,5.02,5.8,7,4
+302877001006,MT-0570-1729,3028770,MT-0570,7,8,White Sulphur Springs 7-8,White Sulphur Spgs K-12,Meagher County,PO Box C,White Sulphur Springs,MT,59645,,(406)547-3351,43,Rural: Remote,†,†,Yes,Yes,31,2.51,12.4,11,5
+302877000802,MT-0570-0758,3028770,MT-0570,PK,8,White Sulphur Springs El,White Sulphur Spgs K-12,Meagher County,PO Box C,White Sulphur Springs,MT,59645,,(406)547-3751,43,Rural: Remote,†,†,Yes,Yes,121,11.64,10.4,68,18
+302877000803,MT-0570-0759,3028770,MT-0570,9,12,White Sulphur Springs HS,White Sulphur Spgs K-12,Meagher County,PO Box C,White Sulphur Springs,MT,59645,,(406)547-3351,43,Rural: Remote,†,†,Yes,Yes,70,8.97,7.8,31,11
+302779000775,MT-0335-0448,3027790,MT-0335,9,12,Whitefish High School,Whitefish H S,Flathead County,600 East Second Street,Whitefish,MT,59937,,(406)862-8600,33,Town: Remote,†,†,Yes,No,524,35.94,14.6,86,32
+302774000830,MT-0334-1598,3027740,MT-0334,5,8,Whitefish Middle 5-8,Whitefish Elem,Flathead County,600 East Second Street,Whitefish,MT,59937,,(406)862-8650,33,Town: Remote,†,†,Yes,No,587,33.57,17.5,133,21
+302781000776,MT-0453-1570,3027810,MT-0453,6,8,Whitehall 6-8,Whitehall Elem,Jefferson County,Box 1109,Whitehall,MT,59759,,(406)287-3882,43,Rural: Remote,†,†,Yes,Yes,108,5.4,20,51,15
+302781000777,MT-0453-0607,3027810,MT-0453,PK,5,Whitehall Elementary,Whitehall Elem,Jefferson County,Box 1109,Whitehall,MT,59759,,(406)287-3882,43,Rural: Remote,†,†,Yes,Yes,194,13.75,14.1,105,19
+302784000778,MT-0454-0608,3027840,MT-0454,9,12,Whitehall High School,Whitehall H S,Jefferson County,Box 1109,Whitehall,MT,59759,,(406)287-3862,43,Rural: Remote,†,†,Yes,Yes,130,11.15,11.7,44,14
+302793001029,MT-0663-1747,3027930,MT-0663,6,8,Whitewater 6-8,Whitewater K-12 Schools,Phillips County,PO Box 46,Whitewater,MT,59544,46,(406)674-5417,43,Rural: Remote,†,†,Yes,Yes,8,2.1,3.8,†,†
+302793000780,MT-0663-0879,3027930,MT-0663,9,12,Whitewater High School,Whitewater K-12 Schools,Phillips County,PO Box 46,Whitewater,MT,59544,46,(406)674-5417,43,Rural: Remote,†,†,Yes,Yes,8,4.91,1.6,†,†
+302793000779,MT-0663-0878,3027930,MT-0663,PK,5,Whitewater School,Whitewater K-12 Schools,Phillips County,PO Box 46,Whitewater,MT,59544,46,(406)674-5417,43,Rural: Remote,†,†,Yes,Yes,29,3.78,7.7,14,2
+301304000378,MT-0098-0154,3013040,MT-0098,PK,6,Whittier School,Great Falls Elem,Cascade County,PO Box 2429,Great Falls,MT,59403,,(406)268-7230,13,City: Small,†,†,Yes,Yes,247,19.58,12.6,–,–
+300528000153,MT-0840-1101,3005280,MT-0840,PK,6,Whittier School,Butte Elem,Silver Bow County,111 North Montana,Butte,MT,59701,,(406)533-2890,33,Town: Remote,†,†,Yes,Yes,439,25.7,17.1,153,56
+300456000110,MT-0350-0471,3004560,MT-0350,PK,5,Whittier School,Bozeman Elem,Gallatin County,PO Box 520,Bozeman,MT,59771,,(406)522-6750,33,Town: Remote,†,†,Yes,Yes,275,17.1,16.1,84,23
+302802001078,MT-0964-1789,3028020,MT-0964,7,8,Wibaux 7-8,Wibaux K-12 Schools,Wibaux County,121 F Street N,Wibaux,MT,59353,,(406)796-2474,43,Rural: Remote,†,†,Yes,No,19,2.39,7.9,3,3
+302802000784,MT-0964-1238,3028020,MT-0964,PK,6,Wibaux Elementary School,Wibaux K-12 Schools,Wibaux County,121 F Street N,Wibaux,MT,59353,,(406)796-2518,43,Rural: Remote,†,†,Yes,No,86,11.28,7.6,20,8
+302802000783,MT-0964-1239,3028020,MT-0964,9,12,Wibaux High School,Wibaux K-12 Schools,Wibaux County,121 F Street N,Wibaux,MT,59353,,(406)796-2474,43,Rural: Remote,†,†,Yes,No,37,4.64,8,6,7
+300387000904,MT-0965-1646,3003870,MT-0965,6,8,Will James Middle School,Billings Elem,Yellowstone County,415 North 30th Street,Billings,MT,59101,,(406)281-6100,12,City: Midsize,†,†,–,–,555,33.6,16.5,161,27
+302814000972,MT-0354-1700,3028140,MT-0354,7,8,Willow Creek 7-8,Willow Creek Elem,Gallatin County,PO Box 189,Willow Creek,MT,59760,,(406)285-6991,43,Rural: Remote,†,†,Yes,Yes,11,1.38,8,3,3
+302817000786,MT-0355-0477,3028170,MT-0355,9,12,Willow Creek High School,Willow Creek H S,Gallatin County,PO Box 189,Willow Creek,MT,59760,,(406)285-6991,43,Rural: Remote,†,†,–,–,9,3.53,2.5,2,2
+302814000785,MT-0354-0476,3028140,MT-0354,PK,6,Willow Creek School,Willow Creek Elem,Gallatin County,PO Box 189,Willow Creek,MT,59760,,(406)285-6991,43,Rural: Remote,†,†,Yes,Yes,38,4.64,8.2,20,9
+302838000959,MT-0291-1691,3028380,MT-0291,6,8,Winifred 6-8,Winifred K-12 Schools,Fergus County,Box 109,Winifred,MT,59489,,(406)462-5349,43,Rural: Remote,†,†,Yes,Yes,24,3.36,7.1,5,7
+302838000790,MT-0291-0392,3028380,MT-0291,9,12,Winifred High School,Winifred K-12 Schools,Fergus County,Box 109,Winifred,MT,59489,,(406)462-5420,43,Rural: Remote,†,†,Yes,Yes,38,5.04,7.5,11,6
+302838000789,MT-0291-0391,3028380,MT-0291,PK,5,Winifred School,Winifred K-12 Schools,Fergus County,Box 109,Winifred,MT,59489,,(406)462-5349,43,Rural: Remote,†,†,Yes,Yes,47,4.49,10.5,10,9
+302847001027,MT-0642-1744,3028470,MT-0642,7,8,Winnett 7-8,Winnett K-12 Schools,Petroleum County,Box 167,Winnett,MT,59087,,(406)429-2251,43,Rural: Remote,†,†,Yes,Yes,7,2.19,3.2,†,†
+302847000792,MT-0642-0853,3028470,MT-0642,9,12,Winnett High School,Winnett K-12 Schools,Petroleum County,Box 167,Winnett,MT,59087,,(406)429-2251,43,Rural: Remote,†,†,Yes,Yes,24,4.2,5.7,16,4
+302847000791,MT-0642-0852,3028470,MT-0642,PK,6,Winnett School,Winnett K-12 Schools,Petroleum County,Box 167,Winnett,MT,59087,,(406)429-2251,43,Rural: Remote,†,†,Yes,Yes,37,4.76,7.8,16,3
+302850000793,MT-0010-0012,3028500,MT-0010,PK,8,Wisdom School,Wisdom Elem,Beaverhead County,PO Box 176,Wisdom,MT,59761,,(406)689-3227,43,Rural: Remote,†,†,Yes,No,15,2,7.5,–,–
+301082000794,MT-0007-0009,3010820,MT-0007,PK,8,Wise River School,Wise River Elem,Beaverhead County,School House Road,Wise River,MT,59762,,(406)832-3279,43,Rural: Remote,†,†,Yes,No,8,2,4,†,†
+302855000795,MT-0495-0668,3028550,MT-0495,PK,6,Wolf Creek School,Wolf Creek Elem,Lewis and Clark County,Box 200,Wolf Creek,MT,59648,,(406)235-4241,43,Rural: Remote,†,†,Yes,Yes,14,1.07,13.1,6,0
+302859000798,MT-0780-1532,3028590,MT-0780,7,8,Wolf Point 7-8,Wolf Point Elem,Roosevelt County,213 6th Avenue South,Wolf Point,MT,59201,,(406)653-1200,33,Town: Remote,†,†,Yes,Yes,119,9.98,11.9,–,–
+302862000799,MT-0781-1023,3028620,MT-0781,9,12,Wolf Point High School,Wolf Point H S,Roosevelt County,213 6th Avenue South,Wolf Point,MT,59201,,(406)653-1200,33,Town: Remote,†,†,Yes,Yes,231,18.88,12.2,–,–
+302865001013,MT-0591-1735,3028650,MT-0591,7,8,Woodman 7-8,Woodman Elem,Missoula County,18470 Highway 12 West,Lolo,MT,59847,,(406)273-6770,42,Rural: Distant,†,†,Yes,No,8,1.59,5,†,†
+302865000800,MT-0591-0795,3028650,MT-0591,PK,6,Woodman School,Woodman Elem,Missoula County,18470 Highway 12 West,Lolo,MT,59847,,(406)273-6770,42,Rural: Distant,†,†,Yes,No,32,3.13,10.2,–,–
+302880000355,MT-0026-1583,3028800,MT-0026,7,8,Wyola 7-8,Wyola Elem,Big Horn County,PO Box 66,Wyola,MT,59089,,(406)343-2722,43,Rural: Remote,†,†,Yes,Yes,33,7.45,4.4,–,–
+302880000804,MT-0026-0041,3028800,MT-0026,PK,6,Wyola School,Wyola Elem,Big Horn County,PO Box 66,Wyola,MT,59089,,(406)343-2722,43,Rural: Remote,†,†,Yes,Yes,71,9.4,7.6,–,–
+302883000805,MT-0533-0716,3028830,MT-0533,PK,8,Yaak School,Yaak Elem,Lincoln County,29893 Yaak River Road,Troy,MT,59935,,(406)295-4805,43,Rural: Remote,†,†,Yes,No,9,1,9,–,–
+302886001114,MT-1196-1850,3028860,MT-1196,7,8,Yellowstone Academy 7-8,Yellowstone Academy Elem,Yellowstone County,1750 Ray of Hope Lane,Billings,MT,59106,,(406)656-2198,41,Rural: Fringe,†,†,Yes,Yes,15,10.45,1.4,15,0
+302886000806,MT-1196-1456,3028860,MT-1196,PK,6,Yellowstone Academy Elem,Yellowstone Academy Elem,Yellowstone County,1750 Ray of Hope Lane,Billings,MT,59106,,(406)656-2198,41,Rural: Fringe,†,†,Yes,Yes,19,8.45,2.2,19,0
+300000301104,MT-0402-1842,3000003,MT-0402,PK,8,Zenith Elementary,Cut Bank Elem,Glacier County,101 3rd Avenue SE,Cut Bank,MT,59427,,(406)336-5430,43,Rural: Remote,†,†,Yes,Yes,8,1,8,†,†
+302891000807,MT-0034-0056,3028910,MT-0034,PK,8,Zurich School,Zurich Elem,Blaine County,PO Box 847,Zurich,MT,59547,,(406)357-4164,43,Rural: Remote,†,†,Yes,Yes,21,3,7,13,0

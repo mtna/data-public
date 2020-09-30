@@ -1,0 +1,317 @@
+NCES School ID,State School ID,NCES District ID,State District ID,Low Grade*,High Grade*,School Name,District,County Name*,Street Address,City,State,ZIP,ZIP 4-digit,Phone,Locale Code*,Locale*,Charter,Magnet*,Title I School*,Title 1 School Wide*,Students*,Teachers*,Student Teacher Ratio*,Free Lunch*,Reduced Lunch*
+440090000492,RI-28-28195,4400900,RI-28,9,12,360 High School,Providence,Providence County,182 Thurbers Avenue,Providence,RI,2905,,(401)274-4603,12,City: Midsize,No,†,Yes,Yes,234,21.5,10.9,193,10
+440090000055,RI-28-28178,4400900,RI-28,9,12,Academy for Career Exploration,Providence,Providence County,155 Harrison Street,Providence,RI,2907,,(401)456-1738,12,City: Midsize,Yes,†,Yes,Yes,209,15,13.9,164,9
+440002100495,RI-41-28614,4400021,RI-41,KG,4,Achievement First Iluminar,Achievement First Rhode Island,Providence County,85 Garfield Avenue,Cranston,RI,2920,,(401)347-1116,12,City: Midsize,Yes,†,Yes,Yes,462,29.75,15.5,318,61
+440002100486,RI-41-28609,4400021,RI-41,KG,4,Achievement First Providence,Achievement First Rhode Island,Providence County,370 Hartford Avenue,Providence,RI,2909,,(401)347-1106,12,City: Midsize,Yes,†,Yes,Yes,462,24,19.3,353,52
+440002100527,RI-41-41604,4400021,RI-41,5,5,AF Iluminar Mayoral Middle Sch,Achievement First Rhode Island,†,85 Garfield Avenue,Cranston,RI,2920,,(401)347-1116,†,N,Yes,†,†,†,†,†,†,†,†
+440002100515,RI-41-28615,4400021,RI-41,5,7,AF Providence Mayoral Middle,Achievement First Rhode Island,Providence County,370 Hartford Avenue,Providence,RI,2909,,(401)347-1120,12,City: Midsize,Yes,†,Yes,Yes,201,6.25,32.2,127,31
+440033000091,RI-10-10116,4400330,RI-10,KG,5,Agnes B. Hennessey School,East Providence,Providence County,75 Fort Street,East Providence,RI,2914,,(401)435-7831,21,Suburb: Large,No,†,Yes,Yes,264,22,12,143,23
+440084000187,RI-26-26122,4400840,RI-26,KG,5,Agnes E. Little School,Pawtucket,Providence County,60 South Bend Street,Pawtucket,RI,2860,,(401)729-6256,21,Suburb: Large,No,†,Yes,Yes,377,27.26,13.8,273,28
+440090000215,RI-28-28116,4400900,RI-28,KG,5,Alan Shawn Feinstein Elem.,Providence,Providence County,1450 Broad Street,Providence,RI,2905,,(401)456-9367,12,City: Midsize,No,†,Yes,Yes,469,24.4,19.2,386,22
+440021000465,RI-06-06104,4400210,RI-06,6,8,Alan Shawn Feinstein MS of Cov,Coventry,Kent County,15 Foster Drive,Coventry,RI,2816,,(401)822-9426,21,Suburb: Large,No,†,Yes,No,1132,78.6,14.4,289,69
+440090000124,RI-28-28121,4400900,RI-28,2,5,Alfred Lima Sr. El School,Providence,Providence County,222 Daboll Street,Providence,RI,2907,,(401)278-0504,12,City: Midsize,No,†,Yes,Yes,499,29.8,16.7,422,32
+440099000256,RI-31-31105,4400990,RI-31,PK,5,Anna M. McCabe School,Smithfield,Providence County,100 Pleasant View Avenue,Smithfield,RI,2917,,(401)949-2058,21,Suburb: Large,No,†,–,–,314,21.63,14.5,27,10
+440090000162,RI-28-28181,4400900,RI-28,PK,5,Anthony Carnevale Elementary,Providence,Providence County,50 Springfield Street,Providence,RI,2909,,(401)278-0554,12,City: Midsize,No,†,Yes,Yes,550,42.7,12.9,417,45
+440063000141,RI-19-19106,4400630,RI-19,PK,3,Aquidneck School,Middletown,Newport County,70 Reservoir Avenue,Middletown,RI,2842,,(401)847-4921,21,Suburb: Large,No,†,–,–,338,24.83,13.6,62,17
+440030000087,RI-09-09103,4400300,RI-09,6,8,Archie R. Cole MS,East Greenwich,Kent County,100 Cedar Avenue,East Greenwich,RI,2818,,(401)398-1333,21,Suburb: Large,No,†,Yes,No,639,45.05,14.2,28,0
+440024000042,RI-07-07125,4400240,RI-07,PK,5,Arlington School,Cranston,Providence County,155 Princess Avenue,Cranston,RI,2920,,(401)270-8179,21,Suburb: Large,No,†,Yes,Yes,226,14.2,15.9,149,14
+440090000213,RI-28-28115,4400900,RI-28,PK,4,Asa Messer El. School,Providence,Providence County,1655 Westminster Street,Providence,RI,2909,,(401)456-9401,12,City: Midsize,No,†,Yes,Yes,545,32,17,453,30
+440015000122,RI-98-98106,4400150,RI-98,KG,4,Ashaway Elementary School,Chariho,Washington County,12A Hillside Avenue,Ashaway,RI,2804,,(401)377-2211,22,Suburb: Midsize,No,†,Yes,No,192,14.3,13.4,38,6
+440027000070,RI-08-08112,4400270,RI-08,KG,5,Ashton School,Cumberland,Providence County,130 Scott Road,Cumberland,RI,2864,,(401)333-0554,21,Suburb: Large,No,†,Yes,No,290,19,15.3,43,8
+440009000018,RI-03-03108,4400090,RI-03,PK,1,Austin T. Levy School,Burrillville,Providence County,135 Harrisville Main Street,Harrisville,RI,2830,,(401)568-1340,21,Suburb: Large,No,†,Yes,No,333,21.8,15.3,87,20
+440027000039,RI-08-08107,4400270,RI-08,KG,5,B.F. Norton Elementary School,Cumberland,Providence County,364 Broad Street,Cumberland,RI,2864,,(401)722-7610,21,Suburb: Large,No,†,Yes,Yes,355,27.6,12.9,138,19
+440003000001,RI-01-01106,4400030,RI-01,9,12,Barrington High School,Barrington,Bristol County,220 Lincoln Avenue,Barrington,RI,2806,,(401)247-3150,21,Suburb: Large,No,†,–,–,1101,84.7,13,39,9
+440003000002,RI-01-01108,4400030,RI-01,6,8,Barrington Middle School,Barrington,Bristol County,261 Middle Highway,Barrington,RI,2806,,(401)247-3160,21,Suburb: Large,No,†,Yes,No,830,57.07,14.5,34,6
+440000800297,RI-58-39601,4400008,RI-58,9,12,BEACON Charter School,Beacon Charter School,Providence County,320 Main Street,Woonsocket,RI,2895,,(401)671-6261,21,Suburb: Large,Yes,†,Yes,Yes,229,19,12.1,101,10
+440120000327,RI-39-39118,4401200,RI-39,KG,5,Bernon Heights School,Woonsocket,Providence County,657 Logee Street,Woonsocket,RI,2895,,(401)767-4864,21,Suburb: Large,No,†,Yes,Yes,448,25.26,17.7,294,54
+440078000173,RI-24-24112,4400780,RI-24,6,8,Birchwood Middle School,North Providence,Providence County,10 Birchwood Drive,North Providence,RI,2904,,(401)233-1120,21,Suburb: Large,No,†,Yes,Yes,444,31,14.3,149,28
+440021000031,RI-06-06117,4400210,RI-06,KG,5,Blackrock School,Coventry,Kent County,12 LaCasa Drive,Coventry,RI,2816,,(401)822-9450,21,Suburb: Large,No,†,Yes,Yes,350,23.13,15.1,119,20
+440003600246,RI-54-26602,4400036,RI-54,9,12,Blackstone Academy Charter,Blackstone Academy,Providence County,334 Pleasant Street,Pawtucket,RI,2860,,(401)726-1750,21,Suburb: Large,Yes,†,Yes,Yes,356,25.25,14.1,229,29
+440001500473,RI-47-08601,4400015,RI-47,KG,4,Blackstone Valley Prep,Blackstone Valley Prep A RI Mayoral Academy,Providence County,291 Broad Street,Cumberland,RI,2864,,(401)335-3133,21,Suburb: Large,Yes,†,Yes,Yes,411,39,10.5,200,40
+440001500475,RI-47-08602,4400015,RI-47,5,8,Blackstone Valley Prep,Blackstone Valley Prep A RI Mayoral Academy,Providence County,909 Lonsdale,Central Falls,RI,2863,,(401)475-8829,21,Suburb: Large,Yes,†,Yes,Yes,319,28,11.4,171,52
+440001500480,RI-47-08603,4400015,RI-47,KG,4,Blackstone Valley Prep E. 2,Blackstone Valley Prep A RI Mayoral Academy,Providence County,52 Broad St.,Cumberland,RI,2864,,(401)305-6860,21,Suburb: Large,Yes,†,Yes,Yes,419,38.7,10.8,194,41
+440001500496,RI-47-08605,4400015,RI-47,KG,4,Blackstone Valley Prep Element,Blackstone Valley Prep A RI Mayoral Academy,Providence County,3357 Mendon Rd.,Cumberland,RI,2864,,(401)335-3133,21,Suburb: Large,Yes,†,Yes,Yes,226,21,10.8,108,26
+440001500488,RI-47-08604,4400015,RI-47,9,12,Blackstone Valley Prep High,Blackstone Valley Prep A RI Mayoral Academy,Providence County,65 Macondray St.,Cumberland,RI,2864,,(401)405-0320,21,Suburb: Large,Yes,†,Yes,Yes,350,23.75,14.7,201,45
+440001500513,RI-47-08606,4400015,RI-47,5,8,Blackstone Valley Prep Mid2,Blackstone Valley Prep A RI Mayoral Academy,Providence County,3 Fairlawn Way,Lincoln,RI,2865,,(401)871-5429,21,Suburb: Large,Yes,†,Yes,Yes,240,24,10,112,30
+440069000149,RI-22-22101,4400690,RI-22,KG,12,Block Island School,New Shoreham,Washington County,Block Island School,Block Island,RI,2807,,(401)466-5600,42,Rural: Distant,No,†,Yes,No,133,21.6,6.2,14,7
+440102000210,RI-32-32114,4401020,RI-32,5,6,Broad Rock Middle School,South Kingstown,Washington County,351 Broad Rock Road,Wakefield,RI,2879,,(401)360-1800,21,Suburb: Large,No,†,Yes,No,450,39.5,11.4,77,4
+440054000125,RI-16-16106,4400540,RI-16,1,5,Brown Avenue School,Johnston,Providence County,14 Brown Avenue,Johnston,RI,2919,,(401)934-0270,41,Rural: Fringe,No,†,–,–,224,15.74,14.2,54,14
+440009000019,RI-03-03109,4400090,RI-03,9,12,Burrillville High School,Burrillville,Providence County,425 East Avenue,Harrisville,RI,2830,,(401)568-1310,21,Suburb: Large,No,†,Yes,No,768,61.15,12.6,145,36
+440009000383,RI-03-03104,4400090,RI-03,6,8,Burrillville Middle School,Burrillville,Providence County,2220 Broncos Highway,Harrisville,RI,2830,,(401)568-1320,41,Rural: Fringe,No,†,Yes,No,524,40.45,13,129,29
+440012000024,RI-04-04115,4400120,RI-04,5,8,Calcutt Middle School,Central Falls,Providence County,112 Washington Street,Central Falls,RI,2863,,(401)727-7726,21,Suburb: Large,No,†,Yes,Yes,707,40.2,17.6,653,2
+440039000114,RI-12-12101,4400390,RI-12,PK,5,Capt. Isaac Paine El. School,Foster,Providence County,160 Foster Center Road,Foster,RI,2825,,(401)710-7500,42,Rural: Distant,No,†,Yes,No,272,21.8,12.5,56,9
+440090000227,RI-28-28140,4400900,RI-28,KG,5,Carl G. Lauro El. School,Providence,Providence County,99 Kenyon Street,Providence,RI,2903,,(401)456-9391,12,City: Midsize,No,†,Yes,Yes,822,54.4,15.1,688,29
+440111000285,RI-35-35131,4401110,RI-35,KG,5,Cedar Hill School,Warwick,Kent County,35 Red Chimney Drive,Warwick,RI,2886,,(401)734-3535,13,City: Small,No,†,–,–,336,19.9,16.9,45,2
+440012000026,RI-04-04108,4400120,RI-04,9,12,Central Falls Sr High,Central Falls,Providence County,24 Summer Street,Central Falls,RI,2863,,(401)727-7710,21,Suburb: Large,No,†,Yes,Yes,716,44.3,16.2,616,6
+440090000217,RI-28-28139,4400900,RI-28,9,12,Central High School,Providence,Providence County,70 Fricker St,Providence,RI,2903,,(401)456-9111,12,City: Midsize,No,†,Yes,Yes,1203,89,13.5,974,87
+440078000174,RI-24-24109,4400780,RI-24,PK,5,Centredale School,North Providence,Providence County,41 Angell Avenue,North Providence,RI,2911,,(401)233-1145,21,Suburb: Large,No,†,Yes,Yes,267,16.1,16.6,99,15
+440003700519,RI-81-81601,4400037,RI-81,9,11,Charette Charter School,Charette Charter,Providence County,335 Westminster St.,Providence,RI,2903,,(401)270-1183,12,City: Midsize,Yes,†,Yes,Yes,82,5,16.4,71,2
+440015000286,RI-98-98108,4400150,RI-98,1,12,Chariho Alternative Learning A,Chariho,Washington County,455C Switch Road,Wood River Junction,RI,2894,,(401)364-1160,41,Rural: Fringe,No,†,Yes,Yes,52,10.1,5.1,31,2
+440015000457,RI-98-98102,4400150,RI-98,9,12,Chariho Career and Tech Center,Chariho,Washington County,459 Switch Road,Wood River Junction,RI,2894,,(401)364-6869,41,Rural: Fringe,No,†,–,–,–,15.8,†,–,–
+440015000029,RI-98-98101,4400150,RI-98,9,12,Chariho High School,Chariho,Washington County,453 Switch Road,Wood River Junction,RI,2894,,(401)364-7778,41,Rural: Fringe,No,†,–,–,1117,80.36,13.9,159,35
+440015000386,RI-98-98103,4400150,RI-98,5,8,Chariho Regional Middle School,Chariho,Washington County,455B Switch Road,Wood River Junction,RI,2894,,(401)364-0651,41,Rural: Fringe,No,†,Yes,No,933,69.6,13.4,165,32
+440084000201,RI-26-26118,4400840,RI-26,9,12,Charles E. Shea High School,Pawtucket,Providence County,485 East Avenue,Pawtucket,RI,2860,,(401)729-6445,21,Suburb: Large,No,†,Yes,Yes,825,55.46,14.9,626,69
+440090000133,RI-28-28122,4400900,RI-28,PK,1,Charles N. Fortes Academy,Providence,Providence County,234 Daboll Street,Providence,RI,2907,,(401)278-0501,12,City: Midsize,No,†,Yes,Yes,370,23.6,15.7,293,21
+440015000030,RI-98-98104,4400150,RI-98,KG,4,Charlestown Elementary School,Chariho,Washington County,363 Carolina Back Road,Charlestown,RI,2813,,(401)364-7716,41,Rural: Fringe,No,†,–,–,245,20.2,12.1,45,10
+440072000485,RI-21-21107,4400720,RI-21,KG,4,Claiborne Pell Elementary,Newport,Newport County,35 Dexter Street,Newport,RI,2840,,(401)842-1900,21,Suburb: Large,No,†,Yes,Yes,830,63.1,13.2,534,41
+440090000218,RI-28-28164,4400900,RI-28,9,12,Classical High School,Providence,Providence County,770 Westminster Street,Providence,RI,2903,,(401)456-9145,12,City: Midsize,No,†,Yes,Yes,1087,66,16.5,501,149
+440096000252,RI-30-30103,4400960,RI-30,PK,5,Clayville School,Scituate,Providence County,3 George Washington Highway,Clayville,RI,2815,,(401)647-4115,41,Rural: Fringe,No,†,–,–,141,9.49,14.9,12,3
+440006500468,RI-96-96105,4400065,RI-96,KG,5,Colt Andrews School,Bristol Warren,Bristol County,570-574 Hope Street,Bristol,RI,2809,,(401)254-5987,21,Suburb: Large,No,†,Yes,Yes,350,23,15.2,105,17
+440027000075,RI-08-08109,4400270,RI-08,KG,5,Community School,Cumberland,Providence County,15 Arnold Mills Road,Cumberland,RI,2864,,(401)333-5724,21,Suburb: Large,No,†,–,–,610,40.3,15.1,22,7
+440090000156,RI-28-28162,4400900,RI-28,KG,5,Cornel Young & Charlotte Woods,Providence,Providence County,674 Prairie Avenue,Providence,RI,2905,,(401)278-0515,12,City: Midsize,No,†,Yes,Yes,636,41.4,15.4,534,33
+440021000032,RI-06-06119,4400210,RI-06,9,12,Coventry High School,Coventry,Kent County,40 Reservoir Road,Coventry,RI,2816,,(401)822-9499,21,Suburb: Large,No,†,Yes,No,1475,114.6,12.9,335,76
+440024000458,RI-07-07132,4400240,RI-07,11,12,Cranston Career & Tech Center,Cranston,Providence County,100 Metropolitan Avenue,Cranston,RI,2920,,(401)270-8070,21,Suburb: Large,No,†,–,–,–,15.4,†,–,–
+440024000509,RI-07-07104,4400240,RI-07,PK,PK,Cranston Early Learning Center,Cranston,Providence County,45 Sprague Avenue,Cranston,RI,2910,,(401)270-8057,21,Suburb: Large,No,†,–,–,24,5,4.8,3,0
+440024000044,RI-07-07113,4400240,RI-07,9,12,Cranston High School East,Cranston,Providence County,899 Park Avenue,Cranston,RI,2910,,(401)270-8126,21,Suburb: Large,No,†,Yes,Yes,1682,120.6,13.9,784,182
+440024000045,RI-07-07126,4400240,RI-07,9,12,Cranston High School West,Cranston,Providence County,80 Metropolitan Avenue,Cranston,RI,2920,,(401)270-8049,21,Suburb: Large,No,†,–,–,1493,109.8,13.6,273,64
+440027000076,RI-08-08114,4400270,RI-08,9,12,Cumberland High School,Cumberland,Providence County,2600 Mendon Road,Cumberland,RI,2864,,(401)658-2600,21,Suburb: Large,No,†,Yes,No,1430,109,13.1,204,45
+440027000188,RI-08-08121,4400270,RI-08,PK,PK,Cumberland Preschool Center,Cumberland,Providence County,130 Scott Road,Cumberland,RI,2864,,(401)658-1600,21,Suburb: Large,No,†,–,–,87,4,21.8,13,0
+440084000190,RI-26-26121,4400840,RI-26,KG,5,Cunningham School,Pawtucket,Providence County,40 Baldwin Street,Pawtucket,RI,2860,,(401)729-6262,21,Suburb: Large,No,†,Yes,Yes,468,34.86,13.4,378,27
+440102000266,RI-32-32110,4401020,RI-32,7,8,Curtis Corner Middle School,South Kingstown,Washington County,301 Curtis Corner Road,Wakefield,RI,2879,,(401)360-1333,21,Suburb: Large,No,†,Yes,No,489,43.6,11.2,72,4
+440084000189,RI-26-26116,4400840,RI-26,KG,5,Curvin-McCabe School,Pawtucket,Providence County,466 Cottage Street,Pawtucket,RI,2861,,(401)729-6258,21,Suburb: Large,No,†,Yes,Yes,441,34.86,12.7,308,43
+440024000046,RI-07-07110,4400240,RI-07,KG,5,Daniel D. Waterman School,Cranston,Providence County,722 Pontiac Avenue,Cranston,RI,2910,,(401)270-8013,21,Suburb: Large,No,†,–,–,247,17.9,13.8,73,14
+440000400379,RI-40-17701,4400004,RI-40,9,12,Davies Career-Tech High School,Davies Career and Tech,Providence County,50 Jenckes Hill Road,Lincoln,RI,2865,,(401)728-1500,21,Suburb: Large,No,†,Yes,Yes,868,73,11.9,411,115
+440075000165,RI-23-23112,4400750,RI-23,6,8,Davisville Middle School,North Kingstown,Washington County,200 School Street,North Kingstown,RI,2852,,(401)541-6300,21,Suburb: Large,No,†,Yes,No,536,38.17,14,131,13
+440000900413,RI-67-07702,4400009,RI-67,10,12,DCYF Alternative Ed. Program,DCYF,Providence County,57 Power Road,Cranston,RI,2920,,(401)462-7253,21,Suburb: Large,No,†,–,–,52,14,3.7,–,–
+440078000178,RI-24-24111,4400780,RI-24,6,8,Dr. Edward Ricci School,North Providence,Providence County,51 Intervale Avenue,North Providence,RI,2911,,(401)233-1170,21,Suburb: Large,No,†,Yes,Yes,431,31,13.9,163,22
+440090000344,RI-28-28113,4400900,RI-28,9,12,Dr. Jorge Alvarez HS,Providence,Providence County,375 Adelaide Avenue,Providence,RI,2907,,(401)456-0676,12,City: Midsize,No,†,Yes,Yes,755,44,17.2,591,42
+440117000321,RI-36-36109,4401170,RI-36,KG,4,Dunn's Corners School,Westerly,Washington County,8 1/2 Plateau Road,Westerly,RI,2891,,(401)348-2320,22,Suburb: Midsize,No,†,–,–,315,22.85,13.8,69,17
+440090000323,RI-28-28187,4400900,RI-28,9,12,E-Cubed Academy,Providence,Providence County,812 Branch Avenue,Providence,RI,2904,,(401)456-0694,12,City: Midsize,No,†,Yes,Yes,370,32,11.6,282,38
+440054000452,RI-16-16114,4400540,RI-16,KG,KG,Early Childhood Center,Johnston,Providence County,10 Memorial Avenue,Johnston,RI,2919,,(401)233-0054,21,Suburb: Large,No,†,Yes,Yes,193,15.6,12.4,72,13
+440030000086,RI-09-09106,4400300,RI-09,9,12,East Greenwich High,East Greenwich,Kent County,300 Avenger Drive,East Greenwich,RI,2818,,(401)398-1574,21,Suburb: Large,No,†,Yes,No,763,56.63,13.5,21,2
+440033000459,RI-10-10130,4400330,RI-10,9,12,East Providence Career Tech,East Providence,Providence County,1998 Pawtucket Avenue,East Providence,RI,2914,,(401)435-7815,21,Suburb: Large,No,†,–,–,–,13,†,–,–
+440033000097,RI-10-10112,4400330,RI-10,9,12,East Providence High,East Providence,Providence County,2000 Pawtucket Avenue,East Providence,RI,2914,,(401)435-7806,21,Suburb: Large,No,–,–,–,1466,107.4,13.6,563,98
+440024000047,RI-07-07118,4400240,RI-07,KG,5,Eden Park School,Cranston,Providence County,180 Oakland Avenue,Cranston,RI,2910,,(401)270-8029,21,Suburb: Large,No,†,Yes,Yes,274,19.45,14.1,94,23
+440024000048,RI-07-07130,4400240,RI-07,PK,5,Edgewood Highland,Cranston,Providence County,160 Pawtuxet Avenue,Cranston,RI,2905,,(401)270-8065,21,Suburb: Large,No,†,Yes,Yes,252,17.55,14.4,134,16
+440033000348,RI-10-10109,4400330,RI-10,6,8,Edward Martin Middle,East Providence,Providence County,111 Brown Street,East Providence,RI,2914,,(401)435-7819,21,Suburb: Large,No,†,Yes,Yes,663,54,12.3,322,33
+440033000506,RI-10-10104,4400330,RI-10,PK,PK,Edward R. Martin Middle Annex,East Providence,Providence County,111 Brown Street,East Providence,RI,2914,,(401)270-2321,21,Suburb: Large,No,†,–,–,90,5,18,28,10
+440024000049,RI-07-07117,4400240,RI-07,KG,5,Edward S. Rhodes School,Cranston,Providence County,160 Shaw Avenue,Cranston,RI,2905,,(401)270-8110,21,Suburb: Large,No,†,–,–,174,12.8,13.6,36,8
+440084000191,RI-26-26120,4400840,RI-26,KG,5,Elizabeth Baldwin School,Pawtucket,Providence County,50 Whitman Street,Pawtucket,RI,2860,,(401)729-6264,21,Suburb: Large,No,†,Yes,Yes,638,46.76,13.6,520,52
+440012000027,RI-04-04101,4400120,RI-04,KG,4,Ella Risk School,Central Falls,Providence County,949 Dexter Street,Central Falls,RI,2863,,(401)727-7730,21,Suburb: Large,No,†,Yes,Yes,417,32,13,397,0
+440033000109,RI-10-10117,4400330,RI-10,KG,5,Emma G. Whiteknact School,East Providence,Providence County,261 Grosvenor Avenue,East Providence,RI,2914,,(401)435-7828,21,Suburb: Large,No,†,Yes,Yes,267,23,11.6,138,18
+440090000401,RI-28-28137,4400900,RI-28,6,8,Esek Hopkins Middle,Providence,Providence County,480 Charles Street,Providence,RI,2904,,(401)456-9203,12,City: Midsize,No,†,Yes,Yes,552,42,13.1,467,39
+440090000497,RI-28-28196,4400900,RI-28,9,12,Evolutions High School,Providence,Providence County,434 Mount Pleasant Avenue,Providence,RI,2909,,(401)274-1897,12,City: Midsize,No,†,Yes,Yes,244,22.5,10.8,186,11
+440036000390,RI-97-97105,4400360,RI-97,7,8,Exeter-West Greenwich Reg. Jr.,Exeter-West Greenwich,Kent County,930 Nooseneck Hill Road,West Greenwich,RI,2817,,(401)397-6897,41,Rural: Fringe,No,†,Yes,No,264,20.78,12.7,31,7
+440036000391,RI-97-97106,4400360,RI-97,9,12,Exeter-West Greenwich Regional,Exeter-West Greenwich,Kent County,930 Nooseneck Hill Road,West Greenwich,RI,2817,,(401)397-6893,41,Rural: Fringe,No,†,Yes,No,490,44.6,11,41,18
+440084000192,RI-26-26113,4400840,RI-26,PK,5,Fallon Memorial School,Pawtucket,Providence County,62 Lincoln Avenue,Pawtucket,RI,2861,,(401)729-6254,21,Suburb: Large,No,†,Yes,Yes,575,43.86,13.1,336,55
+440075000398,RI-23-23109,4400750,RI-23,PK,5,Fishing Cove El. School,North Kingstown,Washington County,110 Wickford Point Road,North Kingstown,RI,2852,,(401)268-6580,21,Suburb: Large,No,†,Yes,No,347,23.4,14.8,102,17
+440084000193,RI-26-26115,4400840,RI-26,PK,5,Flora S. Curtis School,Pawtucket,Providence County,582 Benefit Street,Pawtucket,RI,2861,,(401)729-6252,21,Suburb: Large,No,†,Yes,Yes,306,26.71,11.5,123,40
+440045000119,RI-13-13103,4400450,RI-13,KG,5,Fogarty Memorial,Glocester,Providence County,736 Snake Hill Road,North Scituate,RI,2857,,(401)568-6211,41,Rural: Fringe,No,†,–,–,305,22.4,13.6,21,5
+440063000405,RI-19-19107,4400630,RI-19,KG,3,Forest Avenue School,Middletown,Newport County,315 Forest Avenue,Middletown,RI,2842,,(401)849-9434,21,Suburb: Large,No,†,Yes,No,320,24.33,13.2,102,25
+440075000166,RI-23-23110,4400750,RI-23,KG,5,Forest Park El. School,North Kingstown,Washington County,50 Woodlawn Drive,North Kingstown,RI,2852,,(401)541-6380,21,Suburb: Large,No,†,–,–,266,20,13.3,41,15
+440105000357,RI-33-33106,4401050,RI-33,KG,4,Fort Barton School,Tiverton,Newport County,99 Lawton Avenue,Tiverton,RI,2878,,(401)624-6114,21,Suburb: Large,No,†,–,–,207,19.83,10.4,28,6
+440000800493,RI-58-39603,4400008,RI-58,6,8,Founders Academy,Beacon Charter School,Providence County,1 Social Street,Woonsocket,RI,2895,,(401)671-6261,21,Suburb: Large,Yes,†,Yes,Yes,139,11,12.6,52,15
+440084000194,RI-26-26125,4400840,RI-26,KG,6,Francis J. Varieur School,Pawtucket,Providence County,486 Pleasant Street,Pawtucket,RI,2860,,(401)729-6266,21,Suburb: Large,No,†,Yes,Yes,372,28.46,13.1,218,43
+440090000093,RI-28-28106,4400900,RI-28,KG,1,Frank D. Spaziano Annex,Providence,Providence County,240 Laban Street,Providence,RI,2909,,(401)456-1783,12,City: Midsize,No,†,Yes,Yes,173,9,19.2,146,7
+440090000228,RI-28-28134,4400900,RI-28,2,5,Frank D. Spaziano Elem School,Providence,Providence County,85 Laurel Hill Avenue,Providence,RI,2909,,(401)456-9389,12,City: Midsize,No,†,Yes,Yes,398,24.6,16.2,340,25
+440072000155,RI-21-21106,4400720,RI-21,5,8,Frank E. Thompson Middle,Newport,Newport County,55 Broadway,Newport,RI,2840,,(401)847-1493,21,Suburb: Large,No,†,Yes,Yes,606,54.8,11.1,385,39
+440030000088,RI-09-09105,4400300,RI-09,KG,2,Frenchtown School,East Greenwich,Kent County,1100 Frenchtown Road,East Greenwich,RI,2818,,(401)398-1402,41,Rural: Fringe,No,†,Yes,No,242,19.97,12.1,18,0
+440012000025,RI-04-04104,4400120,RI-04,PK,PK,G. Harold Hunt School,Central Falls,Providence County,12 Kendall Street,Central Falls,RI,2863,,(401)727-7720,21,Suburb: Large,No,†,–,–,126,12.1,10.4,99,0
+440024000050,RI-07-07122,4400240,RI-07,PK,5,Garden City School,Cranston,Providence County,70 Plantations Drive,Cranston,RI,2920,,(401)270-8073,21,Suburb: Large,No,†,–,–,281,20,14.1,70,14
+440027000081,RI-08-08108,4400270,RI-08,KG,5,Garvin Memorial,Cumberland,Providence County,1364 Diamond Hill Road,Cumberland,RI,2864,,(401)333-2557,21,Suburb: Large,No,†,Yes,No,377,27.59,13.7,75,15
+440030000377,RI-09-09108,4400300,RI-09,3,5,George Hanaford School,East Greenwich,Kent County,200 Middle Road,East Greenwich,RI,2818,,(401)398-1351,21,Suburb: Large,No,†,–,–,259,18.05,14.3,14,0
+440024000351,RI-07-07124,4400240,RI-07,KG,5,George J. Peters School,Cranston,Providence County,15 Mayberry Street,Cranston,RI,2920,,(401)270-8199,21,Suburb: Large,No,†,Yes,Yes,308,20.1,15.3,135,17
+440090000222,RI-28-28135,4400900,RI-28,KG,5,George J. West El. School,Providence,Providence County,145 Beaufort Street,Providence,RI,2908,,(401)456-9337,12,City: Midsize,No,†,Yes,Yes,730,40.1,18.2,573,40
+440090000223,RI-28-28144,4400900,RI-28,6,8,Gilbert Stuart Middle School,Providence,Providence County,188 Princeton Avenue,Providence,RI,2907,,(401)456-9341,12,City: Midsize,No,†,Yes,Yes,907,58,15.6,751,43
+440024000051,RI-07-07119,4400240,RI-07,KG,5,Gladstone Street School,Cranston,Providence County,50 Gladstone Street,Cranston,RI,2920,,(401)270-8080,21,Suburb: Large,No,†,Yes,Yes,497,37.8,13.1,361,55
+440024000052,RI-07-07128,4400240,RI-07,KG,5,Glen Hills School,Cranston,Providence County,50 Glen Hills Drive,Cranston,RI,2920,,(401)270-8005,21,Suburb: Large,No,†,–,–,257,19.3,13.3,55,9
+440120000334,RI-39-39119,4401200,RI-39,PK,5,Globe Park School,Woonsocket,Providence County,192 Avenue A,Woonsocket,RI,2895,,(401)767-4830,21,Suburb: Large,No,†,Yes,Yes,503,32.7,15.4,364,41
+440090000175,RI-28-28182,4400900,RI-28,6,8,Governor Christopher DelSesto,Providence,Providence County,152 Springfield Street,Providence,RI,2909,,(401)278-0557,12,City: Midsize,No,†,Yes,Yes,902,62.4,14.5,771,52
+440054000127,RI-16-16110,4400540,RI-16,PK,PK,Graniteville School,Johnston,Providence County,6 Collins Avenue,Johnston,RI,2919,,(401)231-8790,21,Suburb: Large,No,†,–,–,105,8.6,12.2,28,6
+440114000402,RI-38-38109,4401140,RI-38,KG,4,Greenbush Elementary School,West Warwick,Kent County,127 Greenbush Road,West Warwick,RI,2893,,(401)822-8454,21,Suburb: Large,No,†,Yes,No,477,31.5,15.1,157,37
+440111000291,RI-35-35114,4401110,RI-35,KG,5,Greenwood School,Warwick,Kent County,93 Sharon Street,Warwick,RI,2886,,(401)734-3290,13,City: Small,No,†,–,–,274,16.9,16.2,45,4
+440078000176,RI-24-24110,4400780,RI-24,PK,5,Greystone School,North Providence,Providence County,100 Morgan Avenue,North Providence,RI,2911,,(401)233-1130,21,Suburb: Large,No,†,Yes,Yes,315,20.7,15.2,102,13
+440006500012,RI-96-96104,4400065,RI-96,KG,5,Guiteras School,Bristol Warren,Bristol County,35 Washington Street,Bristol,RI,2809,,(401)254-5932,21,Suburb: Large,No,†,–,–,253,16.8,15.1,47,9
+440075000167,RI-23-23111,4400750,RI-23,KG,5,Hamilton School,North Kingstown,Washington County,25 Salisbury Avenue,North Kingstown,RI,2852,,(401)268-6520,21,Suburb: Large,No,†,–,–,316,23.77,13.3,36,6
+440003000003,RI-01-01105,4400030,RI-01,4,5,Hampden Meadows School,Barrington,Bristol County,297 New Meadow Road,Barrington,RI,2806,,(401)247-3166,21,Suburb: Large,No,†,Yes,No,499,32.17,15.5,10,6
+440120000336,RI-39-39101,4401200,RI-39,KG,5,Harris School,Woonsocket,Providence County,60 High School Street,Woonsocket,RI,2895,,(401)767-4856,21,Suburb: Large,No,†,Yes,Yes,441,25,17.6,337,31
+440090000216,RI-28-28161,4400900,RI-28,KG,5,Harry Kizirian Elementary,Providence,Providence County,60 Camden Avenue,Providence,RI,2908,,(401)456-9369,12,City: Midsize,No,†,Yes,Yes,574,30.9,18.6,488,16
+440084000195,RI-26-26119,4400840,RI-26,KG,5,Henry J. Winters School,Pawtucket,Providence County,481 Broadway,Pawtucket,RI,2860,,(401)729-6272,21,Suburb: Large,No,†,Yes,Yes,402,28.41,14.1,329,35
+440003100524,RI-48-48601,4400031,RI-48,PK,6,Highlander Elementary Charter,Highlander,Providence County,42 Lexington Avenue,Providence,RI,2907,,(401)277-2600,12,City: Midsize,Yes,†,Yes,Yes,273,25.37,10.8,180,17
+440003100521,RI-48-48602,4400031,RI-48,7,12,Highlander Secondary Charter S,Highlander,Bristol County,360 Market Street,Warren,RI,2885,,(401)247-3585,41,Rural: Fringe,Yes,†,Yes,Yes,315,25,12.6,203,20
+440111000293,RI-35-35128,4401110,RI-35,KG,5,Holliman School,Warwick,Kent County,70 Deborah Road,Warwick,RI,2888,,(401)734-3170,13,City: Small,No,†,–,–,309,19.1,16.2,79,22
+440090000224,RI-28-28149,4400900,RI-28,9,12,Hope High School,Providence,Providence County,324 Hope Street,Providence,RI,2906,,(401)456-9161,12,City: Midsize,No,†,Yes,Yes,999,68,14.7,785,76
+440024000504,RI-07-07137,4400240,RI-07,6,8,Hope Highlands Middle School,Cranston,Providence County,300 Hope Road,Cranston,RI,2921,,(401)270-8148,21,Suburb: Large,No,†,–,–,379,33.2,11.4,24,13
+440096000253,RI-30-30102,4400960,RI-30,KG,5,Hope School,Scituate,Providence County,391 North Road,Hope,RI,2831,,(401)821-3651,21,Suburb: Large,No,†,Yes,No,174,13.81,12.6,29,6
+440015000349,RI-98-98107,4400150,RI-98,KG,4,Hope Valley Elementary School,Chariho,Washington County,15 Thelma Drive,Hope Valley,RI,2832,,(401)539-2321,42,Rural: Distant,No,†,Yes,No,283,17.2,16.5,63,6
+440021000035,RI-06-06112,4400210,RI-06,KG,5,Hopkins Hill School,Coventry,Kent County,95 Johnson Boulevard,Coventry,RI,2816,,(401)822-9477,21,Suburb: Large,No,†,Yes,Yes,371,25.15,14.8,137,24
+440087000204,RI-27-27104,4400870,RI-27,KG,4,Howard Hathaway School,Portsmouth,Newport County,53 Tallman Avenue,Portsmouth,RI,2871,,(401)683-0500,21,Suburb: Large,No,†,Yes,No,443,27.1,16.3,54,19
+440111000294,RI-35-35136,4401110,RI-35,KG,5,Hoxsie School,Warwick,Kent County,55 Glenwood Drive,Warwick,RI,2889,,(401)734-3555,13,City: Small,No,†,Yes,No,306,20.6,14.9,104,11
+440024000053,RI-07-07115,4400240,RI-07,6,8,Hugh B. Bain Middle School,Cranston,Providence County,135 Gansett Avenue,Cranston,RI,2910,,(401)270-8010,21,Suburb: Large,No,†,Yes,Yes,612,55,11.1,396,75
+440006500278,RI-96-96113,4400065,RI-96,PK,5,Hugh Cole School,Bristol Warren,Bristol County,50 Asylum Road,Warren,RI,2885,,(401)245-1460,21,Suburb: Large,No,†,Yes,Yes,613,40.6,15.1,189,45
+440003400226,RI-53-26601,4400034,RI-53,KG,5,International Charter School,International Charter,Providence County,334 Pleasant Street,Pawtucket,RI,2860,,(401)721-0824,21,Suburb: Large,Yes,†,Yes,Yes,370,16,23.1,138,30
+440084000466,RI-26-26109,4400840,RI-26,9,12,Jacqueline M. Walsh School,Pawtucket,Providence County,350 Divison Street,Pawtucket,RI,2860,,(401)721-2148,21,Suburb: Large,No,†,Yes,Yes,216,14.5,14.9,75,30
+440030000089,RI-09-09102,4400300,RI-09,3,5,James H. Eldredge School,East Greenwich,Kent County,101 First Avenue,East Greenwich,RI,2818,,(401)886-3246,21,Suburb: Large,No,†,–,–,307,20.38,15.1,21,0
+440078000177,RI-24-24107,4400780,RI-24,KG,5,James L. McGuire School,North Providence,Providence County,55 Central Avenue,North Providence,RI,2911,,(401)233-1135,21,Suburb: Large,No,†,Yes,No,194,20.7,9.4,58,5
+440033000532,RI-10-10106,4400330,RI-10,PK,PK,James R. D. Oldham School,East Providence,†,60 Bart Drive,Riverside,RI,2915,,(401)270-2321,†,N,No,†,†,†,†,†,†,†,†
+440051000123,RI-15-15101,4400510,RI-15,5,8,Jamestown School-Lawn,Jamestown,Newport County,55 Lawn Avenue,Jamestown,RI,2835,,(401)423-7010,21,Suburb: Large,No,†,Yes,No,229,20,11.5,18,0
+440051000404,RI-15-15102,4400510,RI-15,PK,4,Jamestown School-Melrose,Jamestown,Newport County,76 Melrose Avenue,Jamestown,RI,2835,,(401)423-7020,21,Suburb: Large,No,†,Yes,No,273,23.3,11.7,22,0
+440114000313,RI-38-38107,4401140,RI-38,5,8,John F. Deering Middle,West Warwick,Kent County,2 Webster Knight Drive,West Warwick,RI,2893,,(401)822-8445,21,Suburb: Large,No,†,Yes,Yes,1097,90,12.2,475,91
+440114000315,RI-38-38104,4401140,RI-38,KG,4,John F. Horgan School,West Warwick,Kent County,124 Providence Street,West Warwick,RI,2893,,(401)822-8449,21,Suburb: Large,No,†,Yes,Yes,535,35.2,15.2,297,49
+440027000077,RI-08-08110,4400270,RI-08,KG,5,John J. McLaughlin Cumberland,Cumberland,Providence County,205 Manville Hill Road,Cumberland,RI,2864,,(401)658-1660,21,Suburb: Large,No,†,–,–,373,28.39,13.1,52,12
+440054000128,RI-16-16112,4400540,RI-16,9,12,Johnston Senior High,Johnston,Providence County,345 Cherry Hill Road,Johnston,RI,2919,,(401)233-1920,21,Suburb: Large,No,†,Yes,Yes,867,75.44,11.5,309,91
+440078000182,RI-24-24108,4400780,RI-24,KG,5,Joseph A. Whelan School,North Providence,Providence County,1440 Mineral Spring Avenue,North Providence,RI,2904,,(401)233-1180,21,Suburb: Large,No,†,Yes,No,256,16.7,15.3,57,15
+440063000471,RI-19-19117,4400630,RI-19,4,4,Joseph Gaudet Academy,Middletown,Newport County,1113 Aquidneck Ave.,Middletown,RI,2842,,(401)846-6395,21,Suburb: Large,No,†,Yes,No,184,10.9,16.9,40,10
+440063000144,RI-19-19114,4400630,RI-19,5,8,Joseph H. Gaudet School,Middletown,Newport County,1113 Aquidneck Avenue,Middletown,RI,2842,,(401)846-6395,21,Suburb: Large,No,†,Yes,No,668,51.4,13,163,48
+440084000197,RI-26-26103,4400840,RI-26,6,8,Joseph Jenks Middle School,Pawtucket,Providence County,350 Division Street,Pawtucket,RI,2860,,(401)729-6520,21,Suburb: Large,No,†,Yes,Yes,666,46.06,14.5,483,66
+440027000078,RI-08-08115,4400270,RI-08,6,8,Joseph L. McCourt MS,Cumberland,Providence County,45 Highland Avenue,Cumberland,RI,2864,,(401)725-2092,21,Suburb: Large,No,†,Yes,No,466,37.8,12.3,124,30
+440033000099,RI-10-10113,4400330,RI-10,KG,5,Kent Heights School,East Providence,Providence County,2680 Pawtucket Avenue,East Providence,RI,2914,,(401)435-7824,21,Suburb: Large,No,†,Yes,Yes,267,19.5,13.7,141,12
+440120000331,RI-39-39128,4401200,RI-39,KG,5,Kevin K. Coleman School,Woonsocket,Providence County,96 Second Avenue,Woonsocket,RI,2895,,(401)767-4859,21,Suburb: Large,No,†,Yes,Yes,288,17.89,16.1,246,15
+440006500282,RI-96-96112,4400065,RI-96,6,8,Kickemuit Middle School,Bristol Warren,Bristol County,525 Child Street,Warren,RI,2885,,(401)245-2010,21,Suburb: Large,No,†,Yes,No,762,57,13.4,201,51
+440003300225,RI-52-32601,4400033,RI-52,KG,5,Kingston Hill Academy,Kingston Hill Academy,Washington County,850 Stony Fort Road,Saunderstown,RI,2874,,(401)783-8282,41,Rural: Fringe,Yes,†,Yes,No,189,16.72,11.3,26,4
+440120000330,RI-39-39120,4401200,RI-39,KG,5,Leo A. Savoie School,Woonsocket,Providence County,990 Mendon Road,Woonsocket,RI,2895,,(401)767-4820,21,Suburb: Large,No,†,Yes,Yes,401,22.8,17.6,235,24
+440090000237,RI-28-28103,4400900,RI-28,KG,5,Leviton Dual Language School,Providence,Providence County,65 Greenwich Street,Providence,RI,2907,,(401)278-2872,12,City: Midsize,No,†,Yes,Yes,271,16.2,16.7,220,22
+440090000243,RI-28-28157,4400900,RI-28,KG,5,Lillian Feinstein El. School,Providence,Providence County,159 Sackett Street,Providence,RI,2907,,(401)456-9407,12,City: Midsize,No,†,Yes,Yes,439,25.1,17.5,374,22
+440057000134,RI-17-17109,4400570,RI-17,KG,5,Lincoln Central Elem.,Lincoln,Providence County,1081 Great Road,Lincoln,RI,2865,,(401)334-2800,21,Suburb: Large,No,†,–,–,371,24.45,15.2,27,4
+440057000062,RI-17-17117,4400570,RI-17,6,8,Lincoln Middle School,Lincoln,Providence County,152 Jenckes Hill Road,Lincoln,RI,2865,,(401)721-3400,21,Suburb: Large,No,†,–,–,743,53.8,13.8,171,41
+440057000135,RI-17-17110,4400570,RI-17,9,12,Lincoln Senior High School,Lincoln,Providence County,135 Old River Road,Lincoln,RI,2865,,(401)334-7500,21,Suburb: Large,No,†,–,–,918,68.8,13.3,177,44
+440111000296,RI-35-35123,4401110,RI-35,KG,5,Lippitt School,Warwick,Kent County,30 Almy Street,Warwick,RI,2886,,(401)734-3240,13,City: Small,No,†,Yes,Yes,250,21,11.9,82,19
+440057000137,RI-17-17106,4400570,RI-17,KG,5,Lonsdale Elementary,Lincoln,Providence County,270 River Road,Lincoln,RI,2865,,(401)725-4200,21,Suburb: Large,No,†,Yes,No,283,19.05,14.9,65,11
+440084000198,RI-26-26107,4400840,RI-26,6,8,Lyman B. Goff Middle School,Pawtucket,Providence County,974 Newport Avenue,Pawtucket,RI,2861,,(401)729-6500,21,Suburb: Large,No,†,Yes,Yes,775,50.06,15.5,432,86
+440114000514,RI-38-38105,4401140,RI-38,PK,PK,Maisie E. Quinn School,West Warwick,Kent County,1 Brown Street,West Warwick,RI,2893,,(401)822-8456,21,Suburb: Large,No,†,–,–,60,6,10,23,1
+440090000230,RI-28-28163,4400900,RI-28,KG,5,Martin Luther King El. School,Providence,Providence County,35 Camp Street,Providence,RI,2906,,(401)456-9398,12,City: Midsize,No,†,Yes,Yes,501,30.8,16.3,379,26
+440090000231,RI-28-28160,4400900,RI-28,KG,5,Mary E. Fogarty El. School,Providence,Providence County,199 Oxford Street,Providence,RI,2905,,(401)456-9381,12,City: Midsize,No,†,Yes,Yes,455,27.1,16.8,407,12
+440102000263,RI-32-32113,4401020,RI-32,KG,4,Matunuck School,South Kingstown,Washington County,380 Matunuck Beach Road,Wakefield,RI,2879,,(401)360-1234,41,Rural: Fringe,No,†,–,–,181,14.9,12.1,12,0
+440030000090,RI-09-09107,4400300,RI-09,PK,2,Meadowbrook Farms School,East Greenwich,Kent County,2 Chestnut Drive,East Greenwich,RI,2818,,(401)398-1602,21,Suburb: Large,No,†,Yes,No,313,21.67,14.4,21,0
+440087000206,RI-27-27111,4400870,RI-27,PK,4,Melville School,Portsmouth,Newport County,1351 West Main Road,Portsmouth,RI,2871,,(401)683-1650,21,Suburb: Large,No,†,Yes,No,333,26.8,12.4,38,16
+440036000111,RI-97-97103,4400360,RI-97,2,6,Metcalf School,Exeter-West Greenwich,Washington County,30 Nooseneck Hill Road,Exeter,RI,2822,,(401)397-3375,41,Rural: Fringe,No,†,Yes,No,582,39.55,14.7,78,22
+440000300121,RI-60-28703,4400003,RI-60,9,12,Metropolitan Career Tech Ctr,MET Career and Tech,Providence County,325 Public Street,Providence,RI,2905,,(401)752-2600,12,City: Midsize,No,†,Yes,Yes,781,64,12.2,457,86
+440063000147,RI-19-19111,4400630,RI-19,9,12,Middletown High School,Middletown,Newport County,130 Valley Road,Middletown,RI,2842,,(401)846-7250,21,Suburb: Large,No,†,–,–,606,56,10.8,116,38
+440036000112,RI-97-97102,4400360,RI-97,PK,PK,Mildred E. Lineham School,Exeter-West Greenwich,Kent County,859 Nooseneck Hill Road,West Greenwich,RI,2817,,(401)397-3771,41,Rural: Fringe,No,†,–,–,64,3.8,16.8,13,1
+440090000232,RI-28-28150,4400900,RI-28,9,12,Mount Pleasant High,Providence,Providence County,434 Mt. Pleasant Avenue,Providence,RI,2908,,(401)456-9181,12,City: Midsize,No,†,Yes,Yes,921,72.2,12.8,736,69
+440006500009,RI-96-96107,4400065,RI-96,9,12,Mt. Hope High School,Bristol Warren,Bristol County,199 Chestnut Street,Bristol,RI,2809,,(401)254-5980,21,Suburb: Large,No,†,Yes,No,944,71.88,13.1,198,56
+440033000389,RI-10-10125,4400330,RI-10,KG,5,Myron J. Francis Elementary,East Providence,Providence County,64 Bourne Avenue,Rumford,RI,2916,,(401)435-7829,21,Suburb: Large,No,†,–,–,412,30.2,13.6,126,21
+440066000150,RI-20-20102,4400660,RI-20,PK,4,Narragansett Elementary,Narragansett,Washington County,55 Mumford Road,Narragansett,RI,2882,,(401)792-9420,21,Suburb: Large,No,†,Yes,No,430,27.6,15.6,96,16
+440066000151,RI-20-20104,4400660,RI-20,9,12,Narragansett High School,Narragansett,Washington County,245 South Pier Road,Narragansett,RI,2882,,(401)792-9400,21,Suburb: Large,No,†,Yes,No,448,35.6,12.6,55,18
+440066000396,RI-20-20103,4400660,RI-20,5,8,Narragansett Pier School,Narragansett,Washington County,235 South Pier Road,Narragansett,RI,2882,,(401)792-9430,21,Suburb: Large,No,†,Yes,No,397,26.7,14.9,68,18
+440090000474,RI-28-28143,4400900,RI-28,6,8,Nathan Bishop Middle,Providence,Providence County,101 Sessions Street,Providence,RI,2906,,(401)456-9344,12,City: Midsize,No,†,Yes,Yes,689,52.8,13,472,37
+440090000234,RI-28-28145,4400900,RI-28,6,8,Nathanael Greene Middle,Providence,Providence County,721 Chalkstone Avenue,Providence,RI,2908,,(401)456-9347,12,City: Midsize,No,†,Yes,Yes,976,59.1,16.5,740,105
+440084000199,RI-26-26111,4400840,RI-26,PK,5,Nathanael Greene School,Pawtucket,Providence County,285 Smithfield Ave Pawtucket RI 02860,Pawtucket,RI,2861,,(401)729-6260,21,Suburb: Large,No,†,Yes,Yes,439,31.36,14,285,36
+440003000004,RI-01-01104,4400030,RI-01,KG,3,Nayatt School,Barrington,Bristol County,400 Nayatt Road,Barrington,RI,2806,,(401)247-3175,21,Suburb: Large,No,†,–,–,327,20.58,15.9,13,4
+440024000229,RI-07-07135,4400240,RI-07,9,12,NEL/CPS Construction Career,Cranston,Providence County,4 Sharpe Drive,Cranston,RI,2920,,(401)270-8692,21,Suburb: Large,Yes,†,Yes,Yes,175,15.6,11.2,107,19
+440072000460,RI-21-21117,4400720,RI-21,9,12,Newport Area Career Tech Ctr,Newport,Newport County,15 Wickham Rd,Newport,RI,2840,,(401)847-2100,21,Suburb: Large,No,†,–,–,–,4,†,–,–
+440054000129,RI-16-16111,4400540,RI-16,6,8,Nicholas A. Ferri Middle,Johnston,Providence County,10 Memorial Avenue,Johnston,RI,2919,,(401)233-1930,21,Suburb: Large,No,†,Yes,Yes,792,51,15.5,299,69
+440027000082,RI-08-08116,4400270,RI-08,6,8,North Cumberland Middle,Cumberland,Providence County,400 Nate Whipple Highway,Cumberland,RI,2864,,(401)333-6306,41,Rural: Fringe,No,†,–,–,623,45.8,13.6,36,8
+440075000168,RI-23-23108,4400750,RI-23,9,12,North Kingstown Sr. High,North Kingstown,Washington County,150 Fairway Drive,North Kingstown,RI,2852,,(401)268-6236,21,Suburb: Large,No,†,Yes,No,1445,102.3,14.1,191,28
+440078000180,RI-24-24105,4400780,RI-24,9,12,North Providence High,North Providence,Providence County,1828 Mineral Spring Avenue,North Providence,RI,2904,,(401)233-1150,21,Suburb: Large,No,†,Yes,No,1094,88.2,12.4,358,57
+440096000254,RI-30-30106,4400960,RI-30,KG,5,North Scituate School,Scituate,Providence County,46 Institute Lane,North Scituate,RI,2857,,(401)647-4110,21,Suburb: Large,No,†,–,–,210,13.9,15.1,24,1
+440081000186,RI-25-25108,4400810,RI-25,9,12,North Smitfield HS,North Smithfield,Providence County,412 Greenville Road,North Smithfield,RI,2896,,(401)766-2500,21,Suburb: Large,No,–,–,–,503,43.2,11.6,34,13
+440081000399,RI-25-25110,4400810,RI-25,PK,4,North Smithfield Elementary,North Smithfield,Providence County,2214 Providence Pike,North Smithfield,RI,2896,,(401)765-2260,41,Rural: Fringe,No,†,Yes,No,483,32.58,14.8,75,16
+440081000469,RI-25-25109,4400810,RI-25,5,8,North Smithfield MS,North Smithfield,Providence County,1850 Providence Pike,North Smithfield,RI,2896,,(401)597-6100,21,Suburb: Large,No,†,Yes,No,400,32.4,12.3,53,24
+440057000138,RI-17-17113,4400570,RI-17,PK,5,Northern Lincoln Elem.,Lincoln,Providence County,315 New River Road,Manville,RI,2838,,(401)769-0261,21,Suburb: Large,No,†,Yes,Yes,516,33.85,15.2,180,43
+440111000298,RI-35-35101,4401110,RI-35,KG,5,Norwood School,Warwick,Kent County,266 Norwood Avenue,Warwick,RI,2888,,(401)734-3525,13,City: Small,No,†,Yes,Yes,253,22.6,11.2,73,10
+440024000059,RI-07-07103,4400240,RI-07,KG,5,Oak Lawn School,Cranston,Providence County,36 Stoneham Street,Cranston,RI,2920,,(401)270-8004,21,Suburb: Large,No,†,–,–,222,14.9,14.9,20,4
+440111000299,RI-35-35104,4401110,RI-35,PK,5,Oakland Beach School,Warwick,Kent County,383 Oakland Beach Avenue,Warwick,RI,2889,,(401)734-3420,13,City: Small,No,†,Yes,Yes,382,27.9,13.7,154,23
+440099000258,RI-31-31104,4400990,RI-31,KG,5,Old County Road School,Smithfield,Providence County,200 Old County Road,Smithfield,RI,2917,,(401)231-6613,21,Suburb: Large,No,†,Yes,No,231,20.15,11.5,57,14
+440024000277,RI-07-07136,4400240,RI-07,KG,5,Orchard Farms El. School,Cranston,Providence County,1555 Scituate Avenue,Cranston,RI,2921,,(401)270-8801,21,Suburb: Large,No,†,–,–,455,30.7,14.8,22,5
+440033000103,RI-10-10124,4400330,RI-10,KG,5,Orlo Avenue School,East Providence,Providence County,25 Orlo Avenue,East Providence,RI,2914,,(401)433-7836,21,Suburb: Large,No,†,Yes,Yes,264,20,13.2,141,22
+440111000300,RI-35-35132,4401110,RI-35,KG,5,Park School,Warwick,Kent County,40 Asylum Road,Warwick,RI,2886,,(401)734-3690,13,City: Small,No,†,Yes,No,265,22,12,71,9
+440024000060,RI-07-07123,4400240,RI-07,6,8,Park View Middle School,Cranston,Providence County,25 Park View Boulevard,Cranston,RI,2910,,(401)270-8090,21,Suburb: Large,No,†,Yes,No,690,57.5,12,252,56
+440003200520,RI-51-51601,4400032,RI-51,KG,5,Paul Cuffee Lower School,Paul Cuffee Charter Sch,Providence County,459 Promenade Street,Providence,RI,2908,,(401)453-2626,12,City: Midsize,Yes,†,Yes,Yes,361,30.43,11.9,225,46
+440003200525,RI-51-51602,4400032,RI-51,6,8,Paul Cuffee Middle School,Paul Cuffee Charter Sch,Providence County,30 Barton Street,Providence,RI,2909,,(401)453-2711,12,City: Midsize,Yes,†,Yes,Yes,185,16.4,11.3,113,26
+440003200526,RI-51-51603,4400032,RI-51,9,12,Paul Cuffee Upper School,Paul Cuffee Charter Sch,Providence County,544 Elmwood Avenue,Providence,RI,2907,,(401)781-2727,12,City: Midsize,Yes,†,Yes,Yes,257,24,10.7,169,43
+440102000264,RI-32-32107,4401020,RI-32,PK,4,Peace Dale School,South Kingstown,Washington County,109 Kersey Road,Peace Dale,RI,2879,,(401)360-1600,21,Suburb: Large,No,†,Yes,No,427,29.26,14.6,77,6
+440111000301,RI-35-35134,4401110,RI-35,9,12,Pilgrim High School,Warwick,Kent County,111 Pilgrim Parkway,Warwick,RI,2888,,(401)734-3250,13,City: Small,No,†,Yes,No,1379,124.7,11.1,326,53
+440090000236,RI-28-28165,4400900,RI-28,PK,5,Pleasant View School,Providence,Providence County,50 Obediah Brown Road,Providence,RI,2909,,(401)456-9325,12,City: Midsize,No,†,Yes,Yes,429,35.5,12.1,292,54
+440105000273,RI-33-33107,4401050,RI-33,PK,4,Pocasset School,Tiverton,Newport County,242 Main Road,Tiverton,RI,2878,,(401)624-6654,21,Suburb: Large,No,†,Yes,No,253,16.83,15,68,12
+440042000116,RI-99-99102,4400420,RI-99,9,12,Ponaganset High School,Foster-Glocester,Providence County,137 Anan Wade Road,North Scituate,RI,2857,,(401)710-7500,41,Rural: Fringe,No,†,Yes,No,801,64.3,12.5,101,18
+440042000117,RI-99-99101,4400420,RI-99,6,8,Ponaganset Middle School,Foster-Glocester,Providence County,7 Rustic Hill Road,North Scituate,RI,2857,,(401)710-7500,41,Rural: Fringe,No,†,Yes,No,501,39.4,12.7,58,12
+440087000207,RI-27-27106,4400870,RI-27,9,12,Portsmouth High School,Portsmouth,Newport County,120 Education Lane,Portsmouth,RI,2871,,(401)683-2124,21,Suburb: Large,No,†,–,–,919,71.4,12.9,77,12
+440087000208,RI-27-27112,4400870,RI-27,5,8,Portsmouth Middle School,Portsmouth,Newport County,125 Jepson Lane,Portsmouth,RI,2871,,(401)849-3700,21,Suburb: Large,No,†,–,–,718,53.8,13.3,90,21
+440120000531,RI-39-39133,4401200,RI-39,PK,5,Pothier-Citizens Elem Campus,Woonsocket,†,250 Winthrop Street,Woonsocket,RI,2895,,(401)767-4850,†,N,No,†,†,†,†,†,†,†,†
+440084000196,RI-26-26110,4400840,RI-26,KG,5,Potter-Burns School,Pawtucket,Providence County,973 Newport Avenue,Pawtucket,RI,2861,,(401)729-6250,21,Suburb: Large,No,†,Yes,Yes,466,30.66,15.2,213,45
+440003000006,RI-01-01103,4400030,RI-01,PK,3,Primrose Hill School,Barrington,Bristol County,60 Middle Highway,Barrington,RI,2806,,(401)247-3170,21,Suburb: Large,No,†,Yes,No,312,19.85,15.7,15,2
+440090000467,RI-28-28193,4400900,RI-28,9,12,Providence Career Technical,Providence,Providence County,41 Fricker street,Providence,RI,2903,,(401)456-9136,12,City: Midsize,No,†,Yes,Yes,662,68,9.7,505,61
+440000100380,RI-50-28702,4400001,RI-50,PK,12,R.I. School for the Deaf,R.I. Sch for the Deaf,Providence County,One Corliss Park,Providence,RI,2908,,(401)222-3525,12,City: Midsize,No,†,Yes,Yes,77,19.78,3.9,48,3
+440012000529,RI-04-04112,4400120,RI-04,PK,6,Raices Dual Language Academy,Central Falls,†,135 Hunt street,Central Falls,RI,2863,,(401)727-7733,†,N,No,†,†,†,†,†,†,†,†
+440105000276,RI-33-33105,4401050,RI-33,PK,4,Ranger School,Tiverton,Newport County,278 North Brayton Road,Tiverton,RI,2878,,(401)624-8467,41,Rural: Fringe,No,†,–,–,225,17.83,12.6,46,12
+440099000257,RI-31-31108,4400990,RI-31,KG,5,Raymond LaPerche School,Smithfield,Providence County,11 Limerock Road,Smithfield,RI,2917,,(401)231-6652,21,Suburb: Large,No,†,–,–,261,23,11.3,20,4
+440090000240,RI-28-28142,4400900,RI-28,KG,5,Reservoir Avenue School,Providence,Providence County,156 Reservoir Avenue,Providence,RI,2907,,(401)456-9406,12,City: Midsize,No,†,Yes,Yes,285,16.6,17.2,217,24
+440015000251,RI-98-98105,4400150,RI-98,KG,4,Richmond Elementary School,Chariho,Washington County,190 Kingstown Road,Wyoming,RI,2898,,(401)539-2441,41,Rural: Fringe,No,†,–,–,392,30.6,12.8,57,8
+440001900479,RI-63-28607,4400019,RI-63,9,12,RINI Middle College,Rhode Island Nurses Institute Middle College,Providence County,150 washington Street,Providence,RI,2903,,(401)680-4900,12,City: Midsize,Yes,†,Yes,Yes,272,21,13,156,13
+440002900494,RI-79-39602,4400029,RI-79,KG,4,RISE Prep Mayoral Academy,RISE Prep Mayoral Academy,Providence County,30 Cumberland Street,Woonsocket,RI,2895,,(401)765-5127,21,Suburb: Large,Yes,†,Yes,Yes,220,17.5,12.6,92,24
+440033000105,RI-10-10122,4400330,RI-10,6,8,Riverside Middle School,East Providence,Providence County,179 Forbes Street,Riverside,RI,2915,,(401)433-6230,21,Suburb: Large,No,†,Yes,Yes,540,46,11.7,216,43
+440090000241,RI-28-28138,4400900,RI-28,PK,5,Robert F. Kennedy El. School,Providence,Providence County,195 Nelson Street,Providence,RI,2908,,(401)456-9403,12,City: Midsize,No,†,Yes,Yes,475,25.7,18.5,313,47
+440090000071,RI-28-28156,4400900,RI-28,KG,5,Robert L. Bailey IV,Providence,Providence County,65 Gordon Avenue,Providence,RI,2905,,(401)456-1735,12,City: Midsize,No,†,Yes,Yes,386,29.8,13,320,32
+440111000304,RI-35-35121,4401110,RI-35,KG,5,Robertson School,Warwick,Kent County,70 Nausauket Road,Warwick,RI,2886,,(401)734-3470,13,City: Small,No,†,–,–,291,16.4,17.7,65,27
+440006500016,RI-96-96106,4400065,RI-96,KG,5,Rockwell School,Bristol Warren,Bristol County,1225 Hope Street,Bristol,RI,2809,,(401)254-5930,21,Suburb: Large,No,†,–,–,272,16,17,27,16
+440090000242,RI-28-28147,4400900,RI-28,6,8,Roger Williams Middle,Providence,Providence County,278 Thurbers Avenue,Providence,RI,2905,,(401)456-9355,12,City: Midsize,No,†,Yes,Yes,789,61,12.9,671,44
+440072000159,RI-21-21111,4400720,RI-21,9,12,Rogers High School,Newport,Newport County,15 Wickham Road,Newport,RI,2840,,(401)847-6235,21,Suburb: Large,No,†,–,–,644,51.75,12.4,348,26
+440084000200,RI-26-26106,4400840,RI-26,6,8,Samuel Slater Middle School,Pawtucket,Providence County,281 Mineral Spring Avenue,Pawtucket,RI,2860,,(401)729-6480,21,Suburb: Large,No,†,Yes,Yes,806,51.06,15.8,636,57
+440054000130,RI-16-16108,4400540,RI-16,KG,5,Sarah Dyer Barnes School,Johnston,Providence County,24 Barnes Avenue,Johnston,RI,2919,,(401)231-8710,21,Suburb: Large,No,†,Yes,Yes,288,25.34,11.4,88,25
+440057000139,RI-17-17112,4400570,RI-17,KG,5,Saylesville Elementary,Lincoln,Providence County,50 Woodland Street,Lincoln,RI,2865,,(401)723-5240,21,Suburb: Large,No,†,Yes,No,272,20.95,13,65,13
+440096000255,RI-30-30104,4400960,RI-30,9,12,Scituate High School,Scituate,Providence County,94 Trimtown Road,North Scituate,RI,2857,,(401)647-4120,41,Rural: Fringe,No,†,Yes,No,383,38.1,10.1,74,16
+440096000036,RI-30-30105,4400960,RI-30,6,8,Scituate Middle School,Scituate,Providence County,94 Trimtown Road,North Scituate,RI,2857,,(401)647-4123,41,Rural: Fringe,No,†,Yes,No,322,28.25,11.4,48,6
+440111000305,RI-35-35135,4401110,RI-35,KG,5,Scott School,Warwick,Kent County,833 Centerville Road,Warwick,RI,2886,,(401)734-3585,13,City: Small,No,†,–,–,309,20.5,15.1,100,15
+440001400472,RI-46-04602,4400014,RI-46,4,8,Segue Inst for Learning,Segue Institute for Learning,Providence County,325 Cowden Street,Central Falls,RI,2863,,(401)721-0964,21,Suburb: Large,Yes,†,Yes,Yes,236,24,9.8,173,46
+440002400483,RI-42-28610,4400024,RI-42,9,12,Sheila Skip Nowell (Capital),Sheila Skip Nowell Leadership Academy,Providence County,133 Delaine Street,Providence,RI,2909,,(401)751-0405,12,City: Midsize,Yes,†,Yes,Yes,93,7,13.3,84,3
+440002400484,RI-42-04603,4400024,RI-42,11,12,Sheila Skip Nowell (Central),Sheila Skip Nowell Leadership Academy,Providence County,43 Hawes Street,Central Falls,RI,2863,,(401)751-0405,21,Suburb: Large,Yes,†,Yes,Yes,67,4,16.8,59,1
+440111000306,RI-35-35127,4401110,RI-35,KG,5,Sherman School,Warwick,Kent County,120 Killey Avenue,Warwick,RI,2889,,(401)734-3565,13,City: Small,No,†,–,–,314,20,15.7,83,15
+440033000106,RI-10-10123,4400330,RI-10,KG,5,Silver Spring School,East Providence,Providence County,120 Silver Spring Avenue,East Providence,RI,2914,,(401)435-7836,21,Suburb: Large,No,†,Yes,Yes,262,19,13.8,108,21
+440099000259,RI-31-31107,4400990,RI-31,9,12,Smithfield High School,Smithfield,Providence County,90 Pleasant View Avenue,Smithfield,RI,2917,,(401)949-2050,21,Suburb: Large,No,†,–,–,720,67.46,10.7,63,24
+440102000265,RI-32-32108,4401020,RI-32,9,12,South Kingstown High,South Kingstown,Washington County,215 Columbia Street,Wakefield,RI,2879,,(401)360-1000,21,Suburb: Large,No,†,–,–,940,76.8,12.2,141,14
+440002800490,RI-43-28611,4400028,RI-43,KG,5,SouthSide Elementary Charter,SouthSide Charter School,Providence County,135 Prairie Ave,Providence,RI,2905,,(401)270-9007,12,City: Midsize,Yes,†,Yes,Yes,118,9,13.1,91,6
+440003000005,RI-01-01109,4400030,RI-01,KG,3,Sowams Elementary School,Barrington,Bristol County,364 Sowams Road,Barrington,RI,2806,,(401)247-3180,21,Suburb: Large,No,†,–,–,250,15.75,15.9,8,1
+440117000120,RI-36-36111,4401170,RI-36,KG,4,Springbrook Elementary School,Westerly,Washington County,39 Springbrook Road,Westerly,RI,2891,,(401)348-2296,22,Suburb: Midsize,No,†,Yes,Yes,301,21.64,13.9,135,22
+440024000063,RI-07-07120,4400240,RI-07,PK,5,Stadium School,Cranston,Providence County,100 Crescent Avenue,Cranston,RI,2910,,(401)270-8188,21,Suburb: Large,No,†,Yes,Yes,264,21.4,12.3,146,28
+440117000362,RI-36-36106,4401170,RI-36,KG,4,State Street School,Westerly,Washington County,35 State Street,Westerly,RI,2891,,(401)348-2340,22,Suburb: Midsize,No,†,Yes,Yes,304,23.1,13.2,107,11
+440009000057,RI-03-03105,4400090,RI-03,2,5,Steere Farm Elementary School,Burrillville,Providence County,915 Steere Farm Road,Pascoag,RI,2859,,(401)568-1350,41,Rural: Fringe,No,†,–,–,302,20.8,14.5,70,25
+440078000181,RI-24-24106,4400780,RI-24,KG,5,Stephen Olney School,North Providence,Providence County,1378 Douglas Avenue,North Providence,RI,2904,,(401)233-1160,21,Suburb: Large,No,†,Yes,No,264,17.52,15.1,57,16
+440024000064,RI-07-07127,4400240,RI-07,PK,5,Stone Hill School,Cranston,Providence County,21 Village Avenue,Cranston,RI,2920,,(401)270-8022,21,Suburb: Large,No,†,–,–,281,21.3,13.2,68,18
+440075000170,RI-23-23114,4400750,RI-23,KG,5,Stony Lane El. School,North Kingstown,Washington County,825 Stony Lane,North Kingstown,RI,2852,,(401)268-6540,21,Suburb: Large,No,†,–,–,410,23.8,17.2,31,8
+440075000169,RI-23-23113,4400750,RI-23,KG,5,Suzanne M. Henseler Quidnesset,North Kingstown,Washington County,166 Mark Drive,North Kingstown,RI,2852,,(401)541-6360,21,Suburb: Large,No,†,Yes,Yes,269,23.1,11.6,170,8
+440003500245,RI-55-23601,4400035,RI-55,KG,8,The Compass School,The Compass School,Washington County,537 Old North Road,Kingston,RI,2881,,(401)788-8322,41,Rural: Fringe,Yes,†,Yes,No,177,13.1,13.5,12,0
+440001700477,RI-62-97601,4400017,RI-62,9,12,The Greene School,The Greene School,Kent County,94 John Potter Road,West Greenwich,RI,2817,,(401)385-3670,41,Rural: Fringe,Yes,†,Yes,Yes,202,12.2,16.6,71,7
+440002700489,RI-68-28613,4400027,RI-68,KG,5,The Hope Academy,The Hope Academy,Providence County,1000 Eddy Street,Providence,RI,2905,,(401)533-9192,12,City: Midsize,Yes,†,Yes,Yes,178,18.63,9.6,83,17
+440000600326,RI-59-04601,4400006,RI-59,KG,8,The Learning Community,Learning Community,Providence County,21 Lincoln Avenue,Central Falls,RI,2863,,(401)722-9998,21,Suburb: Large,Yes,†,Yes,Yes,571,45,12.7,353,117
+440072000500,RI-21-21113,4400720,RI-21,PK,PK,The Pell Annex @ John F. Kenne,Newport,Newport County,740 West Main Road,Middletown,RI,2842,,(401)619-3162,21,Suburb: Large,No,†,–,–,53,1,53,30,0
+440021000355,RI-06-06123,4400210,RI-06,†,†,The Regional Career and Tech,Coventry,Kent County,40 Reservoir Road,Coventry,RI,2816,,(401)822-9499,21,Suburb: Large,No,†,–,–,†,11.5,†,†,†
+440054000131,RI-16-16103,4400540,RI-16,1,5,Thornton School,Johnston,Providence County,4 School Street,Johnston,RI,2919,,(401)943-7369,21,Suburb: Large,No,†,Yes,Yes,346,29.7,11.6,180,35
+440090000528,RI-28-28197,4400900,RI-28,KG,6,Times2 Elementary School,Providence,†,50 Fillmore Street,Providence,RI,2908,,(401)272-5094,†,N,Yes,†,†,†,†,†,†,†,†
+440090000530,RI-28-28198,4400900,RI-28,7,12,Times2 Middle/High School,Providence,†,50 Fillmore Street,Providence,RI,2908,,(401)274-5094,†,N,Yes,†,†,†,†,†,†,†,†
+440021000365,RI-06-06116,4400210,RI-06,KG,5,Tiogue School,Coventry,Kent County,170 East Shore Drive,Coventry,RI,2816,,(401)822-9460,21,Suburb: Large,No,†,Yes,Yes,363,27.99,13,132,29
+440105000274,RI-33-33108,4401050,RI-33,9,12,Tiverton High School,Tiverton,Newport County,100 North Brayton Road,Tiverton,RI,2878,,(401)624-8494,41,Rural: Fringe,No,†,Yes,No,511,53.8,9.5,75,22
+440105000275,RI-33-33110,4401050,RI-33,5,8,Tiverton Middle School,Tiverton,Newport County,10 Quintal Drive,Tiverton,RI,2878,,(401)624-6668,41,Rural: Fringe,No,†,Yes,No,542,52.3,10.4,120,22
+440111000307,RI-35-35138,4401110,RI-35,9,12,Toll Gate High School,Warwick,Kent County,575 Centerville Road,Warwick,RI,2886,,(401)734-3300,13,City: Small,No,†,–,–,1217,98.1,12.4,292,54
+440001800478,RI-61-28606,4400018,RI-61,7,12,Trinity Academy Performing Art,Trinity Academy for the Performing Arts,Providence County,275 Westminster Street,Providence,RI,2903,,(401)432-7881,12,City: Midsize,Yes,†,Yes,Yes,215,16,13.4,157,24
+440000500271,RI-49-28167,4400005,RI-49,7,8,Urban Collaborative Program,Urban Collaborative,Providence County,75 Carpenter Street,Providence,RI,2903,,(401)272-0881,12,City: Midsize,No,†,Yes,Yes,135,9.2,14.7,104,4
+440090000221,RI-28-28151,4400900,RI-28,KG,5,Vartan Gregorian El. School,Providence,Providence County,455 Wickenden St.,Providence,RI,2903,,(401)456-9377,12,City: Midsize,No,†,Yes,Yes,351,25,14,177,17
+440090000013,RI-28-28130,4400900,RI-28,KG,5,Veazie Street School,Providence,Providence County,211 Veazie Street,Providence,RI,2904,,(401)453-8601,12,City: Midsize,No,†,Yes,Yes,529,31.9,16.6,443,22
+440012000385,RI-04-04106,4400120,RI-04,KG,4,Veterans Memorial Elementary,Central Falls,Providence County,150 Fuller Avenue,Central Falls,RI,2863,,(401)727-7740,21,Suburb: Large,No,†,Yes,Yes,486,33,14.7,470,0
+440002500487,RI-64-28608,4400025,RI-64,9,12,Village Green Virtual,Village Green Virtual,Providence County,135 Weybosset Street,Providence,RI,2903,,(401)831-2878,12,City: Midsize,Yes,†,Yes,Yes,225,19.8,11.4,193,0
+440099000260,RI-31-31109,4400990,RI-31,6,8,Vincent J. Gallagher Middle,Smithfield,Providence County,10 Indian Run Trail,Smithfield,RI,2917,,(401)949-2056,21,Suburb: Large,No,†,Yes,No,621,47.46,13.1,65,30
+440090000209,RI-28-28189,4400900,RI-28,9,12,W B Cooley & Acad Internationa,Providence,Providence County,182 Thurbers Avenue,Providence,RI,2905,,(401)456-1781,12,City: Midsize,No,†,Yes,Yes,416,42,9.9,335,32
+440024000068,RI-07-07116,4400240,RI-07,KG,5,W. R. Dutemple School,Cranston,Providence County,32 Garden Street,Cranston,RI,2910,,(401)270-8104,21,Suburb: Large,No,†,Yes,Yes,299,17.4,17.2,144,24
+440033000092,RI-10-10114,4400330,RI-10,KG,5,Waddington School,East Providence,Providence County,101 Legion Way,Riverside,RI,2915,,(401)433-6235,21,Suburb: Large,No,†,–,–,485,31.2,15.5,128,26
+440114000238,RI-38-38111,4401140,RI-38,PK,4,Wakefield Hills El. School,West Warwick,Kent County,505 Wakefield Street,West Warwick,RI,2893,,(401)822-8452,21,Suburb: Large,No,†,Yes,Yes,405,32.8,12.3,179,34
+440102000269,RI-32-32103,4401020,RI-32,KG,4,Wakefield School,South Kingstown,Washington County,101 High Street,Wakefield,RI,2879,,(401)360-1400,21,Suburb: Large,No,†,Yes,No,176,13.44,13.1,28,4
+440111000462,RI-35-35140,4401110,RI-35,9,12,Warwick Career and Tech Center,Warwick,Kent County,575 Centerville Road-Bldg. 5,Warwick,RI,2886,,(401)734-3150,13,City: Small,No,†,–,–,–,18,†,–,–
+440111000287,RI-35-35137,4401110,RI-35,PK,PK,Warwick Early Learning Center,Warwick,Kent County,325 Miantonomo Drive,Warwick,RI,2888,,(401)734-3490,13,City: Small,No,†,–,–,204,13,15.7,39,7
+440111000308,RI-35-35133,4401110,RI-35,KG,5,Warwick Neck School,Warwick,Kent County,150 Lennox Avenue (formerly 155 Rocky Pt Ave),Warwick,RI,2889,,(401)734-3480,13,City: Small,No,†,–,–,272,18.3,14.9,76,10
+440111000512,RI-35-35142,4401110,RI-35,6,8,Warwick Veterans Middle School,Warwick,Kent County,2401 West Shore Road,Warwick,RI,2889,,(401)734-3200,13,City: Small,No,†,–,–,1179,97.5,12.1,240,65
+440021000034,RI-06-06121,4400210,RI-06,PK,5,Washington Oak School,Coventry,Kent County,801 Read School House Road,Coventry,RI,2816,,(401)397-1976,41,Rural: Fringe,No,†,–,–,662,38.02,17.4,125,19
+440036000038,RI-97-97101,4400360,RI-97,KG,1,Wawaloam School,Exeter-West Greenwich,Washington County,100 Victory Highway,Exeter,RI,2822,,(401)295-8808,41,Rural: Fringe,No,†,–,–,228,19.89,11.5,36,7
+440090000247,RI-28-28127,4400900,RI-28,KG,5,Webster Avenue School,Providence,Providence County,191 Webster Avenue,Providence,RI,2909,,(401)456-9414,12,City: Midsize,No,†,Yes,Yes,307,21.3,14.4,246,22
+440090000491,RI-28-28194,4400900,RI-28,5,8,West Broadway Middle School,Providence,Providence County,29 Bainbridge Avenue,Providence,RI,2909,,(401)456-9102,12,City: Midsize,No,†,Yes,Yes,468,37.5,12.5,399,40
+440045000403,RI-13-13104,4400450,RI-13,PK,5,West Glocester Elementary,Glocester,Providence County,111 Reynolds Road/Rte 94,Chepachet,RI,2814,,(401)567-0350,41,Rural: Fringe,No,†,Yes,No,218,20.5,10.6,34,2
+440102000270,RI-32-32112,4401020,RI-32,PK,4,West Kingston School,South Kingstown,Washington County,3119 Ministerial Road,West Kingston,RI,2892,,(401)360-1130,41,Rural: Fringe,No,†,Yes,No,297,22.1,13.4,57,2
+440114000318,RI-38-38106,4401140,RI-38,9,12,West Warwick High School,West Warwick,Kent County,1 Webster Knight Drive,West Warwick,RI,2893,,(401)821-6596,21,Suburb: Large,No,†,Yes,Yes,962,75.1,12.8,320,90
+440117000325,RI-36-36104,4401170,RI-36,9,12,Westerly High School,Westerly,Washington County,23 Ward Avenue,Westerly,RI,2891,,(401)596-2109,22,Suburb: Midsize,No,†,Yes,No,806,79.33,10.2,198,48
+440117000499,RI-36-36113,4401170,RI-36,PK,PK,Westerly Inclusion Preschool P,Westerly,Washington County,23 Highland Avenue,Westerly,RI,2891,,(401)315-1538,22,Suburb: Midsize,No,†,–,–,109,7.55,14.4,25,0
+440117000319,RI-36-36103,4401170,RI-36,5,8,Westerly Middle School,Westerly,Washington County,10 Sandy Hill Road,Westerly,RI,2891,,(401)348-2750,22,Suburb: Midsize,No,†,Yes,No,836,70.33,11.9,249,68
+440021000041,RI-06-06109,4400210,RI-06,KG,5,Western Coventry School,Coventry,Kent County,4588 Flat River Road,Coventry,RI,2816,,(401)397-3355,41,Rural: Fringe,No,†,–,–,349,23.05,15.1,68,12
+440024000067,RI-07-07129,4400240,RI-07,6,8,Western Hills Middle School,Cranston,Providence County,400 Phenix Avenue,Cranston,RI,2920,,(401)270-8030,21,Suburb: Large,No,†,–,–,768,61.7,12.4,206,44
+440075000172,RI-23-23105,4400750,RI-23,6,8,Wickford Middle School,North Kingstown,Washington County,250 Tower Hill Road,North Kingstown,RI,2852,,(401)268-6470,21,Suburb: Large,No,†,–,–,376,27.7,13.6,56,2
+440060000140,RI-18-18101,4400600,RI-18,PK,8,Wilbur and McMahon Schools,Little Compton,Newport County,28 Commons,Little Compton,RI,2837,,(401)592-0363,41,Rural: Fringe,No,†,Yes,No,244,27.4,8.9,25,4
+440009000022,RI-03-03107,4400090,RI-03,2,5,William Callahan School,Burrillville,Providence County,75 Callahan School Street,Harrisville,RI,2830,,(401)568-1330,21,Suburb: Large,No,†,Yes,No,327,23.4,14,111,19
+440090000248,RI-28-28153,4400900,RI-28,KG,5,William D'Abate Elem. School,Providence,Providence County,60 Kossuth Street,Providence,RI,2909,,(401)456-9416,12,City: Midsize,No,†,Yes,Yes,400,18.6,21.5,325,30
+440084000202,RI-26-26105,4400840,RI-26,9,12,William E. Tolman High,Pawtucket,Providence County,150 Exchange Street,Pawtucket,RI,2860,,(401)729-6400,21,Suburb: Large,No,†,Yes,Yes,906,60.66,14.9,581,81
+440099000261,RI-31-31103,4400990,RI-31,KG,5,William Winsor School,Smithfield,Providence County,562 Putnam Pike,Greenville,RI,2828,,(401)949-2059,21,Suburb: Large,No,†,–,–,266,19.13,13.9,12,9
+440111000311,RI-35-35139,4401110,RI-35,6,8,Winman Middle School,Warwick,Kent County,575 Centerville Road,Warwick,RI,2886,,(401)734-3375,13,City: Small,No,†,–,–,776,64.5,12,148,41
+440054000132,RI-16-16109,4400540,RI-16,1,5,Winsor Hill School,Johnston,Providence County,100 Theresa Street,Johnston,RI,2919,,(401)831-4619,21,Suburb: Large,No,†,Yes,No,383,25.34,15.1,111,43
+440024000069,RI-07-07121,4400240,RI-07,KG,5,Woodridge School,Cranston,Providence County,401 Budlong Road,Cranston,RI,2920,,(401)270-8007,21,Suburb: Large,No,†,–,–,301,19.55,15.4,71,10
+440120000464,RI-39-39127,4401200,RI-39,9,12,Woonsocket Career an Tech Ctr.,Woonsocket,Providence County,400 Aylsworth Avenue,Woonsocket,RI,2895,,(401)767-4662,21,Suburb: Large,No,†,–,–,–,18,†,–,–
+440120000345,RI-39-39123,4401200,RI-39,9,12,Woonsocket High School,Woonsocket,Providence County,777 Cass Avenue,Woonsocket,RI,2895,,(401)767-4703,21,Suburb: Large,No,†,Yes,Yes,1614,100.2,16.1,1013,130
+440120000517,RI-39-39132,4401200,RI-39,6,8,Woonsocket Middle @ Villa Nova,Woonsocket,Providence County,240 Florence Dr.,Woonsocket,RI,2895,,(401)235-6125,21,Suburb: Large,No,†,Yes,Yes,691,54.75,12.6,521,58
+440120000516,RI-39-39131,4401200,RI-39,6,8,Woonsocket Middle at Hamlet,Woonsocket,Providence County,60 Florence Dr.,Woonsocket,RI,2895,,(401)235-6110,21,Suburb: Large,No,†,Yes,Yes,693,51,13.6,514,53
+440111000312,RI-35-35119,4401110,RI-35,KG,5,Wyman School,Warwick,Kent County,1 Columbia Avenue,Warwick,RI,2888,,(401)734-3180,13,City: Small,No,†,Yes,No,327,22.4,14.6,96,9
