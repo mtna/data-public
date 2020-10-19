@@ -40,6 +40,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/election-forecasts-2020/economic-index/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -84,6 +85,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/election-forecasts-2020/presidential-ev-probabilities-2020/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -128,6 +130,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/election-forecasts-2020/presidential-national-toplines-2020/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -171,6 +174,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/election-forecasts-2020/presidential-scenario-analysis-2020/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -214,6 +218,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/election-forecasts-2020/presidential-state-toplines-2020/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}

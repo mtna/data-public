@@ -38,6 +38,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/approval-polls/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -82,6 +83,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/approval-polls-adjusted//harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -126,6 +128,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/approval-toplines/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -169,6 +172,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/concern-polls-adjusted/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -212,6 +216,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/concern-polls/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
@@ -255,6 +260,7 @@ jobs:
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/concern-toplines/harvester.py
+       git pull github ${GITHUB_REF} --ff-only
        git add .
        git commit -m "adding data via github actions"
        git push github HEAD:${GITHUB_REF}
