@@ -19,7 +19,6 @@ if __name__ == "__main__":
     df = df.sort_values(by=['State School ID'])
 
 
-
     # ensure the 4 digit zip does not have decimals
     df['ZIP'] = df['ZIP'].astype(pd.Int32Dtype())
     df['ZIP'] = df['ZIP'].astype(str)

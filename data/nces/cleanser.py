@@ -71,7 +71,10 @@ if __name__ == "__main__":
 
     # ensure locale has no decimals
     df['locale'] = df['locale'].astype(pd.Int32Dtype())
+    df['grade_low'] = df['grade_low'].astype(str)
     df['grade_high'] = df['grade_high'].astype(str)
+    df['grade_low'] = df['grade_low'].str.replace('nan','')
+    df['grade_high'] = df['grade_high'].str.replace('nan','')
 
     # 0 pad any ids that do not match the NCES length
     df['school_id_nces'] = df['school_id_nces'].apply(lambda x: '{0:0>12}'.format(x))
