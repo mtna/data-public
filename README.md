@@ -2,7 +2,7 @@
 
 #### _WARNING: THIS PROJECT IS IN EARLY DEVELOPMENT STAGE. CONTENT OR CODE SHOULD ONLY BE USED FOR TESTING OR EVALUATION PURPOSES._
 
-This repository hosts data that is available through the Rich Data Services public server. Visit public.richdataserivces.com to learn more about accessing this data through our free API and other tools. 
+This repository hosts data that is available through the Rich Data Services public server. Visit public.richdataservices.com to learn more about accessing this data through our free API and other tools. 
 
 In the process of packaging the data for publication, we are commonly addressing various data quality issues surrounding the various data sources, such as:
 
