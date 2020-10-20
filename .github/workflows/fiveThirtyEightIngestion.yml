@@ -20,9 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
-    - uses: fregante/setup-git-token@v1
-      with:
-         token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v1
     - name: pull data via curl
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
@@ -65,9 +63,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
-    - uses: fregante/setup-git-token@v1
-      with:
-         token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v1
     - name: pull data via curl
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
@@ -110,9 +106,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
-    - uses: fregante/setup-git-token@v1
-      with:
-         token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v1
     - name: pull data via curl
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
@@ -154,9 +148,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
-    - uses: fregante/setup-git-token@v1
-      with:
-         token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v1
     - name: pull data via curl
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
@@ -198,9 +190,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
        #set up username and id 
-    - uses: fregante/setup-git-token@v1
-      with:
-         token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: fregante/setup-git-user@v1
     - name: pull data via curl
       run: |
        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
