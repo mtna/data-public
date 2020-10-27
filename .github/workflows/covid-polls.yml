@@ -37,7 +37,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-          pip install --upgrade --upgrade-strategy eager -r dev-requirements.txt -e .
+          pip install --upgrade --upgrade-strategy eager -r requirements.txt -e .
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/approval-polls/harvester.py
@@ -84,7 +84,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-          pip install --upgrade --upgrade-strategy eager -r dev-requirements.txt -e .
+          pip install --upgrade --upgrade-strategy eager -r requirements.txt -e .
     - name: transform
       run: |
        python data/fivethirtyeight/covid-19-polls/approval-polls-adjusted//harvester.py
